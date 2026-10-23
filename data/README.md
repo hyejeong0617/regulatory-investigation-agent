@@ -19,3 +19,7 @@ law, and referenced external acts may not be included.
 `benchmark_questions_v1.json` is the original supplied ten-question benchmark,
 including its original provenance field. No answer key or Gold Standard is included.
 Third-party documents retain their own applicable provenance and reuse terms.
+
+## Public reference privacy
+
+The public benchmark JSON has had a private workspace URL removed from its `source` metadata. The original ten question texts and stable benchmark identifier are unchanged. Historical frozen-manifest hashes describe the pre-redaction original JSON file, not the redacted public copy; original evaluation outputs remain preserved.
