@@ -20,3 +20,7 @@ the root README and v1 evaluation report describe the final evaluation outcome.
 The package metadata retains the original distribution name `regulatory-investigator`;
 the GitHub repository is named `regulatory-investigation-agent`. License selection
 is left to the repository owner; no permissive license was added automatically.
+
+## Public benchmark source metadata
+
+The public benchmark JSON source field no longer links to a private research workspace. Because this metadata-only change affects the JSON file's cryptographic hash, historical evaluation manifests retain their original pre-redaction hashes and must not be interpreted as the hash of the sanitized public file. This does not constitute a benchmark re-execution or change the ten questions. Historical Git commits can still contain earlier URLs.

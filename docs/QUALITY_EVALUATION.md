@@ -4,7 +4,7 @@
 
 This document evaluates the **regulatory-answer quality** of the independently Codex-built Agent v1 against the project's frozen Verified Reference. It is separate from the [frozen execution report](../evaluation/v1/EVALUATION_REPORT.md), which records the model responses, resource usage, failures and workflow outcomes. **The project owner has not yet independently reviewed these quality judgments.** Do not represent them as human-verified or as general regulatory accuracy.
 
-**Evaluation provenance:** [Codex-built Agent vs Human-guided Builds — Comparative Evaluation (v1), Notion](https://app.notion.com/p/401695ed0f6281989347c86c678e376e). The original reference and historical Track A ratings are maintained separately in [Notion's Verified Reference](https://app.notion.com/p/3fa695ed0f62819d96b6ee13706bdb3b). This page records the existing AI review; it does **not** perform new grading.
+**Evaluation provenance:** This document transcribes the existing AI-assisted question-level review dated 2026-10-22. The fixed detailed scoring reference is maintained privately and is not included in this public repository. The judgments have not been independently human-verified; this document does **not** perform new grading.
 
 ## Method and results
 
@@ -35,7 +35,7 @@ Each dimension is **Yes / Partial / No**; only Yes ratings are included in the t
 | Q9 — Legal-basis mapping | No | No | No | Run incomplete; zero accepted claims |
 | Q10 — FBO assessment | Partial | Yes | No | Core cautions stated, procedural synthesis incomplete |
 
-These ratings are transcribed from the cited Notion research review and have not been newly determined from the raw JSON records in this document.
+These ratings are transcribed from the existing 2026-10-22 AI-assisted research review and have not been newly determined from the raw JSON records in this document.
 
 ## Main observed failure modes
 
@@ -53,7 +53,7 @@ These ratings are transcribed from the cited Notion research review and have not
 
 - **Q5 was development-exposed.** Its run was completed as a pre-freeze smoke test using the subsequently frozen v1 Agent with matching model, corpus and runtime limits. It was retained and **not rerun**; Q1–Q4 and Q6–Q10 were attempted post-freeze. This is ten *selected* runs, not ten held-out post-freeze tests.
 - The [execution report](../evaluation/v1/EVALUATION_REPORT.md) records nine selected `partial` outputs and Q9 `incomplete`. Those terms refer to workflow/coverage **status**, not Correct/Grounded/Complete quality grades.
-- The detailed Verified Reference and AI review are maintained in Notion; GitHub publishes the evaluation summary and model output artifacts, not the full private scoring authority. This limits third-party independent scoring reproducibility.
+- The detailed Verified Reference is maintained privately; GitHub publishes the provisional question-level AI assessment and model output artifacts, not the full private scoring authority. This limits third-party independent scoring reproducibility.
 - Drafting and review used the same model, so independent semantic correctness cannot be guaranteed by citations or model review alone.
 - Ten interrelated questions on one fixed case cannot establish production regulatory accuracy or current-law validity.
 
@@ -64,4 +64,3 @@ These ratings are transcribed from the cited Notion research review and have not
 - [Project 003 — Five-implementation comparative overview](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md)
 - [Frozen execution report and raw output links](../evaluation/v1/EVALUATION_REPORT.md)
 - [Agent architecture](architecture.md)
-- [AI-reviewed source record in Notion](https://app.notion.com/p/401695ed0f6281989347c86c678e376e)
