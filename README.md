@@ -119,8 +119,6 @@ configuration may exhaust output or execution limits, as recorded for Q9.
 
 ## Licensing and attribution
 
-An open-source license for the original code has not yet been selected by the
-repository owner. Public availability does not itself grant a software license.
-The supplied EU legal documents retain their own provenance and applicable terms;
-see [data documentation](data/README.md). [MIT licensing is an option pending owner approval](docs/license_decision.md); the current notice has not been replaced. This is a Codex-built research project,
-not an official EU or OpenAI legal advisory service.
+Original software code and project-authored documentation for which the copyright holder can grant permission are available under the [MIT License](LICENSE) (Copyright © 2026 Hyejeong Lee).
+
+**Third-party materials are not relicensed under MIT.** The EU legal HTML snapshots in `data/` retain their original provenance and applicable reuse conditions; see [data documentation](data/README.md). Other third-party materials, if any, remain under their respective rights and licenses. This is a Codex-built experimental research project, not an official EU or OpenAI legal advisory service.
