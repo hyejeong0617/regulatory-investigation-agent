@@ -1,5 +1,16 @@
 # Development log
 
+> **Historical development log (not current operating status).** This document retains the original development sequence, including temporary blockers, old local paths, early test counts and interrupted stages. The final frozen Codex-built v1 was subsequently tested and evaluated in October 2026. For the current implementation and instructions, see [README](../README.md); for actual Q1–Q10 results, see [v1 evaluation report](../evaluation/v1/EVALUATION_REPORT.md). A separate AI-assisted quality assessment has been discussed but is not yet human-verified. Historical notes below are not claims about the current state.
+
+## Final timeline and interpretation
+
+- **Offline implementation:** source parsing, BM25, local retrieval tools, citation checks, structured agent and budget gate were built; 33 tests passed at an intermediate checkpoint.
+- **Live Q5 smoke test:** later authorized; 39 offline tests and a partial Q5 model-generated assessment were recorded.
+- **Freeze:** v1 code, corpus and evaluation configuration were frozen before the nine additional evaluation questions.
+- **Post-freeze evaluation:** Q1–Q4 and Q6–Q10 were attempted; Q9 remained incomplete and was not retried. Q5 remained the existing pre-freeze smoke, not an independent post-freeze test.
+- **Publication:** final code, law snapshots and raw outputs were published as a separate GitHub repository. See [publication provenance](publication.md). No original results were regenerated for this documentation cleanup.
+
+
 ## Scope and authorization
 
 - Built independently from `TASK_BRIEF.md`, the five supplied HTML files and the
