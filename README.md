@@ -1,6 +1,6 @@
 # Regulatory Investigation Agent
 
-**Codex-built Regulatory Agent v1** — a Python agent that investigates EU food-law
+**Scientific AI Builder · Project 003 · Track B: Independent Codex-built v1** — a Python agent that investigates EU food-law
 questions using five supplied, frozen regulation HTML documents.
 
 Codex designed and implemented the architecture, retrieval, investigation workflow,
@@ -8,6 +8,12 @@ tests, debugging, and documentation under human-provided requirements and budget
 limits. The user supplied the case, corpus, model selection, evaluation instructions,
 credentials, and approvals. The build did not use the previous Regulatory_agent
 implementation, Build 1–4 answers, or Gold Standard answers.
+
+## Companion project and shared assessment
+
+This repository is **Track B**, an independent Codex-led implementation. **Track A** is the [human-guided Architecture Learning Lab](https://github.com/hyejeong0617/Regulatory_agent), which experimentally progressed from prompt-only to RAG, tools and an investigation workflow. The code and benchmark answers from Track A were not supplied to this independent build.
+
+Read the [Project 003 architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md) for the two approaches and their evaluation provenance. Track A has owner-reviewed benchmark summary scores. Codex-built v1 has published execution artifacts; a separate AI-assisted Gold Standard comparison was discussed, but the item-level scoring source has not been verified in these public repositories and **human verification is still pending**. Therefore the execution statuses below must not be read as Correct/Grounded/Complete grades.
 
 ## What it does
 
@@ -67,7 +73,7 @@ Model: **gpt-6-luna**. Reasoning effort: **medium**. The offline suite passed **
 | Q5 | Previously executed development smoke | `partial`; preserved without rerunning |
 
 `partial` denotes unresolved issues, not an accuracy score. Gold Standard grading
-has not been performed. Raw answers and errors are preserved without optimization.
+has not been performed. Q5 used the subsequently frozen v1 implementation, model, corpus and matching runtime limits; it was retained from pre-freeze development, not rerun as a held-out post-freeze test. Raw answers and errors are preserved without optimization.
 
 - Nine new evaluation questions: **$0.141455325** estimated API cost.
 - Selected Q1–Q10 outputs including Q5: **$0.155075500**.
