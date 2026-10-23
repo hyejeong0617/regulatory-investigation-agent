@@ -122,5 +122,5 @@ configuration may exhaust output or execution limits, as recorded for Q9.
 An open-source license for the original code has not yet been selected by the
 repository owner. Public availability does not itself grant a software license.
 The supplied EU legal documents retain their own provenance and applicable terms;
-see [data documentation](data/README.md). This is a Codex-built research project,
+see [data documentation](data/README.md). [MIT licensing is an option pending owner approval](docs/license_decision.md); the current notice has not been replaced. This is a Codex-built research project,
 not an official EU or OpenAI legal advisory service.
