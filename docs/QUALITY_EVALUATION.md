@@ -1,10 +1,10 @@
 # Track B — Codex-built Agent v1: Quality Evaluation
 
-**Scientific AI Builder · Project 003 · AI-reviewed (provisional) · 2026-10-22**
+**Scientific AI Builder · Project 003 · Human-confirmed 2026-10-23 · AI-assisted initial review 2026-10-22**
 
-This document evaluates the **regulatory-answer quality** of the independently Codex-built Agent v1 against the project's frozen Verified Reference. It is separate from the [frozen execution report](../evaluation/v1/EVALUATION_REPORT.md), which records the model responses, resource usage, failures and workflow outcomes. **The project owner has not yet independently reviewed these quality judgments.** Do not represent them as human-verified or as general regulatory accuracy.
+This document evaluates the **regulatory-answer quality** of the independently Codex-built Agent v1 against the project's frozen Verified Reference. It is separate from the [frozen execution report](../evaluation/v1/EVALUATION_REPORT.md), which records the model responses, resource usage, failures and workflow outcomes. **The project owner individually confirmed every Q1–Q10 judgment on 2026-10-23 against the frozen Gold Standard and original run records, without changes.** Do not represent them as human-verified or as general regulatory accuracy.
 
-**Evaluation provenance:** This document transcribes the existing AI-assisted question-level review dated 2026-10-22. The fixed detailed scoring reference is maintained privately and is not included in this public repository. The judgments have not been independently human-verified; this document does **not** perform new grading.
+**Evaluation provenance:** This document transcribes the existing AI-assisted question-level review dated 2026-10-22. The fixed detailed scoring reference is maintained privately and is not included in this public repository. The original AI judgments were individually confirmed by the project owner on 2026-10-23; no new model execution or changed grading was introduced.
 
 ## Method and results
 
@@ -18,7 +18,7 @@ Each dimension is **Yes / Partial / No**; only Yes ratings are included in the t
 
 | Correct Yes | Grounded Yes | Complete Yes | Status |
 | ---: | ---: | ---: | --- |
-| **5/10** | **8/10** | **2/10** | **AI-reviewed (provisional; owner verification pending)** |
+| **5/10** | **8/10** | **2/10** | **Human-confirmed (2026-10-23)** |
 
 ### Question-by-question assessment
 
@@ -35,7 +35,7 @@ Each dimension is **Yes / Partial / No**; only Yes ratings are included in the t
 | Q9 — Legal-basis mapping | No | No | No | Run incomplete; zero accepted claims |
 | Q10 — FBO assessment | Partial | Yes | No | Core cautions stated, procedural synthesis incomplete |
 
-These ratings are transcribed from the existing 2026-10-22 AI-assisted research review and have not been newly determined from the raw JSON records in this document.
+These ratings originate from the 2026-10-22 AI-assisted review and were individually human-confirmed using the original Q1–Q10 JSONs on 2026-10-23.
 
 ## Main observed failure modes
 
@@ -53,11 +53,11 @@ These ratings are transcribed from the existing 2026-10-22 AI-assisted research 
 
 - **Q5 was development-exposed.** Its run was completed as a pre-freeze smoke test using the subsequently frozen v1 Agent with matching model, corpus and runtime limits. It was retained and **not rerun**; Q1–Q4 and Q6–Q10 were attempted post-freeze. This is ten *selected* runs, not ten held-out post-freeze tests.
 - The [execution report](../evaluation/v1/EVALUATION_REPORT.md) records nine selected `partial` outputs and Q9 `incomplete`. Those terms refer to workflow/coverage **status**, not Correct/Grounded/Complete quality grades.
-- The detailed Verified Reference is maintained privately; GitHub publishes the provisional question-level AI assessment and model output artifacts, not the full private scoring authority. This limits third-party independent scoring reproducibility.
+- The detailed Verified Reference is maintained privately; GitHub publishes the human-confirmed question-level assessment and model output artifacts, not the full private scoring authority. This limits third-party independent scoring reproducibility.
 - Drafting and review used the same model, so independent semantic correctness cannot be guaranteed by citations or model review alone.
 - Ten interrelated questions on one fixed case cannot establish production regulatory accuracy or current-law validity.
 
-**Next review:** When the owner completes a human review, document its date, changes and version separately rather than overwriting the provenance of this provisional v1 assessment.
+**Review completed (2026-10-23):** All Q1–Q10 Correct / Grounded / Complete judgments were confirmed without score changes. Q9 is separately labeled a workflow-completion failure (zero accepted claims); retain the raw baseline. The initial AI-reviewed provenance (2026-10-22) is preserved above.
 
 ## Related material
 
