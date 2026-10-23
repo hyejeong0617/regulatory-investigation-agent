@@ -1,6 +1,6 @@
 # Regulatory Investigation Agent
 
-**Codex-built Regulatory Agent v1** — a Python agent that investigates EU food-law
+**Scientific AI Builder · Project 003 · Track B: Independent Codex-built v1** — a Python agent that investigates EU food-law
 questions using five supplied, frozen regulation HTML documents.
 
 Codex designed and implemented the architecture, retrieval, investigation workflow,
@@ -8,6 +8,12 @@ tests, debugging, and documentation under human-provided requirements and budget
 limits. The user supplied the case, corpus, model selection, evaluation instructions,
 credentials, and approvals. The build did not use the previous Regulatory_agent
 implementation, Build 1–4 answers, or Gold Standard answers.
+
+## Companion project and shared assessment
+
+This repository is **Track B**, an independent Codex-led implementation. **Track A** is the [human-guided Architecture Learning Lab](https://github.com/hyejeong0617/Regulatory_agent), which experimentally progressed from prompt-only to RAG, tools and an investigation workflow. The code and benchmark answers from Track A were not supplied to this independent build.
+
+Read the [Project 003 architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md) for the two approaches and their evaluation provenance. Track A has owner-reviewed benchmark summary scores. Codex-built v1 has published execution artifacts; an [AI-assisted question-level Gold Standard comparison](https://app.notion.com/p/401695ed0f6281989347c86c678e376e) was recorded on 2026-10-22, with provisional **Correct 5/10, Grounded 8/10, Complete 2/10** (Yes-only counts). These scores are **AI-reviewed, not yet human-verified**, and the detailed grading source is maintained separately in Notion. Execution statuses below must not be read as Correct/Grounded/Complete grades.
 
 ## What it does
 
@@ -67,7 +73,7 @@ Model: **gpt-6-luna**. Reasoning effort: **medium**. The offline suite passed **
 | Q5 | Previously executed development smoke | `partial`; preserved without rerunning |
 
 `partial` denotes unresolved issues, not an accuracy score. Gold Standard grading
-has not been performed. Raw answers and errors are preserved without optimization.
+has not been performed. Q5 used the subsequently frozen v1 implementation, model, corpus and matching runtime limits; it was retained from pre-freeze development, not rerun as a held-out post-freeze test. Raw answers and errors are preserved without optimization.
 
 - Nine new evaluation questions: **$0.141455325** estimated API cost.
 - Selected Q1–Q10 outputs including Q5: **$0.155075500**.
@@ -113,8 +119,6 @@ configuration may exhaust output or execution limits, as recorded for Q9.
 
 ## Licensing and attribution
 
-An open-source license for the original code has not yet been selected by the
-repository owner. Public availability does not itself grant a software license.
-The supplied EU legal documents retain their own provenance and applicable terms;
-see [data documentation](data/README.md). This is a Codex-built research project,
-not an official EU or OpenAI legal advisory service.
+Original software code and project-authored documentation for which the copyright holder can grant permission are available under the [MIT License](LICENSE) (Copyright © 2026 Hyejeong Lee).
+
+**Third-party materials are not relicensed under MIT.** The EU legal HTML snapshots in `data/` retain their original provenance and applicable reuse conditions; see [data documentation](data/README.md). Other third-party materials, if any, remain under their respective rights and licenses. This is a Codex-built experimental research project, not an official EU or OpenAI legal advisory service.
