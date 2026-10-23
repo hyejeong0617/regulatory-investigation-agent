@@ -13,9 +13,9 @@ implementation, Build 1–4 answers, or Gold Standard answers.
 
 This repository is **Track B**, an independent Codex-led implementation. **Track A** is the [human-guided Architecture Learning Lab](https://github.com/hyejeong0617/Regulatory_agent), which experimentally progressed from prompt-only to RAG, tools and an investigation workflow. The code and benchmark answers from Track A were not supplied to this independent build.
 
-For this implementation's individual Q1–Q10 Correct / Grounded / Complete judgments and failure analysis, see [Track B — Quality Evaluation (AI-reviewed, provisional)](docs/QUALITY_EVALUATION.md). The [frozen execution report](evaluation/v1/EVALUATION_REPORT.md) separately records run status and cost.
+For this implementation's individual Q1–Q10 Correct / Grounded / Complete judgments and failure analysis, see [Track B — Quality Evaluation (human-confirmed)](docs/QUALITY_EVALUATION.md). The [frozen execution report](evaluation/v1/EVALUATION_REPORT.md) separately records run status and cost.
 
-Read the [Project 003 architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md) for the two approaches and their evaluation provenance. Track A has owner-reviewed benchmark summary scores. Codex-built v1 has published execution artifacts; an [AI-assisted question-level quality evaluation](docs/QUALITY_EVALUATION.md) was recorded on 2026-10-22, with provisional **Correct 5/10, Grounded 8/10, Complete 2/10** (Yes-only counts). These scores are **AI-reviewed, not yet human-verified**, and the provisional item-level rationale is summarized in the public quality-evaluation document; independent human verification is pending. Execution statuses below must not be read as Correct/Grounded/Complete grades.
+Read the [Project 003 architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md) for the two approaches and their evaluation provenance. Track A has owner-reviewed benchmark summary scores. Codex-built v1 has published execution artifacts; an [AI-assisted question-level quality evaluation](docs/QUALITY_EVALUATION.md) was recorded on 2026-10-22, with **Correct 5/10, Grounded 8/10, Complete 2/10** (Yes-only counts). These original AI-assisted scores were **individually confirmed by the project owner on 2026-10-23** against the frozen Gold Standard and original Q1–Q10 execution JSONs, with no score changes. Q9 is separately classified as an incomplete execution, not proven legal-reasoning error. Execution statuses below must not be read as Correct/Grounded/Complete grades.
 
 ## What it does
 
@@ -75,7 +75,7 @@ Model: **gpt-6-luna**. Reasoning effort: **medium**. The offline suite passed **
 | Q5 | Previously executed development smoke | `partial`; preserved without rerunning |
 
 `partial` denotes unresolved issues, not an accuracy score. Gold Standard grading
-has not been performed. Q5 used the subsequently frozen v1 implementation, model, corpus and matching runtime limits; it was retained from pre-freeze development, not rerun as a held-out post-freeze test. Raw answers and errors are preserved without optimization.
+was completed through owner confirmation on 2026-10-23. Q5 used the subsequently frozen v1 implementation, model, corpus and matching runtime limits; it was retained from pre-freeze development, not rerun as a held-out post-freeze test. Raw answers and errors are preserved without optimization.
 
 - Nine new evaluation questions: **$0.141455325** estimated API cost.
 - Selected Q1–Q10 outputs including Q5: **$0.155075500**.
