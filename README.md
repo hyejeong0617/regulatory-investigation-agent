@@ -13,6 +13,8 @@ implementation, Build 1–4 answers, or Gold Standard answers.
 
 This repository is **Track B**, an independent Codex-led implementation. **Track A** is the [human-guided Architecture Learning Lab](https://github.com/hyejeong0617/Regulatory_agent), which experimentally progressed from prompt-only to RAG, tools and an investigation workflow. The code and benchmark answers from Track A were not supplied to this independent build.
 
+For this implementation's individual Q1–Q10 Correct / Grounded / Complete judgments and failure analysis, see [Track B — Quality Evaluation (AI-reviewed, provisional)](docs/QUALITY_EVALUATION.md). The [frozen execution report](evaluation/v1/EVALUATION_REPORT.md) separately records run status and cost.
+
 Read the [Project 003 architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md) for the two approaches and their evaluation provenance. Track A has owner-reviewed benchmark summary scores. Codex-built v1 has published execution artifacts; an [AI-assisted question-level Gold Standard comparison](https://app.notion.com/p/401695ed0f6281989347c86c678e376e) was recorded on 2026-10-22, with provisional **Correct 5/10, Grounded 8/10, Complete 2/10** (Yes-only counts). These scores are **AI-reviewed, not yet human-verified**, and the detailed grading source is maintained separately in Notion. Execution statuses below must not be read as Correct/Grounded/Complete grades.
 
 ## What it does
