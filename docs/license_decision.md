@@ -1,13 +1,10 @@
-# Licensing decision — pending owner approval
+# Licensing decision — owner approved (2026-10-23)
 
-**Current status:** no open-source software license has been granted. The existing `LICENSE` file is a no-license notice, not an OSI-approved permission grant. It remains unchanged in this documentation PR.
+The repository owner explicitly approved applying the MIT License to original software code and project-authored materials that the owner has authority to license in both Scientific AI Builder Project 003 GitHub repositories.
 
-## Option: MIT for original software code
+- See the standard [MIT License](../LICENSE), copyright © 2026 Hyejeong Lee.
+- GitHub visibility does not change the provenance or reuse conditions of the five third-party EU legal HTML snapshots in `data/`; they are **not** relicensed under MIT.
+- Other third-party works, if any, also retain their applicable rights and license terms.
+- The research Agent is not an official EU/OpenAI advisory service and provides no guarantee of current legal accuracy.
 
-If the repository owner explicitly chooses to permit redistribution, modification and commercial use under the MIT license, replace the existing `LICENSE` notice with the **unmodified standard MIT License** using the correct copyright year and rightful copyright holder. Ensure that any material incorporated from third parties is not inappropriately relicensed.
-
-Suggested README clarification after approval:
-
-> The original software code is licensed under the MIT License; see LICENSE. The supplied EU legal HTML documents in `data/` are third-party source materials subject to their own provenance and applicable reuse conditions, and are not relicensed by this repository. This experimental Agent is not an official EU/OpenAI legal advisory service.
-
-Until owner approval, retain the current notice and do **not** claim the repository is MIT licensed. Public GitHub availability does not by itself grant reuse rights.
+This page is a decision record, not an additional license or an amendment to the standard MIT text.
