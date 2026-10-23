@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-10-22T19:00:33.377220+00:00",
+  "attempted": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9",
+    "Q10"
+  ],
+  "remaining": [],
+  "stop_reason": "Q9 failed and was preserved without retry. Q10 was subsequently executed once as an independent question; no questions remain unattempted.",
+  "finished_at": "2026-10-22T19:13:36.229270+00:00",
+  "initial_stop_reason": "Q9 failed (exit 2); preserved without retry",
+  "report_finalized_at": "2026-10-23T08:19:29.642045+00:00",
+  "resume_note": "No additional API calls. Recovered Q10 output already completed in the prior session."
+}

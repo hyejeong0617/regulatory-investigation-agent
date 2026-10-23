@@ -1,0 +1,44 @@
+test_aggregate_writes_use_documented_default_ttl (test_system.BudgetAndAPITests.test_aggregate_writes_use_documented_default_ttl) ... ok
+test_budget_persists_and_stops_before_overspend (test_system.BudgetAndAPITests.test_budget_persists_and_stops_before_overspend) ... ok
+test_call_limit (test_system.BudgetAndAPITests.test_call_limit) ... ok
+test_disabled_and_missing_key_no_network (test_system.BudgetAndAPITests.test_disabled_and_missing_key_no_network) ... ok
+test_documented_cache_write_usage_is_accounted (test_system.BudgetAndAPITests.test_documented_cache_write_usage_is_accounted) ... ok
+test_full_context_reservation_blocks_before_network (test_system.BudgetAndAPITests.test_full_context_reservation_blocks_before_network) ... ok
+test_inconsistent_cache_write_breakdown_stops (test_system.BudgetAndAPITests.test_inconsistent_cache_write_breakdown_stops) ... ok
+test_long_context_pricing_boundary (test_system.BudgetAndAPITests.test_long_context_pricing_boundary) ... ok
+test_missing_usage_stops_later_calls (test_system.BudgetAndAPITests.test_missing_usage_stops_later_calls) ... ok
+test_nan_and_negative_money_disallowed (test_system.BudgetAndAPITests.test_nan_and_negative_money_disallowed) ... ok
+test_pending_or_uncertain_reservations_block (test_system.BudgetAndAPITests.test_pending_or_uncertain_reservations_block) ... ok
+test_transport_error_not_retried (test_system.BudgetAndAPITests.test_transport_error_not_retried) ... ok
+test_uncertain_upper_bound_is_never_refunded (test_system.BudgetAndAPITests.test_uncertain_upper_bound_is_never_refunded) ... ok
+test_unexpected_service_tier_blocks (test_system.BudgetAndAPITests.test_unexpected_service_tier_blocks) ... ok
+test_unverified_pricing_fails_closed (test_system.BudgetAndAPITests.test_unverified_pricing_fails_closed) ... ok
+test_verified_usage_cost_and_no_reasoning_logs (test_system.BudgetAndAPITests.test_verified_usage_cost_and_no_reasoning_logs) ... ok
+test_all_five_sources_and_provenance (test_system.CorpusTests.test_all_five_sources_and_provenance) ... ok
+test_anchors_exist (test_system.CorpusTests.test_anchors_exist) ... ok
+test_div_paragraphs_are_retained (test_system.CorpusTests.test_div_paragraphs_are_retained) ... ok
+test_exact_article_boundaries (test_system.CorpusTests.test_exact_article_boundaries) ... ok
+test_import_row_has_explicit_block_context (test_system.CorpusTests.test_import_row_has_explicit_block_context) ... ok
+test_numeric_limits_keep_headers_and_exceptions (test_system.CorpusTests.test_numeric_limits_keep_headers_and_exceptions) ... ok
+test_offline_actual_question_no_network (test_system.CorpusTests.test_offline_actual_question_no_network) ... ok
+test_original_act_discovered_by_topic (test_system.CorpusTests.test_original_act_discovered_by_topic) ... ok
+test_unrelated_topic_and_missing_source (test_system.CorpusTests.test_unrelated_topic_and_missing_source) ... ok
+test_no_sources (test_system.TableTests.test_no_sources) ... ok
+test_rowspan_colspan_and_inline_subscript (test_system.TableTests.test_rowspan_colspan_and_inline_subscript) ... ok
+test_dynamic_followup_and_multi_provision_review (test_system.WorkflowTests.test_dynamic_followup_and_multi_provision_review) ... ok
+test_fabricated_citation_rejected (test_system.WorkflowTests.test_fabricated_citation_rejected) ... ok
+test_interrupted_review_never_publishes_draft (test_system.WorkflowTests.test_interrupted_review_never_publishes_draft) ... ok
+test_missing_evidence_explicit_uncertainty (test_system.WorkflowTests.test_missing_evidence_explicit_uncertainty) ... ok
+test_output_roundtrip_and_jsonl (test_system.WorkflowTests.test_output_roundtrip_and_jsonl) ... ok
+test_question_id_does_not_route (test_system.WorkflowTests.test_question_id_does_not_route) ... ok
+test_quote_must_match (test_system.WorkflowTests.test_quote_must_match) ... ok
+test_safe_output_names (test_system.WorkflowTests.test_safe_output_names) ... ok
+test_semantic_reviewer_rejection (test_system.WorkflowTests.test_semantic_reviewer_rejection) ... ok
+test_session_and_batch_gate (test_system.WorkflowTests.test_session_and_batch_gate) ... ok
+test_too_small_call_allowance_fails_closed (test_system.WorkflowTests.test_too_small_call_allowance_fails_closed) ... ok
+test_two_question_synthetic_batch (test_system.WorkflowTests.test_two_question_synthetic_batch) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 2.927s
+
+OK

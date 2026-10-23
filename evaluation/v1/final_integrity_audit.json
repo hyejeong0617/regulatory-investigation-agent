@@ -1,0 +1,97 @@
+{
+  "checked_at": "2026-10-23T08:19:50.667944+00:00",
+  "checks": [
+    {
+      "question_id": "Q1",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q2",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q3",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q4",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q5",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q6",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q7",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q8",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q9",
+      "status": "incomplete",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    },
+    {
+      "question_id": "Q10",
+      "status": "partial",
+      "original_input_matches": true,
+      "json_markdown_events_match": true,
+      "usage_matches_ledger": true,
+      "format_retry_events": 0
+    }
+  ],
+  "frozen_files_unchanged": true,
+  "q5_files_unchanged": true,
+  "archive_hash_matches": true,
+  "prior_ledger_entries_unchanged": true,
+  "new_api_calls_on_resume": 0,
+  "no_gold_standard_grading": true,
+  "budget": {
+    "accounted_nano_usd": 686269550,
+    "remaining_nano_usd": 1313730450,
+    "known_usage_nano_usd": 156769550,
+    "unknown_usage_reserved_nano_usd": 529500000
+  }
+}

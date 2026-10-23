@@ -1,0 +1,122 @@
+[
+  {
+    "path": "evaluation/v1/raw/Q1/question-Q1-32d833f3.json",
+    "sha256": "04624c0e0feef6f372fddb127cf7e59eb7fd2e3f78a723ebe4771e883f5f33a4"
+  },
+  {
+    "path": "evaluation/v1/raw/Q1/question-Q1-32d833f3.md",
+    "sha256": "e7d1310ba160ca66a36f6254f5e578b41f6777a6c2685804415e66ef1d22f4ff"
+  },
+  {
+    "path": "evaluation/v1/raw/Q1/question-Q1-32d833f3.events.jsonl",
+    "sha256": "569ee6e0246fd8a36e28882d4d9486915b73c3460533d1f6694efec83a19d1ee"
+  },
+  {
+    "path": "evaluation/v1/raw/Q2/question-Q2-8845886b.json",
+    "sha256": "eb61401898b55b3cd52deca1af13307a44444287134596e591b0c27376bca03e"
+  },
+  {
+    "path": "evaluation/v1/raw/Q2/question-Q2-8845886b.md",
+    "sha256": "2fb744aee5ab3d63d6d855dd76dfcd0fca08aded1688e6fddbae0ac215ddbda6"
+  },
+  {
+    "path": "evaluation/v1/raw/Q2/question-Q2-8845886b.events.jsonl",
+    "sha256": "8bcc8dd4cddd43d1de5fe6dfac015916daf240f2401fa537072e7da3bef0285c"
+  },
+  {
+    "path": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.json",
+    "sha256": "449c067a786781eadf82b7c608ab656248f73a45b9987d195082f21bad50db11"
+  },
+  {
+    "path": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.md",
+    "sha256": "8f3cd8569fbc3b68d5bb6ac2a2a2945f4aa16ad6c7565a661c7e71e5f189ddd0"
+  },
+  {
+    "path": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.events.jsonl",
+    "sha256": "48fc913a3206f8b12ee0ef5cc0601a6747ba0dc4a9ec74cc2ee564d6a73fe6b3"
+  },
+  {
+    "path": "evaluation/v1/raw/Q4/question-Q4-6866b007.json",
+    "sha256": "9e623072c8fa27b5aa9ca2ab776130fb722041109e1169d530268a55be2db178"
+  },
+  {
+    "path": "evaluation/v1/raw/Q4/question-Q4-6866b007.md",
+    "sha256": "076a9275c4dd220cd2674211bde06778ba33e4751346bc199346c2bc779d9ecd"
+  },
+  {
+    "path": "evaluation/v1/raw/Q4/question-Q4-6866b007.events.jsonl",
+    "sha256": "62d50a3dacf6b45444343e7bf8e6ece5faf2bbe018d9ae51c8bdd3bcb110c6ed"
+  },
+  {
+    "path": "evaluation/v1/raw/Q5/question-Q5-a08c925f.json",
+    "sha256": "f93f3f25322bd3f1469f0fd2f137ebe3d4baab69890a8c50c2434f1f753f5d4c"
+  },
+  {
+    "path": "evaluation/v1/raw/Q5/question-Q5-a08c925f.md",
+    "sha256": "b7285d260e2ca51c622b93390864cb34b92341b35f24cdb04bfb011cec3c0a0b"
+  },
+  {
+    "path": "evaluation/v1/raw/Q5/question-Q5-a08c925f.events.jsonl",
+    "sha256": "a71548ec7bc443b0df8bbbbfff3be142cd56201af426c35e4a9433f4b66d2936"
+  },
+  {
+    "path": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.json",
+    "sha256": "a9df8724e8aac03220782696ea08d17246354ec58d7387f58efc12d4e3995afe"
+  },
+  {
+    "path": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.md",
+    "sha256": "c50ba81375809d4aa993f35bb8bf0f2f4ebd7e18c107b551912d2482b503a44c"
+  },
+  {
+    "path": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.events.jsonl",
+    "sha256": "572a607171adf9028d1c5e3965a42a488c61bdb4a9ef824bd2080e9358133555"
+  },
+  {
+    "path": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.json",
+    "sha256": "db219f172871d1536131a21b08025cefc361b20d960fcc769cd21ff1c979c098"
+  },
+  {
+    "path": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.md",
+    "sha256": "54721ccb15373cf5f93995b221dc7f2528ab62f519cf186e47452fa4438170fe"
+  },
+  {
+    "path": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.events.jsonl",
+    "sha256": "e6826f4b96c2f642972c19b795214c8b4a0ba4a4ee3619e12ed909fe2ee57fc9"
+  },
+  {
+    "path": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.json",
+    "sha256": "cc96d05b2fda7813be3190f60f7cf66558a1b22f8dd4c11a6e5e00b43ff7785d"
+  },
+  {
+    "path": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.md",
+    "sha256": "aec24023d6fbe58ee17664a4587ac263521cd0f837e09b335a2e2b16beb251d8"
+  },
+  {
+    "path": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.events.jsonl",
+    "sha256": "505884fef971b73e6c7a9bb41ed69fb363e022ef15e93d7361bf329258122552"
+  },
+  {
+    "path": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.json",
+    "sha256": "5d1a978ef3eede38e27d8ec884c1ae0c10e5c268d16f877ad99d22689c35c416"
+  },
+  {
+    "path": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.md",
+    "sha256": "de582f5b195f586a90bd47982ee26dfb34ea0bd47b844e422071a89e44249f59"
+  },
+  {
+    "path": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.events.jsonl",
+    "sha256": "9d6ad0731c4ca84390447410f8a6b0ffbfa16704e3a0346e401e16833bc5e143"
+  },
+  {
+    "path": "evaluation/v1/raw/Q10/question-Q10-80548726.json",
+    "sha256": "bb125e2b48db254574310fcbdb2c69ce56e878f54a8aec5a133d368a261f6954"
+  },
+  {
+    "path": "evaluation/v1/raw/Q10/question-Q10-80548726.md",
+    "sha256": "fa10d78c469d20a14116f1197411de0274b04b78087b26a7ef14d671764e8e0e"
+  },
+  {
+    "path": "evaluation/v1/raw/Q10/question-Q10-80548726.events.jsonl",
+    "sha256": "fa7889cab6615a855651145900c7f0665707f7059418c1cf866b03af9fbd5127"
+  }
+]

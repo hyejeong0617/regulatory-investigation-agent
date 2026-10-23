@@ -1,0 +1,1099 @@
+{
+  "version": "Codex-built Regulatory Agent v1",
+  "frozen_at": "2026-10-22T18:55:42.651004+00:00",
+  "source_tree_sha256": "fd0edf7013fbd26a484cbd2a9c101f19d56d0a06ec38f375664efe6f17067280",
+  "frozen_hashes_verified_after_execution": true,
+  "generated_at": "2026-10-23T08:19:29.777327+00:00",
+  "questions": [
+    {
+      "question_id": "Q1",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q1/question-Q1-32d833f3.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 4,
+        "workflow_model_calls": 4,
+        "tool_calls": 13,
+        "input_tokens": 41932,
+        "output_tokens": 6067,
+        "reasoning_tokens": 4587,
+        "api_cost_usd": 0.0082747,
+        "wall_seconds": 54.1206,
+        "retrieved_records": 15
+      },
+      "markdown": "evaluation/v1/raw/Q1/question-Q1-32d833f3.md",
+      "events": "evaluation/v1/raw/Q1/question-Q1-32d833f3.events.jsonl",
+      "accepted_claims": 4,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "Whether this particular shipment is subject to an aflatoxin-specific Türkiye import-control measure cannot be established from the supplied evidence.",
+        "The reported detection alone does not establish that the 6.0 μg/kg aflatoxin B1 maximum is exceeded; the concentration and unit are unknown.",
+        "The supplied table excerpts do not resolve whether the Türkiye-specific aflatoxin checks apply to this shipment, including the effect of its precise product classification.",
+        "The supplied records do not include the applicable sampling and analytical rules, and the frozen snapshots do not verify current law.",
+        "No accepted claim addresses issue: Türkiye-specific entry controls"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 7,
+        "neighbors": 1,
+        "lookup": 5
+      },
+      "investigation_rounds": 2,
+      "review_rounds": 1
+    },
+    {
+      "question_id": "Q2",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q2/question-Q2-8845886b.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 3,
+        "workflow_model_calls": 3,
+        "tool_calls": 7,
+        "input_tokens": 28195,
+        "output_tokens": 2959,
+        "reasoning_tokens": 2050,
+        "api_cost_usd": 0.00500365,
+        "wall_seconds": 28.505,
+        "retrieved_records": 11
+      },
+      "markdown": "evaluation/v1/raw/Q2/question-Q2-8845886b.md",
+      "events": "evaluation/v1/raw/Q2/question-Q2-8845886b.events.jsonl",
+      "accepted_claims": 1,
+      "rejected_claims": 2,
+      "unresolved_issues": [
+        "Whether this shipment exceeds either maximum level or is compliant cannot be determined without its measured concentrations and confirmed classification.",
+        "The assessment omits the numerical limits requested: the supplied dried-fig entry gives 6 μg/kg for aflatoxin B1 and 10 μg/kg for the sum of B1, B2, G1 and G2.",
+        "The cited 2023/915 text is a frozen snapshot and does not establish that these levels are current law.",
+        "Citation validation failed: Quote is not an exact meaningful passage from the cited record",
+        "No accepted claim addresses issue: Dried-fig aflatoxin maximum levels"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 7
+      },
+      "investigation_rounds": 1,
+      "review_rounds": 1
+    },
+    {
+      "question_id": "Q3",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 4,
+        "workflow_model_calls": 4,
+        "tool_calls": 9,
+        "input_tokens": 44566,
+        "output_tokens": 4050,
+        "reasoning_tokens": 2744,
+        "api_cost_usd": 0.00759545,
+        "wall_seconds": 36.6992,
+        "retrieved_records": 16
+      },
+      "markdown": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.md",
+      "events": "evaluation/v1/raw/Q3/question-Q3-9fc58f1a.events.jsonl",
+      "accepted_claims": 4,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "The supplied legal texts are frozen snapshots and do not establish which requirements apply on the shipment’s relevant date; current, date-specific law has not been verified.",
+        "No accepted claim addresses issue: Direct-consumption dried-fig limit",
+        "No accepted claim addresses issue: Sorting and physical-treatment category",
+        "No accepted claim addresses issue: Processed products and Article 3 factors"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 7,
+        "neighbors": 1,
+        "lookup": 1
+      },
+      "investigation_rounds": 2,
+      "review_rounds": 1
+    },
+    {
+      "question_id": "Q4",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q4/question-Q4-6866b007.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 8,
+        "workflow_model_calls": 8,
+        "tool_calls": 25,
+        "input_tokens": 203441,
+        "output_tokens": 12271,
+        "reasoning_tokens": 8050,
+        "api_cost_usd": 0.031565025000000003,
+        "wall_seconds": 107.463,
+        "retrieved_records": 77
+      },
+      "markdown": "evaluation/v1/raw/Q4/question-Q4-6866b007.md",
+      "events": "evaluation/v1/raw/Q4/question-Q4-6866b007.events.jsonl",
+      "accepted_claims": 6,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "Whether Annex I temporary-increase listing applies to the shipment.",
+        "The specific identity and physical check frequency applicable to this dried-figs tariff line.",
+        "The supplied evidence identifies dried figs from Türkiye (CN 0804 20 90) in Annex II, but does not establish the applicable hazard-specific identity/physical-check frequency for that tariff line; blank table cells cannot resolve it.",
+        "Whether dried figs from Türkiye are also listed in Annex I for temporarily increased controls is not established by the supplied Annex I excerpts.",
+        "The supplied records are frozen snapshots, not verification of requirements applicable at the time of a particular shipment.",
+        "For mycotoxin sampling, Regulation 2019/1793 Article 3 refers to Regulation 2023/2782, whose detailed sampling requirements are not included.",
+        "No accepted claim addresses issue: 2019/1793 increased-control listing",
+        "No accepted claim addresses issue: 2019/1793 special-entry-condition listing",
+        "No accepted claim addresses issue: Conditions and documentary requirements",
+        "No accepted claim addresses issue: Aflatoxin maximum level",
+        "No accepted claim addresses issue: 2019/1793 Annex II special conditions for Turkish dried figs",
+        "No accepted claim addresses issue: 2019/1793 Annex I increased-control listing",
+        "No accepted claim addresses issue: 2023/915 aflatoxin B1 maximum level",
+        "No accepted claim addresses issue: Whether Annex I temporary-increase listing applies"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 12,
+        "lookup": 11,
+        "neighbors": 2
+      },
+      "investigation_rounds": 4,
+      "review_rounds": 2
+    },
+    {
+      "question_id": "Q5",
+      "origin": "previous development smoke",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q5/question-Q5-a08c925f.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 6,
+        "workflow_model_calls": 6,
+        "tool_calls": 23,
+        "input_tokens": 82923,
+        "output_tokens": 8638,
+        "reasoning_tokens": 4628,
+        "api_cost_usd": 0.013620175,
+        "wall_seconds": 75.2485,
+        "retrieved_records": 42
+      },
+      "markdown": "evaluation/v1/raw/Q5/question-Q5-a08c925f.md",
+      "events": "evaluation/v1/raw/Q5/question-Q5-a08c925f.events.jsonl",
+      "accepted_claims": 9,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "The applicable Annex II hazard designation and check frequency for dried figs under CN 0804 20 90 cannot be established from the supplied row: its hazard and frequency cells are blank, and the 30% value shown for other CN codes cannot safely be attributed to it.",
+        "The specific official-certificate requirement, if any, and prior-notification applicability for this shipment cannot be determined from the supplied evidence.",
+        "The shipment’s compliance with aflatoxin limits cannot be assessed from detection alone without the concentration and relevant test details.",
+        "The snapshots are not verified current law, so the currently applicable listing and requirements remain unconfirmed.",
+        "The supplied dried-fig Annex II row has blank hazard and check-frequency cells. The applicable hazard designation and frequency cannot be established from these records, and the 30% frequency for other CN codes cannot be attributed to this row.",
+        "The detailed sampling and analytical requirements in Regulation (EU) 2023/2782 were not supplied; whether its conditional rule applies to this Annex II entry also remains unresolved.",
+        "The evidence does not establish whether an official certificate or prior notification is required for this particular consignment. Shipment classification, stage, and applicable category are not provided.",
+        "Detection alone does not establish an exceedance. The shipment’s measured concentration and relevant analytical details are missing.",
+        "No accepted claim addresses issue: Annex II listing and applicability to dried figs (Türkiye)",
+        "No accepted claim addresses issue: Special import conditions: certificate, laboratory results, and entry notification",
+        "No accepted claim addresses issue: Official-control sampling and analytical requirements",
+        "No accepted claim addresses issue: Applicable aflatoxin limits and shipment-specific exceedance",
+        "No accepted claim addresses issue: Whether dried figs (CN 0804 20 90) fall within Türkiye’s Annex II aflatoxin listing and control frequency",
+        "No accepted claim addresses issue: Official sampling and analysis method for aflatoxins",
+        "No accepted claim addresses issue: Applicable aflatoxin limits and whether the detected result exceeds them",
+        "No accepted claim addresses issue: Whether special import conditions and supporting documents apply",
+        "No accepted claim addresses issue: Prior notification and CHED requirements",
+        "No accepted claim addresses issue: Aflatoxin maximum level and shipment-specific compliance",
+        "No accepted claim addresses issue: Annex II applicability and check frequency for dried figs from Türkiye",
+        "No accepted claim addresses issue: Special-import certificate and analytical-result requirements",
+        "No accepted claim addresses issue: Mycotoxin sampling and analysis method"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 7,
+        "neighbors": 3,
+        "lookup": 13
+      },
+      "investigation_rounds": 4,
+      "review_rounds": 1
+    },
+    {
+      "question_id": "Q6",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 7,
+        "workflow_model_calls": 7,
+        "tool_calls": 13,
+        "input_tokens": 79330,
+        "output_tokens": 13542,
+        "reasoning_tokens": 8645,
+        "api_cost_usd": 0.016686725,
+        "wall_seconds": 107.8974,
+        "retrieved_records": 20
+      },
+      "markdown": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.md",
+      "events": "evaluation/v1/raw/Q6/question-Q6-f8bdff3f.events.jsonl",
+      "accepted_claims": 9,
+      "rejected_claims": 1,
+      "unresolved_issues": [
+        "The specific competent authority cannot be identified without the Member State and border-control post; the records state that Member States designate authorities but do not name the authority for this consignment.",
+        "The records do not establish that the detected Aflatoxin B1 level exceeds an applicable maximum or that non-compliance has been formally established. Shipment stage, product classification, intended use, and concentration are also unknown.",
+        "The cited mycotoxin sampling rule points to Regulation (EU) 2023/2782, but its provisions are not supplied; the evidence therefore does not establish the sampling and analysis basis for the reported detection.",
+        "No accepted claim addresses issue: General competent-authority duties after established non-compliance",
+        "No accepted claim addresses issue: Member State designation of the competent authority",
+        "No accepted claim addresses issue: Border competent-authority duties for entering consignments",
+        "No accepted claim addresses issue: Actions after non-compliance is established"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 8,
+        "lookup": 5
+      },
+      "investigation_rounds": 3,
+      "review_rounds": 2
+    },
+    {
+      "question_id": "Q7",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 6,
+        "workflow_model_calls": 6,
+        "tool_calls": 13,
+        "input_tokens": 83199,
+        "output_tokens": 10454,
+        "reasoning_tokens": 6375,
+        "api_cost_usd": 0.015626425,
+        "wall_seconds": 94.7365,
+        "retrieved_records": 32
+      },
+      "markdown": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.md",
+      "events": "evaluation/v1/raw/Q7/question-Q7-0f27e1c3.events.jsonl",
+      "accepted_claims": 8,
+      "rejected_claims": 3,
+      "unresolved_issues": [
+        "The supplied facts do not establish that aflatoxin B1 exceeds the applicable limit or that any authority has established non-compliance; therefore no action can be said to have been triggered for this shipment.",
+        "For a non-compliant consignment entering the Union, Article 66 also provides for an order to destroy, re-dispatch, or subject the consignment to special treatment or another compliance measure; these specific follow-on options are not stated in the claims.",
+        "The evidence identifies dried figs from Türkiye in the import-control listing, but does not establish from the supplied table context whether the aflatoxin hazard and control frequency apply to this specific product entry. CN/TARIC classification and shipment stage are also unknown.",
+        "The supplied records refer to Regulation (EU) 2023/2782 for mycotoxin sampling and analysis, but its sampling and analysis rules are not supplied. The snapshots also do not verify current law.",
+        "Citation validation failed: Quote is not an exact meaningful passage from the cited record",
+        "No accepted claim addresses issue: Applicable aflatoxin maximum level",
+        "No accepted claim addresses issue: Türkiye dried-fig import-control applicability"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 9,
+        "lookup": 3,
+        "neighbors": 1
+      },
+      "investigation_rounds": 2,
+      "review_rounds": 2
+    },
+    {
+      "question_id": "Q8",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 6,
+        "workflow_model_calls": 6,
+        "tool_calls": 15,
+        "input_tokens": 100802,
+        "output_tokens": 10310,
+        "reasoning_tokens": 7083,
+        "api_cost_usd": 0.0177548,
+        "wall_seconds": 89.0164,
+        "retrieved_records": 41
+      },
+      "markdown": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.md",
+      "events": "evaluation/v1/raw/Q8/question-Q8-6fbba5df.events.jsonl",
+      "accepted_claims": 5,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "The supplied records do not establish the current applicable sampling and analytical-method rules for an aflatoxin result. If the assessment relies on the detected result, those rules may also need checking; detection alone does not establish an exceedance.",
+        "No accepted claim addresses issue: Türkiye-specific entry controls at Union entry",
+        "No accepted claim addresses issue: General food-safety obligations",
+        "No accepted claim addresses issue: Snapshot date and amendment verification"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 11,
+        "lookup": 2,
+        "neighbors": 2
+      },
+      "investigation_rounds": 2,
+      "review_rounds": 2
+    },
+    {
+      "question_id": "Q9",
+      "origin": "post-freeze evaluation",
+      "status": "incomplete",
+      "json": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.json",
+      "errors": [
+        {
+          "type": "InferenceError",
+          "message": "Model response incomplete; increase output allowance only within budget"
+        }
+      ],
+      "metrics": {
+        "llm_calls": 5,
+        "workflow_model_calls": 5,
+        "tool_calls": 21,
+        "input_tokens": 109937,
+        "output_tokens": 10887,
+        "reasoning_tokens": 6271,
+        "api_cost_usd": 0.01918525,
+        "wall_seconds": 97.1893,
+        "retrieved_records": 59
+      },
+      "markdown": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.md",
+      "events": "evaluation/v1/raw/Q9/question-Q9-c7c58bd6.events.jsonl",
+      "accepted_claims": 0,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "Investigation stopped before a verified assessment could be completed."
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 10,
+        "neighbors": 2,
+        "lookup": 9
+      },
+      "investigation_rounds": 4,
+      "review_rounds": 0
+    },
+    {
+      "question_id": "Q10",
+      "origin": "post-freeze evaluation",
+      "status": "partial",
+      "json": "evaluation/v1/raw/Q10/question-Q10-80548726.json",
+      "errors": [],
+      "metrics": {
+        "llm_calls": 6,
+        "workflow_model_calls": 6,
+        "tool_calls": 25,
+        "input_tokens": 118778,
+        "output_tokens": 9833,
+        "reasoning_tokens": 5534,
+        "api_cost_usd": 0.0197633,
+        "wall_seconds": 86.7524,
+        "retrieved_records": 60
+      },
+      "markdown": "evaluation/v1/raw/Q10/question-Q10-80548726.md",
+      "events": "evaluation/v1/raw/Q10/question-Q10-80548726.events.jsonl",
+      "accepted_claims": 8,
+      "rejected_claims": 0,
+      "unresolved_issues": [
+        "The records do not establish whether aflatoxin-specific increased identity or physical checks, or specific aflatoxin sampling and testing requirements, apply to this dried-fig consignment from Türkiye.",
+        "The records do not provide enough shipment or analytical information to decide whether either dried-fig maximum level is exceeded.",
+        "The supplied records do not include Regulation (EU) 2023/2782, so they cannot establish its applicable aflatoxin sampling and analytical requirements.",
+        "The cited legislation is supplied only as frozen snapshots, not verified current law; the dried-fig classification, current Annex II conditions, and shipment-specific entry documentation still require confirmation.",
+        "Without the measured concentration, total aflatoxins, and reliable analytical and product-classification details, the shipment's compliance status cannot be determined.",
+        "No accepted claim addresses issue: Aflatoxin maximum levels and classification",
+        "No accepted claim addresses issue: Operator duties and action on potential non-compliance",
+        "No accepted claim addresses issue: Türkiye import controls and consignment documentation",
+        "No accepted claim addresses issue: Current-law and shipment-specific verification",
+        "No accepted claim addresses issue: Aflatoxin limits and product classification",
+        "No accepted claim addresses issue: Türkiye import-control applicability and entry requirements",
+        "No accepted claim addresses issue: Current-law and shipment-fact verification",
+        "No accepted claim addresses issue: Türkiye import-control scope and consignment requirements",
+        "No accepted claim addresses issue: Shipment facts and current-law verification",
+        "No accepted claim addresses issue: Aflatoxin maximum levels and product classification",
+        "No accepted claim addresses issue: Operator duties and action on confirmed non-compliance"
+      ],
+      "limitations": [
+        "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+        "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+        "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+        "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+      ],
+      "observed_tools": {
+        "search": 10,
+        "lookup": 12,
+        "neighbors": 3
+      },
+      "investigation_rounds": 4,
+      "review_rounds": 1
+    }
+  ],
+  "totals": {
+    "llm_calls": 55,
+    "tool_calls": 164,
+    "input_tokens": 893103,
+    "output_tokens": 89011,
+    "reasoning_tokens": 55967,
+    "wall_seconds": 777.6283,
+    "api_cost_usd": 0.1550755
+  },
+  "progress": {
+    "started_at": "2026-10-22T19:00:33.377220+00:00",
+    "attempted": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q6",
+      "Q7",
+      "Q8",
+      "Q9",
+      "Q10"
+    ],
+    "remaining": [],
+    "stop_reason": "Q9 failed and was preserved without retry. Q10 was subsequently executed once as an independent question; no questions remain unattempted.",
+    "finished_at": "2026-10-22T19:13:36.229270+00:00",
+    "initial_stop_reason": "Q9 failed (exit 2); preserved without retry",
+    "report_finalized_at": "2026-10-23T08:19:29.642045+00:00",
+    "resume_note": "No additional API calls. Recovered Q10 output already completed in the prior session."
+  },
+  "budget_before": {
+    "calls": [
+      {
+        "id": "54819a9d-7910-4fee-b5d6-49f64a2d2716",
+        "time": "2026-10-22T18:22:35.897399+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": null,
+        "state": "bounded"
+      },
+      {
+        "id": "3ab993e9-e9e0-44b0-811c-3e7318056fbe",
+        "time": "2026-10-22T18:24:50.338987+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 1694050,
+        "state": "settled"
+      },
+      {
+        "id": "030fa438-6660-4125-aef8-1538e0776d16",
+        "time": "2026-10-22T18:26:40.239516+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 487800,
+        "state": "settled"
+      },
+      {
+        "id": "37601b7e-5ed6-4efd-9f09-44e4d7bbaada",
+        "time": "2026-10-22T18:26:47.650621+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 1978300,
+        "state": "settled"
+      },
+      {
+        "id": "3e17832b-7800-4387-8552-58c79593ce47",
+        "time": "2026-10-22T18:26:55.121646+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2058175,
+        "state": "settled"
+      },
+      {
+        "id": "1fe55eee-196b-4552-baad-4a8e350be254",
+        "time": "2026-10-22T18:27:02.757212+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2189675,
+        "state": "settled"
+      },
+      {
+        "id": "6bdf2be8-c84c-4a40-9489-63fc2a012b22",
+        "time": "2026-10-22T18:27:12.796744+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 3920425,
+        "state": "settled"
+      },
+      {
+        "id": "556c366f-8d04-44d1-9f7d-16f5f37f9803",
+        "time": "2026-10-22T18:27:43.855421+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2985800,
+        "state": "settled"
+      }
+    ],
+    "accounted_nano_usd": 544814225,
+    "remaining_nano_usd": 1455185775,
+    "known_usage_nano_usd": 15314225,
+    "unknown_usage_reserved_nano_usd": 529500000
+  },
+  "budget_after": {
+    "calls": [
+      {
+        "id": "54819a9d-7910-4fee-b5d6-49f64a2d2716",
+        "time": "2026-10-22T18:22:35.897399+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": null,
+        "state": "bounded"
+      },
+      {
+        "id": "3ab993e9-e9e0-44b0-811c-3e7318056fbe",
+        "time": "2026-10-22T18:24:50.338987+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 1694050,
+        "state": "settled"
+      },
+      {
+        "id": "030fa438-6660-4125-aef8-1538e0776d16",
+        "time": "2026-10-22T18:26:40.239516+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 487800,
+        "state": "settled"
+      },
+      {
+        "id": "37601b7e-5ed6-4efd-9f09-44e4d7bbaada",
+        "time": "2026-10-22T18:26:47.650621+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 1978300,
+        "state": "settled"
+      },
+      {
+        "id": "3e17832b-7800-4387-8552-58c79593ce47",
+        "time": "2026-10-22T18:26:55.121646+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2058175,
+        "state": "settled"
+      },
+      {
+        "id": "1fe55eee-196b-4552-baad-4a8e350be254",
+        "time": "2026-10-22T18:27:02.757212+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2189675,
+        "state": "settled"
+      },
+      {
+        "id": "6bdf2be8-c84c-4a40-9489-63fc2a012b22",
+        "time": "2026-10-22T18:27:12.796744+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 3920425,
+        "state": "settled"
+      },
+      {
+        "id": "556c366f-8d04-44d1-9f7d-16f5f37f9803",
+        "time": "2026-10-22T18:27:43.855421+00:00",
+        "purpose": "development",
+        "question": "Q5",
+        "reserved": 529500000,
+        "actual": 2985800,
+        "state": "settled"
+      },
+      {
+        "id": "6a206b38-0e53-4ef0-a0fe-9dded9ddc849",
+        "time": "2026-10-22T19:00:35.815598+00:00",
+        "purpose": "evaluation",
+        "question": "Q1",
+        "reserved": 529500000,
+        "actual": 1596175,
+        "state": "settled"
+      },
+      {
+        "id": "fa295da5-f696-4026-81bd-5f44c991e983",
+        "time": "2026-10-22T19:00:47.146102+00:00",
+        "purpose": "evaluation",
+        "question": "Q1",
+        "reserved": 529500000,
+        "actual": 1796175,
+        "state": "settled"
+      },
+      {
+        "id": "d6ae70b4-5ec4-4771-a4e0-875ae5df4a91",
+        "time": "2026-10-22T19:00:56.385828+00:00",
+        "purpose": "evaluation",
+        "question": "Q1",
+        "reserved": 529500000,
+        "actual": 2696675,
+        "state": "settled"
+      },
+      {
+        "id": "20728783-c5de-45de-b9a1-5623188a7bc4",
+        "time": "2026-10-22T19:01:19.365163+00:00",
+        "purpose": "evaluation",
+        "question": "Q1",
+        "reserved": 529500000,
+        "actual": 2185675,
+        "state": "settled"
+      },
+      {
+        "id": "b898a7a8-fe7d-48ca-abd1-e7591c052272",
+        "time": "2026-10-22T19:01:32.088567+00:00",
+        "purpose": "evaluation",
+        "question": "Q2",
+        "reserved": 529500000,
+        "actual": 1439050,
+        "state": "settled"
+      },
+      {
+        "id": "52ad67cd-0824-45b3-8a44-f5f41ab3d149",
+        "time": "2026-10-22T19:01:38.211758+00:00",
+        "purpose": "evaluation",
+        "question": "Q2",
+        "reserved": 529500000,
+        "actual": 1946050,
+        "state": "settled"
+      },
+      {
+        "id": "a1882ca2-4d4b-4450-bb63-1c18fbe82421",
+        "time": "2026-10-22T19:01:52.025211+00:00",
+        "purpose": "evaluation",
+        "question": "Q2",
+        "reserved": 529500000,
+        "actual": 1618550,
+        "state": "settled"
+      },
+      {
+        "id": "1a645f72-292f-438d-9605-87f7cefafb42",
+        "time": "2026-10-22T19:02:02.733061+00:00",
+        "purpose": "evaluation",
+        "question": "Q3",
+        "reserved": 529500000,
+        "actual": 1376800,
+        "state": "settled"
+      },
+      {
+        "id": "6bd7914c-942a-4b5b-95c8-ae2ce225c7e8",
+        "time": "2026-10-22T19:02:06.547697+00:00",
+        "purpose": "evaluation",
+        "question": "Q3",
+        "reserved": 529500000,
+        "actual": 1716300,
+        "state": "settled"
+      },
+      {
+        "id": "b796fb6b-e61b-4d7b-bf99-d0854011bad4",
+        "time": "2026-10-22T19:02:13.306760+00:00",
+        "purpose": "evaluation",
+        "question": "Q3",
+        "reserved": 529500000,
+        "actual": 2480425,
+        "state": "settled"
+      },
+      {
+        "id": "2b81cd66-2840-4455-8a83-355b36027096",
+        "time": "2026-10-22T19:02:31.460118+00:00",
+        "purpose": "evaluation",
+        "question": "Q3",
+        "reserved": 529500000,
+        "actual": 2021925,
+        "state": "settled"
+      },
+      {
+        "id": "3d80c426-e066-4eba-93de-74492dbb5e88",
+        "time": "2026-10-22T19:02:41.530282+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 1343050,
+        "state": "settled"
+      },
+      {
+        "id": "0a01ab8a-f85f-4462-becb-ed91adcd987a",
+        "time": "2026-10-22T19:02:45.666151+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 2478675,
+        "state": "settled"
+      },
+      {
+        "id": "a92bb6fb-2790-403b-96fa-026515fa9b99",
+        "time": "2026-10-22T19:02:52.586503+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 3365550,
+        "state": "settled"
+      },
+      {
+        "id": "5b8f132a-4810-4f07-993e-2c0bb78dedda",
+        "time": "2026-10-22T19:03:00.095630+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 4109550,
+        "state": "settled"
+      },
+      {
+        "id": "07518fb6-9120-4ae3-a0bc-e90332b61d1f",
+        "time": "2026-10-22T19:03:10.444398+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 5639800,
+        "state": "settled"
+      },
+      {
+        "id": "2ce91d7e-f70a-4739-be15-f7e75068cdf2",
+        "time": "2026-10-22T19:03:41.661954+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 4663300,
+        "state": "settled"
+      },
+      {
+        "id": "e75b198c-adbe-4b16-a786-6fa4da9a3d57",
+        "time": "2026-10-22T19:03:53.520787+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 5199300,
+        "state": "settled"
+      },
+      {
+        "id": "afb6efa4-cfce-4354-8498-303c73e52a4f",
+        "time": "2026-10-22T19:04:17.532132+00:00",
+        "purpose": "evaluation",
+        "question": "Q4",
+        "reserved": 529500000,
+        "actual": 4765800,
+        "state": "settled"
+      },
+      {
+        "id": "56547e1c-0f3c-4662-8e01-9500cd74fb98",
+        "time": "2026-10-22T19:04:31.099954+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 1276675,
+        "state": "settled"
+      },
+      {
+        "id": "ba007b9d-9f22-4eae-9a3d-60992ef1dda6",
+        "time": "2026-10-22T19:04:36.532385+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 1506675,
+        "state": "settled"
+      },
+      {
+        "id": "59040113-c433-4767-8ba9-8b064f153b77",
+        "time": "2026-10-22T19:04:43.459773+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 1500800,
+        "state": "settled"
+      },
+      {
+        "id": "ce396c20-1d33-4d82-aeaa-464e74e0a79f",
+        "time": "2026-10-22T19:04:48.379420+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 3481175,
+        "state": "settled"
+      },
+      {
+        "id": "6862374e-734f-4be1-b3c1-248254166738",
+        "time": "2026-10-22T19:05:22.922235+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 2218175,
+        "state": "settled"
+      },
+      {
+        "id": "c1345d40-2d21-464d-9e66-d094f8cf25ca",
+        "time": "2026-10-22T19:05:33.973377+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 4133425,
+        "state": "settled"
+      },
+      {
+        "id": "fcc7dd76-5a0a-4fa5-bf87-e539fead3736",
+        "time": "2026-10-22T19:06:08.645213+00:00",
+        "purpose": "evaluation",
+        "question": "Q6",
+        "reserved": 529500000,
+        "actual": 2569800,
+        "state": "settled"
+      },
+      {
+        "id": "35edc4e1-1935-46f8-b978-3e44ce5807b1",
+        "time": "2026-10-22T19:06:21.089123+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 1425300,
+        "state": "settled"
+      },
+      {
+        "id": "03c4409a-42ad-433c-9550-f00f30efeed5",
+        "time": "2026-10-22T19:06:27.772526+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 2166675,
+        "state": "settled"
+      },
+      {
+        "id": "4ee7a9b8-5eff-40e9-a38f-edcbf8c49d8c",
+        "time": "2026-10-22T19:06:40.447357+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 2899050,
+        "state": "settled"
+      },
+      {
+        "id": "640d234f-3c10-411a-bbe3-dd92a223b6be",
+        "time": "2026-10-22T19:07:01.557666+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 2287675,
+        "state": "settled"
+      },
+      {
+        "id": "decc9583-4083-4751-9b7b-e6151c76f75a",
+        "time": "2026-10-22T19:07:11.730268+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 3631425,
+        "state": "settled"
+      },
+      {
+        "id": "b93f35d9-9e8b-4624-9ad2-0e1da219d1b6",
+        "time": "2026-10-22T19:07:42.341038+00:00",
+        "purpose": "evaluation",
+        "question": "Q7",
+        "reserved": 529500000,
+        "actual": 3216300,
+        "state": "settled"
+      },
+      {
+        "id": "68876f50-7edf-4dbe-9160-546c80e4e5eb",
+        "time": "2026-10-22T19:07:58.019896+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 1697300,
+        "state": "settled"
+      },
+      {
+        "id": "af1e3ad8-05d2-41c1-af61-93d1bc12bfa8",
+        "time": "2026-10-22T19:08:07.737376+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 2494675,
+        "state": "settled"
+      },
+      {
+        "id": "28572456-0b61-4df0-8c93-79ae3cad15ae",
+        "time": "2026-10-22T19:08:15.546901+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 3399550,
+        "state": "settled"
+      },
+      {
+        "id": "d19d0902-d6ed-4da8-916c-c74a18a0d545",
+        "time": "2026-10-22T19:08:37.649729+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 2814300,
+        "state": "settled"
+      },
+      {
+        "id": "bc4d71b2-3a21-4b51-b1c9-f7fa8b3f34bc",
+        "time": "2026-10-22T19:08:46.412331+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 4031550,
+        "state": "settled"
+      },
+      {
+        "id": "753f939b-a1bd-4101-8fb8-ac9d131254f9",
+        "time": "2026-10-22T19:09:14.592959+00:00",
+        "purpose": "evaluation",
+        "question": "Q8",
+        "reserved": 529500000,
+        "actual": 3317425,
+        "state": "settled"
+      },
+      {
+        "id": "699c4b65-9ba7-4da0-9d15-8b35bf0a2fd4",
+        "time": "2026-10-22T19:09:29.153154+00:00",
+        "purpose": "evaluation",
+        "question": "Q9",
+        "reserved": 529500000,
+        "actual": 2451675,
+        "state": "settled"
+      },
+      {
+        "id": "3592c8ff-79d2-417c-88b5-f2d8021f3bac",
+        "time": "2026-10-22T19:09:50.281738+00:00",
+        "purpose": "evaluation",
+        "question": "Q9",
+        "reserved": 529500000,
+        "actual": 2866550,
+        "state": "settled"
+      },
+      {
+        "id": "32919645-a078-47c1-8b92-03af25590ac2",
+        "time": "2026-10-22T19:09:57.821039+00:00",
+        "purpose": "evaluation",
+        "question": "Q9",
+        "reserved": 529500000,
+        "actual": 3448550,
+        "state": "settled"
+      },
+      {
+        "id": "5919d3f6-ef43-4e33-9f2a-5483f809eeeb",
+        "time": "2026-10-22T19:10:07.463020+00:00",
+        "purpose": "evaluation",
+        "question": "Q9",
+        "reserved": 529500000,
+        "actual": 3838300,
+        "state": "settled"
+      },
+      {
+        "id": "5932f06a-9f67-4482-af09-8363f26fe92d",
+        "time": "2026-10-22T19:10:15.272592+00:00",
+        "purpose": "evaluation",
+        "question": "Q9",
+        "reserved": 529500000,
+        "actual": 6580175,
+        "state": "settled"
+      },
+      {
+        "id": "5c825336-f51d-45c4-91a4-a319614a40d6",
+        "time": "2026-10-22T19:12:09.480080+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 1415925,
+        "state": "settled"
+      },
+      {
+        "id": "f9a22398-4fc1-47aa-b086-5637c9e175ce",
+        "time": "2026-10-22T19:12:15.801754+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 2373175,
+        "state": "settled"
+      },
+      {
+        "id": "080a1bfe-519b-42e9-96fe-e3306295163b",
+        "time": "2026-10-22T19:12:25.383556+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 3044925,
+        "state": "settled"
+      },
+      {
+        "id": "39323a67-9027-45d0-8f0c-91daea4e84f1",
+        "time": "2026-10-22T19:12:38.187003+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 3386175,
+        "state": "settled"
+      },
+      {
+        "id": "dbad67a9-3e0d-4f87-8758-5b47907f8858",
+        "time": "2026-10-22T19:12:51.764905+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 5623425,
+        "state": "settled"
+      },
+      {
+        "id": "949e1fe7-0fd0-4b5c-be9b-11a1ba857204",
+        "time": "2026-10-22T19:13:28.934047+00:00",
+        "purpose": "evaluation",
+        "question": "Q10",
+        "reserved": 529500000,
+        "actual": 3919675,
+        "state": "settled"
+      }
+    ],
+    "accounted_nano_usd": 686269550,
+    "remaining_nano_usd": 1313730450,
+    "known_usage_nano_usd": 156769550,
+    "unknown_usage_reserved_nano_usd": 529500000
+  },
+  "new_evaluation_accounted_usd": 0.141455325,
+  "context_policy": "Fresh process and empty history per question. Default prescribed case. Original preceding question text for Q3/Q9/Q10 only; no preceding answers or retrieved evidence.",
+  "grading_performed": false,
+  "q5_rerun": false
+}

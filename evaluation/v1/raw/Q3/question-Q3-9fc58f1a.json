@@ -1,0 +1,1779 @@
+{
+  "schema_version": "1.0",
+  "question_id": "Q3",
+  "question": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting?",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null,
+    "preceding_question": "What is the applicable EU maximum level for aflatoxin B1 and total aflatoxins in dried figs intended for direct human consumption?",
+    "preceding_answer": null
+  },
+  "history": [],
+  "started_at": "2026-10-22T19:02:02.728063+00:00",
+  "finished_at": "2026-10-22T19:02:39.429605+00:00",
+  "mode": "openai",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "status": "partial",
+  "corpus_fingerprint": "baae5529ee340f20312eff4cf3418689dae02082b74167ccd47a6d797f180980",
+  "sources": [
+    {
+      "file": "EU_2002_178_consolidated_2026-01-01.html",
+      "bytes": 312348,
+      "sha256": "a4baf4a41c38c73cfc3f71f104a6cb213a775009212d80dc07bacdbdd53f42aa",
+      "regulation": "178/2002",
+      "snapshot": "2026-01-01",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/eng",
+      "title": "REGULATION (EC) No 178/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 8a",
+        "Article 8b",
+        "Article 8c",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "Article 18",
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24",
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 31",
+        "Article 32",
+        "Article 32a",
+        "Article 32b",
+        "Article 32c",
+        "Article 32d",
+        "Article 33",
+        "Article 34",
+        "Article 35",
+        "Article 36",
+        "Article 37",
+        "Article 38",
+        "Article 39",
+        "Article 39a",
+        "Article 39b",
+        "Article 39c",
+        "Article 39d",
+        "Article 39e",
+        "Article 39f",
+        "Article 39g",
+        "Article 40",
+        "Article 41",
+        "Article 42",
+        "Article 43",
+        "Article 44",
+        "Article 45",
+        "Article 46",
+        "Article 47",
+        "Article 48",
+        "Article 49",
+        "Article 50",
+        "Article 51",
+        "Article 52",
+        "Article 53",
+        "Article 54",
+        "Article 55",
+        "Article 56",
+        "Article 57",
+        "Article 57a",
+        "Article 58",
+        "Article 59",
+        "Article 60",
+        "Article 61",
+        "Article 61a",
+        "Article 62",
+        "Article 63",
+        "Article 64",
+        "Article 65"
+      ],
+      "records": 88
+    },
+    {
+      "file": "EU_2017_625_consolidated_2025-01-05.html",
+      "bytes": 1215786,
+      "sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng",
+      "title": "REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "Article 18",
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24",
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 31",
+        "Article 32",
+        "Article 33",
+        "Article 34",
+        "Article 35",
+        "Article 36",
+        "Article 37",
+        "Article 38",
+        "Article 39",
+        "Article 40",
+        "Article 41",
+        "Article 42",
+        "Article 43",
+        "Article 44",
+        "Article 45",
+        "Article 46",
+        "Article 47",
+        "Article 48",
+        "Article 49",
+        "Article 50",
+        "Article 51",
+        "Article 52",
+        "Article 53",
+        "Article 54",
+        "Article 55",
+        "Article 56",
+        "Article 57",
+        "Article 58",
+        "Article 59",
+        "Article 60",
+        "Article 61",
+        "Article 62",
+        "Article 63",
+        "Article 64",
+        "Article 65",
+        "Article 66",
+        "Article 67",
+        "Article 68",
+        "Article 69",
+        "Article 70",
+        "Article 71",
+        "Article 72",
+        "Article 73",
+        "Article 74",
+        "Article 75",
+        "Article 76",
+        "Article 77",
+        "Article 78",
+        "Article 79",
+        "Article 80",
+        "Article 81",
+        "Article 82",
+        "Article 83",
+        "Article 84",
+        "Article 85",
+        "Article 86",
+        "Article 87",
+        "Article 88",
+        "Article 89",
+        "Article 90",
+        "Article 91",
+        "Article 92",
+        "Article 93",
+        "Article 94",
+        "Article 95",
+        "Article 96",
+        "Article 97",
+        "Article 98",
+        "Article 99",
+        "Article 100",
+        "Article 101",
+        "Article 102",
+        "Article 103",
+        "Article 104",
+        "Article 105",
+        "Article 106",
+        "Article 107",
+        "Article 108",
+        "Article 109",
+        "Article 110",
+        "Article 111",
+        "Article 112",
+        "Article 113",
+        "Article 114",
+        "Article 115",
+        "Article 116",
+        "Article 117",
+        "Article 118",
+        "Article 119",
+        "Article 120",
+        "Article 121",
+        "Article 122",
+        "Article 123",
+        "Article 124",
+        "Article 125",
+        "Article 126",
+        "Article 127",
+        "Article 128",
+        "Article 129",
+        "Article 130",
+        "Article 131",
+        "Article 132",
+        "Article 133",
+        "Article 134",
+        "Article 135",
+        "Article 136",
+        "Article 137",
+        "Article 138",
+        "Article 139",
+        "Article 140",
+        "Article 141",
+        "Article 142",
+        "Article 143",
+        "Article 144",
+        "Article 145",
+        "Article 146",
+        "Article 147",
+        "Article 148",
+        "Article 149",
+        "Article 150",
+        "Article 151",
+        "Article 152",
+        "Article 153",
+        "Article 154",
+        "Article 155",
+        "Article 156",
+        "Article 157",
+        "Article 158",
+        "Article 159",
+        "Article 160",
+        "Article 161",
+        "Article 162",
+        "Article 163",
+        "Article 164",
+        "Article 165",
+        "Article 166",
+        "Article 167",
+        "ANNEX I",
+        "ANNEX II",
+        "ANNEX III",
+        "ANNEX IV",
+        "ANNEX V"
+      ],
+      "records": 937
+    },
+    {
+      "file": "EU_2019_1793_consolidated_2026-06-30.html",
+      "bytes": 5444592,
+      "sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng",
+      "title": "COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793 of 22 October 2019 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and (EC) No 178/2002 of the European Parliament and of the Council and repealing Commission Regulations (EC) No 669/2009, (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660 (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 11a",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "ANNEX I",
+        "ANNEX II",
+        "ANNEX IIa",
+        "ANNEX III",
+        "ANNEX IV"
+      ],
+      "records": 584
+    },
+    {
+      "file": "EU_2019__1013_original.html",
+      "bytes": 16190,
+      "sha256": "54ee4dc43c3be8a231b6fb5eb8183f9477b392bde9e4afe7ff94b7bded7ebe70",
+      "regulation": "2019/1013",
+      "snapshot": "original act (not consolidated)",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1013/oj/eng",
+      "title": "COMMISSION IMPLEMENTING REGULATION (EU) 2019/1013 of 16 April 2019 on prior notification of consignments of certain categories of animals and goods entering the Union (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2"
+      ],
+      "records": 4
+    },
+    {
+      "file": "EU_2023_915_consolidated_2026-08-19.html",
+      "bytes": 556491,
+      "sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng",
+      "title": "COMMISSION REGULATION (EU) 2023/915 of 25 April 2023 on maximum levels for certain contaminants in food and repealing Regulation (EC) No 1881/2006 (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "ANNEX I",
+        "ANNEX II"
+      ],
+      "records": 651
+    }
+  ],
+  "issues": [
+    "Direct-consumption dried-fig limit",
+    "Sorting or physical-treatment category",
+    "Processed-product rule and Article 3 factors",
+    "Dried-fig aflatoxin limits",
+    "Sorting and physical-treatment category",
+    "Processed products and Article 3 factors"
+  ],
+  "assessment": {
+    "claims": [
+      {
+        "id": "C1",
+        "issue": "Sorting or physical-treatment category",
+        "category": "direct_answer",
+        "statement": "For dried figs themselves, the supplied table does not impose a different limit merely because they are destined for sorting: the general sorting category for dried fruits expressly excludes products listed under 1.1.3, which is the dried-fig entry.",
+        "conditions": [
+          "This conclusion concerns dried figs classified under entry 1.1.3, rather than a separate processed product."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E1b9753e43915923f",
+            "quote": "Dried fruits to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3"
+          },
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "HTML row 6: C1: 1.1.3 | C2: Dried figs | C3: 6,0 | C4: 10,0"
+          }
+        ]
+      },
+      {
+        "id": "C2",
+        "issue": "Dried-fig aflatoxin limits",
+        "category": "legal_requirement",
+        "statement": "The supplied Annex I entry lists maximum levels for dried figs of 6.0 μg/kg for aflatoxin B1 and 10.0 μg/kg for the sum of B1, B2, G1 and G2.",
+        "conditions": [
+          "The table headers identify the two numeric columns as B1 and the sum of B1, B2, G1 and G2."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "C3: B1 | C4: Sum of B1, B2, G1 and G2"
+          },
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "HTML row 6: C1: 1.1.3 | C2: Dried figs | C3: 6,0 | C4: 10,0"
+          }
+        ]
+      },
+      {
+        "id": "C3",
+        "issue": "Processed-product rule and Article 3 factors",
+        "category": "legal_requirement",
+        "statement": "For a processed product consisting at least 80% of dried figs, the dried-fig maximum levels also apply; for other cases, Article 3(1) and (2) apply.",
+        "conditions": [
+          "This rule concerns a processed product, not merely dried figs intended for later processing."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "in the case of processed products consisting at least of 80 % from dried figs, the maximum levels as established for dried figs apply also to those products. In other cases, Article 3(1) and (2) apply."
+          }
+        ]
+      },
+      {
+        "id": "C4",
+        "issue": "Processed-product rule and Article 3 factors",
+        "category": "legal_requirement",
+        "statement": "Where Article 3 applies because no specific Union maximum level is set for the relevant processed food, the factors to take into account include concentration changes from drying or dilution and processing, ingredient proportions, and the analytical limit of quantification.",
+        "conditions": [
+          "Article 3(1) applies where no specific Union maximum level is set out for the dried, diluted, processed or compound food."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E430e8b5474e74155",
+            "quote": "the following aspects shall be taken into account when applying the maximum levels set out in Annex I to such food: (a) changes of the concentration of the contaminant caused by drying or dilution processes; (b) changes of the concentration of the contaminant caused by processing; (c) the relative proportions of the ingredients in the product; (d) the analytical limit of quantification."
+          }
+        ]
+      }
+    ],
+    "unknown_facts": [
+      "Whether the goods are dried figs themselves destined for sorting, or a processed product; if processed, the proportion of dried figs in it.",
+      "The intended use and applicable product classification for the shipment.",
+      "The measured aflatoxin B1 and total aflatoxin concentrations; detection alone does not establish whether a limit is exceeded."
+    ],
+    "verification_needed": [
+      "The records are frozen snapshots, not verified current law; confirm the applicable legal text for the relevant date and shipment."
+    ],
+    "unanswered_issues": [
+      "The supplied legal texts are frozen snapshots and do not establish which requirements apply on the shipment’s relevant date; current, date-specific law has not been verified.",
+      "No accepted claim addresses issue: Direct-consumption dried-fig limit",
+      "No accepted claim addresses issue: Sorting and physical-treatment category",
+      "No accepted claim addresses issue: Processed products and Article 3 factors"
+    ]
+  },
+  "rejected_claims": [],
+  "evidence": [
+    {
+      "id": "E430e8b5474e74155",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "Article 3",
+      "kind": "provision",
+      "anchor": "id-abe72c4b-9c12-4f3f-bc7a-222a2fb5b996",
+      "line_start": 485,
+      "line_end": 534,
+      "text": "Article 3\nDried, diluted, processed and compound food\n1. Where no specific Union maximum levels are set out in Annex I for food which is dried, diluted, processed or compound food (i.e. composed of more than one ingredient), the following aspects shall be taken into account when applying the maximum levels set out in Annex I to such food: (a) changes of the concentration of the contaminant caused by drying or dilution processes; (b) changes of the concentration of the contaminant caused by processing; (c) the relative proportions of the ingredients in the product; (d) the analytical limit of quantification.\n2. Where the competent authority carries out an official control, the food business operator shall provide and justify the specific concentration, dilution or processing factors for the drying, diluting or processing operations concerned or the specific concentration, dilution or processing factors for the dried, diluted, processed or compound food concerned as well as the proportion of ingredients for mixing operations concerned.\nWhere the food business operator does not provide the necessary concentration, dilution or processing factor or where the competent authority deems that factor inappropriate in view of the justification given, the competent authority shall itself define that factor, based on the available information and with the objective of maximum protection of human health.\n3. Where no specific Union maximum levels for food for infants and young children are set out in Annex I, Member States may provide for stricter maximum levels for such food.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-abe72c4b-9c12-4f3f-bc7a-222a2fb5b996",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E0c17d35a62395acf",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 6 / entry 1.1.3",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1180,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 6: C1: 1.1.3 | C2: Dried figs | C3: 6,0 | C4: 10,0 | C5: - | C6: In the case of food consisting of dried figs used as only ingredient or in the case of processed products consisting at least of 80 % from dried figs, the maximum levels as established for dried figs apply also to those products. In other cases, Article 3(1) and (2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 6,
+        "cells": [
+          {
+            "text": "1.1.3",
+            "line": 1164,
+            "origin_row": 6,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Dried figs",
+            "line": 1167,
+            "origin_row": 6,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "6,0",
+            "line": 1170,
+            "origin_row": 6,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "10,0",
+            "line": 1173,
+            "origin_row": 6,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1176,
+            "origin_row": 6,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "In the case of food consisting of dried figs used as only ingredient or in the case of processed products consisting at least of 80 % from dried figs, the maximum levels as established for dried figs apply also to those products. In other cases, Article 3(1) and (2) apply.",
+            "line": 1179,
+            "origin_row": 6,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Efa9ffd3da4cf7762",
+      "document": "EU_2002_178_consolidated_2026-01-01.html",
+      "regulation": "178/2002",
+      "snapshot": "2026-01-01",
+      "source_sha256": "a4baf4a41c38c73cfc3f71f104a6cb213a775009212d80dc07bacdbdd53f42aa",
+      "location": "Article 14",
+      "kind": "provision",
+      "anchor": "id-d46ce53d-3d84-4bbe-89f4-17acc49916cb",
+      "line_start": 1093,
+      "line_end": 1193,
+      "text": "Article 14\nFood safety requirements\n1. Food shall not be placed on the market if it is unsafe.\n2. Food shall be deemed to be unsafe if it is considered to be: (a) injurious to health; (b) unfit for human consumption.\n3. In determining whether any food is unsafe, regard shall be had: (a) to the normal conditions of use of the food by the consumer and at each stage of production, processing and distribution, and (b) to the information provided to the consumer, including information on the label, or other information generally available to the consumer concerning the avoidance of specific adverse health effects from a particular food or category of foods.\n4. In determining whether any food is injurious to health, regard shall be had: (a) not only to the probable immediate and/or short-term and/or long-term effects of that food on the health of a person consuming it, but also on subsequent generations; (b) to the probable cumulative toxic effects; (c) to the particular health sensitivities of a specific category of consumers where the food is intended for that category of consumers.\n5. In determining whether any food is unfit for human consumption, regard shall be had to whether the food is unacceptable for human consumption according to its intended use, for reasons of contamination, whether by extraneous matter or otherwise, or through putrefaction, deterioration or decay.\n6. Where any food which is unsafe is part of a batch, lot or consignment of food of the same class or description, it shall be presumed that all the food in that batch, lot or consignment is also unsafe, unless following a detailed assessment there is no evidence that the rest of the batch, lot or consignment is unsafe.\n7. Food that complies with specific Community provisions governing food safety shall be deemed to be safe insofar as the aspects covered by the specific Community provisions are concerned.\n8. Conformity of a food with specific provisions applicable to that food shall not bar the competent authorities from taking appropriate measures to impose restrictions on it being placed on the market or to require its withdrawal from the market where there are reasons to suspect that, despite such conformity, the food is unsafe.\n9. Where there are no specific Community provisions, food shall be deemed to be safe when it conforms to the specific provisions of national food law of the Member State in whose territory the food is marketed, such provisions being drawn up and applied without prejudice to the Treaty, in particular Articles 28 and 30 thereof.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/eng#id-d46ce53d-3d84-4bbe-89f4-17acc49916cb",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E2266aa92251b17c0",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / part 1 of 2",
+      "kind": "provision",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 10972,
+      "line_end": 11012,
+      "text": "ANNEX I\n(1)Fruits, tree nuts, vegetables, cereals, oilseeds and spices as listed in the relevant category as defined in Annex I to Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC (OJ L 70, 16.3.2005, p. 1). For the purpose of this Regulation tree nuts are not covered by the maximum level for fruits.\n(2)Food as defined in Annex I to Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).\n(3)Food as defined in Article 2 of Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 (OJ L181, 29.6.2013, p. 35).\n(4)‘Young-child formulae’ refers to milk-based drinks and similar protein-based products intended for young children. These products are outside the scope of Regulation (EU) No 609/2013 (Report from the Commission to the European Parliament and the Council on young-child formulae (COM(2016) 169 final) https://eur-lex.europa.eu/legal-content/EN/TXT/?uri&equals;CELEX%3A52016DC0169&qid&equals;1620902871447).\n(5)Dry matter is determined according to Commission Regulation (EC) No 401/2006 of 23 February 2006 laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs (OJ L 70, 9.3.2006, p. 12).\n(6)First stage processing means any physical or thermal treatment, other than drying, of or on the grain. Cleaning, including scouring, dehulling, sorting (colour sorting where applicable) and drying procedures are not considered to be ‘first-stage processing’ insofar as the whole grain remains intact after cleaning and sorting. Scouring means cleaning cereal by brushing and/or scrubbing it vigorously, combined with dust removal (e.g. aspiration). The scouring may be followed by a colour sorting before milling.\n(7)Food as defined in Part II and Part VIII of Annex VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347 20.12.2013, p. 671).\n(8)Food as defined in Article 3 of Regulation (EU) No 251/2014 of the European Parliament and of the Council of 26 February 2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and repealing Council Regulation (EEC) No 1601/91 (OJ L 84, 20.3.2014, p. 14).\n(9)Food as defined in Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).\n(10)Food as defined in Article 2 of Regulation (EU) 2019/787 of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008 (OJ L 130, 17. 5. 2019, p.1).\n(11)The font size as specified in Article 13(2) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers (OJ L 304 22.11.2011, p. 18).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E9221964c3d7d8a65",
+      "document": "EU_2002_178_consolidated_2026-01-01.html",
+      "regulation": "178/2002",
+      "snapshot": "2026-01-01",
+      "source_sha256": "a4baf4a41c38c73cfc3f71f104a6cb213a775009212d80dc07bacdbdd53f42aa",
+      "location": "Article 1",
+      "kind": "provision",
+      "anchor": "id-94d31282-32fe-4fd2-b2ac-5dedede2e9ae",
+      "line_start": 406,
+      "line_end": 422,
+      "text": "Article 1\nAim and scope\n1. This Regulation provides the basis for the assurance of a high level of protection of human health and consumers' interest in relation to food, taking into account in particular the diversity in the supply of food including traditional products, whilst ensuring the effective functioning of the internal market. It establishes common principles and responsibilities, the means to provide a strong science base, efficient organisational arrangements and procedures to underpin decision-making in matters of food and feed safety.\n2. For the purposes of paragraph 1, this Regulation lays down the general principles governing food and feed in general, and food and feed safety in particular, at Community and national level.\nIt establishes the European Food Safety Authority.\nIt lays down procedures for matters with a direct or indirect impact on food and feed safety.\n3. This Regulation shall apply to all stages of production, processing and distribution of food and feed. It shall not apply to primary production for private domestic use or to the domestic preparation, handling or storage of food for private domestic consumption.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/eng#id-94d31282-32fe-4fd2-b2ac-5dedede2e9ae",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E5b9e672e40ff8dc1",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 24 / HTML row 11 / entry 5.1.8",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 9524,
+      "line_end": 9717,
+      "text": "ANNEX I\nTable headers:\nC1: 5 | C2: Processing contaminants | C3: Processing contaminants | C4: Processing contaminants | C5: Processing contaminants\nC1: 5.1 | C2: Polycyclic aromatic hydrocarbons (PAHs) | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Remarks\nC1:  | C2:  | C3: Benzo(a)pyrene | C4: Sum of PAHs: benzo(a)pyrene, benz(a)anthracene, benzo(b) fluoranthene and chrysene | C5: For the sum of PAHs, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values of the four substances below the limit of quantification are zero.\nHTML row 11: C1: 5.1.8 | C2: Smoked sprats and canned smoked sprats (Sprattus sprattus) Smoked Baltic herring ≤ 14 cm length and canned smoked Baltic herring ≤ 14 cm length (Clupea harengus membras) Katsuobushi (dried bonito, Katsuwonus pelamis) Bivalve molluscs(2) (fresh, chilled or frozen) Heat treated meat and heat treated meat products placed on the market for the final consumer | C3: 5,0 | C4: 30,0 | C5: Where fish are intended to be eaten whole, the maximum level applies to the whole fish. Meat and meat products that have undergone a heat treatment potentially resulting in formation of PAH, i.e. only grilling and barbecuing. For the canned products, the maximum level applies to the whole content of the can. As regards the maximum level for the whole composite product, Article 3(1), point (c) and Article 3(2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 24,
+        "row_number": 11,
+        "cells": [
+          {
+            "text": "5.1.8",
+            "line": 9698,
+            "origin_row": 11,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Smoked sprats and canned smoked sprats (Sprattus sprattus) Smoked Baltic herring ≤ 14 cm length and canned smoked Baltic herring ≤ 14 cm length (Clupea harengus membras) Katsuobushi (dried bonito, Katsuwonus pelamis) Bivalve molluscs(2) (fresh, chilled or frozen) Heat treated meat and heat treated meat products placed on the market for the final consumer",
+            "line": 9701,
+            "origin_row": 11,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "5,0",
+            "line": 9708,
+            "origin_row": 11,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "30,0",
+            "line": 9711,
+            "origin_row": 11,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Where fish are intended to be eaten whole, the maximum level applies to the whole fish. Meat and meat products that have undergone a heat treatment potentially resulting in formation of PAH, i.e. only grilling and barbecuing. For the canned products, the maximum level applies to the whole content of the can. As regards the maximum level for the whole composite product, Article 3(1), point (c) and Article 3(2) apply.",
+            "line": 9714,
+            "origin_row": 11,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 5 | C2: Processing contaminants | C3: Processing contaminants | C4: Processing contaminants | C5: Processing contaminants",
+          "C1: 5.1 | C2: Polycyclic aromatic hydrocarbons (PAHs) | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Remarks",
+          "C1:  | C2:  | C3: Benzo(a)pyrene | C4: Sum of PAHs: benzo(a)pyrene, benz(a)anthracene, benzo(b) fluoranthene and chrysene | C5: For the sum of PAHs, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values of the four substances below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E1b9753e43915923f",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 4 / entry 1.1.1",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1140,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 4: C1: 1.1.1 | C2: Dried fruits to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3 | C3: 5,0 | C4: 10,0 | C5: - | C6: ",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 4,
+        "cells": [
+          {
+            "text": "1.1.1",
+            "line": 1123,
+            "origin_row": 4,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Dried fruits to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3",
+            "line": 1126,
+            "origin_row": 4,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "5,0",
+            "line": 1129,
+            "origin_row": 4,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "10,0",
+            "line": 1132,
+            "origin_row": 4,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1135,
+            "origin_row": 4,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 1138,
+            "origin_row": 4,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Eeff3979d8caab0f8",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 16 / entry 1.1.13",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1388,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 16: C1: 1.1.13 | C2: Maize and rice to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food | C3: 5,0 | C4: 10,0 | C5: - | C6: ",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 16,
+        "cells": [
+          {
+            "text": "1.1.13",
+            "line": 1371,
+            "origin_row": 16,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Maize and rice to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food",
+            "line": 1374,
+            "origin_row": 16,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "5,0",
+            "line": 1377,
+            "origin_row": 16,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "10,0",
+            "line": 1380,
+            "origin_row": 16,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1383,
+            "origin_row": 16,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 1386,
+            "origin_row": 16,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E2c5c9c6c241d15d0",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 13 / entry 1.1.10",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1325,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 13: C1: 1.1.10 | C2: Hazelnuts and Brazil nuts, to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food | C3: 8,0 | C4: 15,0 | C5: - | C6: If hazelnuts ‘in shell’ are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 13,
+        "cells": [
+          {
+            "text": "1.1.10",
+            "line": 1309,
+            "origin_row": 13,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Hazelnuts and Brazil nuts, to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food",
+            "line": 1312,
+            "origin_row": 13,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "8,0",
+            "line": 1315,
+            "origin_row": 13,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "15,0",
+            "line": 1318,
+            "origin_row": 13,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1321,
+            "origin_row": 13,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "If hazelnuts ‘in shell’ are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+            "line": 1324,
+            "origin_row": 13,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Eb6a87949f75750ad",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 11 / entry 1.1.8",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1284,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 11: C1: 1.1.8 | C2: Almonds, pistachios and apricot kernels to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food | C3: 12,0 | C4: 15,0 | C5: - | C6: If tree nuts ‘in shell’ are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 11,
+        "cells": [
+          {
+            "text": "1.1.8",
+            "line": 1268,
+            "origin_row": 11,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Almonds, pistachios and apricot kernels to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food",
+            "line": 1271,
+            "origin_row": 11,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "12,0",
+            "line": 1274,
+            "origin_row": 11,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "15,0",
+            "line": 1277,
+            "origin_row": 11,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1280,
+            "origin_row": 11,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "If tree nuts ‘in shell’ are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+            "line": 1283,
+            "origin_row": 11,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E7fbd37177125c884",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "Article 16",
+      "kind": "provision",
+      "anchor": "id-48a83740-af3e-43ea-abaf-8b6689c7304d",
+      "line_start": 1872,
+      "line_end": 1955,
+      "text": "Article 16\nAdditional requirements\n1. In the areas governed by the rules provided for in this Section, those rules shall apply in addition to the other rules set out in this Regulation.\n2. When adopting delegated acts and implementing acts provided for in this Section, the Commission shall take into account the following: (a) the experience gained by competent authorities and food and feed business operators when applying the procedures referred to in Article 5 of Regulation (EC) No 852/2004 of the European Parliament and of the Council (7) and Article 6 of Regulation (EC) No 183/2005 of the European Parliament and of the Council (8); (b) scientific and technological developments; (c) consumer expectations with regard to food composition and changes in patterns of consumption of food; (d) risks to human and animal health and plant health associated with animals and goods; and (e) information on possible intentional violations perpetrated through fraudulent or deceptive practices.\n3. When adopting delegated acts and implementing acts provided for in this Section, and insofar as this does not prevent the achievement of the objectives pursued by the rules referred to in Article 1(2), the Commission shall also take into account the following: (a) the need to facilitate the application of the delegated acts and implementing acts, taking into account the nature and the size of small businesses; (b) the need to enable the continued use of traditional methods at any stage of production, processing or distribution of food, and the production of traditional foods; and (c) the needs of operators situated in regions that are subject to specific geographical constraints.\nFootnote #E0007: (7) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1).\nFootnote #E0008: (8) Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene (OJ L 35, 8.2.2005, p. 1).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-48a83740-af3e-43ea-abaf-8b6689c7304d",
+      "links": [
+        "#E0007",
+        "#E0008"
+      ],
+      "table": null
+    },
+    {
+      "id": "Ebc6b425f0928fd3c",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 170 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 170: C1: 14 | C2: Türkiye (TR) | C3: — Flours, meals and powder of dried figs | C4:  | C5:  | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 170,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Flours, meals and powder of dried figs",
+            "line": 9619,
+            "origin_row": 169,
+            "origin_column": 3,
+            "rowspan": 2,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9642,
+            "origin_row": 170,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9646,
+            "origin_row": 170,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9650,
+            "origin_row": 170,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9654,
+            "origin_row": 170,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E53feab25690fd9a8",
+      "document": "EU_2019__1013_original.html",
+      "regulation": "2019/1013",
+      "snapshot": "original act (not consolidated)",
+      "source_sha256": "54ee4dc43c3be8a231b6fb5eb8183f9477b392bde9e4afe7ff94b7bded7ebe70",
+      "location": "Article 1",
+      "kind": "provision",
+      "anchor": "d1e123-8-1",
+      "line_start": 151,
+      "line_end": 162,
+      "text": "Article 1\nPrior notification of consignments\n1. The operator responsible for a consignment falling within the categories of animals and goods referred to in Article 47(1) of Regulation (EU) 2017/625 shall give prior notification, to the competent authority of the border control post of first arrival into the Union, at least one working day before the expected arrival of the consignment.\n2. By way of derogation from paragraph 1, where logistical constraints prevent compliance with the time limit set out in that paragraph, the competent authorities of the border control posts may apply a period of prior notification of at least four hours before the expected arrival of the consignment.\n3. By way of derogation from paragraph 1, the competent authorities of border control posts designated for imports of unprocessed logs and sawn and chipped wood in accordance with Article 4 of Commission Delegated Regulation (EU) 2019/1012 may apply a period of prior notification of up to five working days before the expected arrival of such consignments.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1013/oj/eng#d1e123-8-1",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E51e78c2d4288a872",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 5 / entry 1.1.2",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1160,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 5: C1: 1.1.2 | C2: Dried fruits used as only ingredient or processed products from dried fruits, placed on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3 | C3: 2,0 | C4: 4,0 | C5: - | C6: In the case of food consisting of dried fruits used as only ingredient or in the case of processed products consisting at least of 80 % from the dried fruits concerned, the maximum levels as established for the corresponding dried fruits apply also to those products. In other cases, Article 3(1) and (2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 5,
+        "cells": [
+          {
+            "text": "1.1.2",
+            "line": 1144,
+            "origin_row": 5,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Dried fruits used as only ingredient or processed products from dried fruits, placed on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3",
+            "line": 1147,
+            "origin_row": 5,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "2,0",
+            "line": 1150,
+            "origin_row": 5,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "4,0",
+            "line": 1153,
+            "origin_row": 5,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1156,
+            "origin_row": 5,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "In the case of food consisting of dried fruits used as only ingredient or in the case of processed products consisting at least of 80 % from the dried fruits concerned, the maximum levels as established for the corresponding dried fruits apply also to those products. In other cases, Article 3(1) and (2) apply.",
+            "line": 1159,
+            "origin_row": 5,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Eea16ac31960de794",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 7 / entry 1.1.4",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1201,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 7: C1: 1.1.4 | C2: Groundnuts (peanuts) and other oilseeds, to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food | C3: 8,0 | C4: 15,0 | C5: - | C6: Except groundnuts (peanuts) and other oilseeds for crushing for refined vegetable oil production. If groundnuts (peanuts) and other oilseeds with inedible shell are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 7,
+        "cells": [
+          {
+            "text": "1.1.4",
+            "line": 1184,
+            "origin_row": 7,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Groundnuts (peanuts) and other oilseeds, to be subjected to sorting or other physical treatment before placing on the market for the final consumer or use as an ingredient in food",
+            "line": 1187,
+            "origin_row": 7,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "8,0",
+            "line": 1190,
+            "origin_row": 7,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "15,0",
+            "line": 1193,
+            "origin_row": 7,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1196,
+            "origin_row": 7,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Except groundnuts (peanuts) and other oilseeds for crushing for refined vegetable oil production. If groundnuts (peanuts) and other oilseeds with inedible shell are analysed, it is assumed, when calculating the aflatoxin content, that all the contamination is on the edible part.",
+            "line": 1199,
+            "origin_row": 7,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E214eb1fda2876b7e",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 8 / entry 1.1.5",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1223,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 8: C1: 1.1.5 | C2: Groundnuts (peanuts) and other oilseeds used as only ingredient or processed products from groundnuts (peanuts) and other oilseeds, placed on the market for the final consumer or use as an ingredient in food | C3: 2,0 | C4: 4,0 | C5: - | C6: Except crude vegetable oils destined for refining and refined vegetable oils. If groundnuts (peanuts) and other oilseeds with inedible shell are analysed, it is assumed when calculating the aflatoxin content that all the contamination is on the edible part. In the case of food consisting of groundnuts (peanuts) and other oilseeds used as only ingredient or in the case of processed products consisting at least of 80 % from the groundnuts (peanuts) and other oilseeds concerned, the maximum levels as established for the corresponding groundnuts (peanuts) and other oilseeds apply also to those products. In other cases, Articles 3(1) and (2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 8,
+        "cells": [
+          {
+            "text": "1.1.5",
+            "line": 1205,
+            "origin_row": 8,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Groundnuts (peanuts) and other oilseeds used as only ingredient or processed products from groundnuts (peanuts) and other oilseeds, placed on the market for the final consumer or use as an ingredient in food",
+            "line": 1208,
+            "origin_row": 8,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "2,0",
+            "line": 1211,
+            "origin_row": 8,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "4,0",
+            "line": 1214,
+            "origin_row": 8,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1217,
+            "origin_row": 8,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Except crude vegetable oils destined for refining and refined vegetable oils. If groundnuts (peanuts) and other oilseeds with inedible shell are analysed, it is assumed when calculating the aflatoxin content that all the contamination is on the edible part. In the case of food consisting of groundnuts (peanuts) and other oilseeds used as only ingredient or in the case of processed products consisting at least of 80 % from the groundnuts (peanuts) and other oilseeds concerned, the maximum levels as established for the corresponding groundnuts (peanuts) and other oilseeds apply also to those products. In other cases, Articles 3(1) and (2) apply.",
+            "line": 1220,
+            "origin_row": 8,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    }
+  ],
+  "events": [
+    {
+      "event": "tool_call",
+      "phase": "discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting?"
+      },
+      "result_ids": [
+        "E430e8b5474e74155",
+        "E0c17d35a62395acf",
+        "Efa9ffd3da4cf7762",
+        "E2266aa92251b17c0",
+        "E9221964c3d7d8a65",
+        "E5b9e672e40ff8dc1"
+      ],
+      "new_ids": [
+        "E430e8b5474e74155",
+        "E0c17d35a62395acf",
+        "Efa9ffd3da4cf7762",
+        "E2266aa92251b17c0",
+        "E9221964c3d7d8a65",
+        "E5b9e672e40ff8dc1"
+      ],
+      "scores": {
+        "E430e8b5474e74155": 10.91451,
+        "E0c17d35a62395acf": 8.61629,
+        "Efa9ffd3da4cf7762": 8.52806,
+        "E2266aa92251b17c0": 7.2398,
+        "E9221964c3d7d8a65": 7.14059,
+        "E5b9e672e40ff8dc1": 6.25585
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected"
+      },
+      "result_ids": [
+        "E0c17d35a62395acf",
+        "E1b9753e43915923f",
+        "E430e8b5474e74155",
+        "Eeff3979d8caab0f8",
+        "E2c5c9c6c241d15d0",
+        "Eb6a87949f75750ad"
+      ],
+      "new_ids": [
+        "E1b9753e43915923f",
+        "Eeff3979d8caab0f8",
+        "E2c5c9c6c241d15d0",
+        "Eb6a87949f75750ad"
+      ],
+      "scores": {
+        "E0c17d35a62395acf": 14.14376,
+        "E1b9753e43915923f": 11.35505,
+        "E430e8b5474e74155": 10.00497,
+        "Eeff3979d8caab0f8": 9.42781,
+        "E2c5c9c6c241d15d0": 9.29912,
+        "Eb6a87949f75750ad": 9.24789
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "178/2002",
+        "limit": 1
+      },
+      "result_ids": [
+        "Efa9ffd3da4cf7762"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2017/625",
+        "limit": 1
+      },
+      "result_ids": [
+        "E7fbd37177125c884"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2019/1793",
+        "limit": 1
+      },
+      "result_ids": [
+        "Ebc6b425f0928fd3c"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2019/1013",
+        "limit": 1
+      },
+      "result_ids": [
+        "E53feab25690fd9a8"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2023/915",
+        "limit": 1
+      },
+      "result_ids": [
+        "E0c17d35a62395acf"
+      ]
+    },
+    {
+      "event": "investigation_decision",
+      "round": 1,
+      "issues": [
+        "Direct-consumption dried-fig limit",
+        "Sorting or physical-treatment category",
+        "Processed-product rule and Article 3 factors"
+      ],
+      "missing_evidence": [
+        "The adjacent Annex I aflatoxin entries clarifying the separate direct-consumption and sorting/physical-treatment categories."
+      ],
+      "ready": false,
+      "actions": [
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "E0c17d35a62395acf"
+        }
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "E0c17d35a62395acf"
+      },
+      "result_ids": [
+        "E1b9753e43915923f",
+        "E51e78c2d4288a872",
+        "E0c17d35a62395acf",
+        "Eea16ac31960de794",
+        "E214eb1fda2876b7e"
+      ],
+      "new_ids": [
+        "E51e78c2d4288a872",
+        "Eea16ac31960de794",
+        "E214eb1fda2876b7e"
+      ],
+      "scores": null
+    },
+    {
+      "event": "investigation_decision",
+      "round": 2,
+      "issues": [
+        "Dried-fig aflatoxin limits",
+        "Sorting and physical-treatment category",
+        "Processed products and Article 3 factors"
+      ],
+      "missing_evidence": [
+        "The shipment’s intended use and whether sorting or other physical treatment is planned are unknown; product composition is also unknown if it is a processed product.",
+        "The Aflatoxin B1 and total-aflatoxin concentrations are not provided, so exceedance cannot be assessed.",
+        "The supplied regulation snapshot is not verified as current law."
+      ],
+      "ready": true,
+      "actions": []
+    },
+    {
+      "event": "evidence_review",
+      "verdicts": [
+        {
+          "claim_id": "C1",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C2",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C3",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C4",
+          "supported": true,
+          "problem": ""
+        }
+      ],
+      "coverage_gaps": [
+        "The supplied legal texts are frozen snapshots and do not establish which requirements apply on the shipment’s relevant date; current, date-specific law has not been verified."
+      ],
+      "follow_up_actions": [
+        {
+          "tool": "lookup",
+          "query": "Verify the current, date-specific consolidated Annex I entries 1.1.1 and 1.1.3 and Article 3 of Regulation (EU) 2023/915, including any amendments relevant to dried figs intended for sorting or processing.",
+          "regulation": "2023/915",
+          "location": "ANNEX I, entries 1.1.1 and 1.1.3; Article 3",
+          "evidence_id": "E0c17d35a62395acf"
+        }
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "review_follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "Verify the current, date-specific consolidated Annex I entries 1.1.1 and 1.1.3 and Article 3 of Regulation (EU) 2023/915, including any amendments relevant to dried figs intended for sorting or processing.",
+        "regulation": "2023/915",
+        "location": "ANNEX I, entries 1.1.1 and 1.1.3; Article 3",
+        "evidence_id": "E0c17d35a62395acf"
+      },
+      "result_ids": [],
+      "new_ids": [],
+      "scores": null
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "1a645f72-292f-438d-9605-87f7cefafb42",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 9767,
+      "output_tokens": 312,
+      "reasoning_tokens": 214,
+      "api_cost_usd": 0.0013768,
+      "error": null,
+      "wall_seconds": 3.8053,
+      "response_id": "resp_0990aace97ff377f016ada5dab561087d282da49dc54ae3706",
+      "input_tokens_details": {
+        "cache_write_tokens": 9764,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "6bd7914c-942a-4b5b-95c8-ae2ce225c7e8",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 11235,
+      "output_tokens": 624,
+      "reasoning_tokens": 512,
+      "api_cost_usd": 0.0017163,
+      "error": null,
+      "wall_seconds": 6.7415,
+      "response_id": "resp_0f3ed40ea4fdfeef016ada5daf302887d2aceedda99d010f09",
+      "input_tokens_details": {
+        "cache_write_tokens": 11232,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "assess",
+      "call_id": "b796fb6b-e61b-4d7b-bf99-d0854011bad4",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 11340,
+      "output_tokens": 2126,
+      "reasoning_tokens": 1249,
+      "api_cost_usd": 0.002480425,
+      "error": null,
+      "wall_seconds": 18.1331,
+      "response_id": "resp_050d2fd124216d21016ada5db5c37c87d29e791eb47ca5d78a",
+      "input_tokens_details": {
+        "cache_write_tokens": 11337,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "review",
+      "call_id": "2b81cd66-2840-4455-8a83-355b36027096",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 12224,
+      "output_tokens": 988,
+      "reasoning_tokens": 769,
+      "api_cost_usd": 0.002021925,
+      "error": null,
+      "wall_seconds": 7.9536,
+      "response_id": "resp_0667d6f620ca7744016ada5dc7f64087d298feb045f069110f",
+      "input_tokens_details": {
+        "cache_write_tokens": 12221,
+        "cached_tokens": 0
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+    "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+    "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+    "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+  ],
+  "metrics": {
+    "llm_calls": 4,
+    "workflow_model_calls": 4,
+    "tool_calls": 9,
+    "input_tokens": 44566,
+    "output_tokens": 4050,
+    "reasoning_tokens": 2744,
+    "api_cost_usd": 0.00759545,
+    "wall_seconds": 36.6992,
+    "retrieved_records": 16
+  },
+  "final_answer": "Regulatory assessment — partial\nBased on supplied historical snapshots; current law has not been verified.\n\nDirect answer\n- For dried figs themselves, the supplied table does not impose a different limit merely because they are destined for sorting: the general sorting category for dried fruits expressly excludes products listed under 1.1.3, which is the dried-fig entry. (Regulation 2023/915, ANNEX I / table 1 / HTML row 4 / entry 1.1.1 [E1b9753e43915923f]; Regulation 2023/915, ANNEX I / table 1 / HTML row 6 / entry 1.1.3 [E0c17d35a62395acf])\n  Condition: This conclusion concerns dried figs classified under entry 1.1.3, rather than a separate processed product.\n\nLegal requirements\n- The supplied Annex I entry lists maximum levels for dried figs of 6.0 μg/kg for aflatoxin B1 and 10.0 μg/kg for the sum of B1, B2, G1 and G2. (Regulation 2023/915, ANNEX I / table 1 / HTML row 6 / entry 1.1.3 [E0c17d35a62395acf])\n  Condition: The table headers identify the two numeric columns as B1 and the sum of B1, B2, G1 and G2.\n- For a processed product consisting at least 80% of dried figs, the dried-fig maximum levels also apply; for other cases, Article 3(1) and (2) apply. (Regulation 2023/915, ANNEX I / table 1 / HTML row 6 / entry 1.1.3 [E0c17d35a62395acf])\n  Condition: This rule concerns a processed product, not merely dried figs intended for later processing.\n- Where Article 3 applies because no specific Union maximum level is set for the relevant processed food, the factors to take into account include concentration changes from drying or dilution and processing, ingredient proportions, and the analytical limit of quantification. (Regulation 2023/915, Article 3 [E430e8b5474e74155])\n  Condition: Article 3(1) applies where no specific Union maximum level is set out for the dried, diluted, processed or compound food.\n\nUnknown shipment facts\n- Whether the goods are dried figs themselves destined for sorting, or a processed product; if processed, the proportion of dried figs in it.\n- The intended use and applicable product classification for the shipment.\n- The measured aflatoxin B1 and total aflatoxin concentrations; detection alone does not establish whether a limit is exceeded.\n\nVerification needed\n- The records are frozen snapshots, not verified current law; confirm the applicable legal text for the relevant date and shipment.\n\nUnresolved issues\n- The supplied legal texts are frozen snapshots and do not establish which requirements apply on the shipment’s relevant date; current, date-specific law has not been verified.\n- No accepted claim addresses issue: Direct-consumption dried-fig limit\n- No accepted claim addresses issue: Sorting and physical-treatment category\n- No accepted claim addresses issue: Processed products and Article 3 factors\n\nLimitations\n- Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.\n- A referenced external act is not evidence of its contents unless that act is present in the corpus.\n- Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.\n- Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+}

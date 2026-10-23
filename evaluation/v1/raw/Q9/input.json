@@ -1,0 +1,29 @@
+{
+  "question_id": "Q9",
+  "question": "Provide the legal basis for each major conclusion, including regulation number and relevant article/annex where possible.",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null,
+    "preceding_question_texts": {
+      "Q1": "A shipment of dried figs originating from Türkiye is found to contain aflatoxin B1. Which EU legislation is relevant to this case?",
+      "Q2": "What is the applicable EU maximum level for aflatoxin B1 and total aflatoxins in dried figs intended for direct human consumption?",
+      "Q3": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting?",
+      "Q4": "Are dried figs from Türkiye subject to increased official controls or special import conditions when entering the EU?",
+      "Q5": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply?",
+      "Q6": "Which authorities or food business operators are responsible for the relevant actions when a non-compliant consignment is detected?",
+      "Q7": "What regulatory actions may follow if aflatoxin levels exceed the applicable maximum level?",
+      "Q8": "Which parts of the assessment depend on current legislation and therefore require checking for amendments or updates?"
+    },
+    "preceding_answers_available": false
+  },
+  "history": []
+}

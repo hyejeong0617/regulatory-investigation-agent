@@ -1,0 +1,80 @@
+{
+  "calls": [
+    {
+      "id": "54819a9d-7910-4fee-b5d6-49f64a2d2716",
+      "time": "2026-10-22T18:22:35.897399+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": null,
+      "state": "bounded"
+    },
+    {
+      "id": "3ab993e9-e9e0-44b0-811c-3e7318056fbe",
+      "time": "2026-10-22T18:24:50.338987+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 1694050,
+      "state": "settled"
+    },
+    {
+      "id": "030fa438-6660-4125-aef8-1538e0776d16",
+      "time": "2026-10-22T18:26:40.239516+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 487800,
+      "state": "settled"
+    },
+    {
+      "id": "37601b7e-5ed6-4efd-9f09-44e4d7bbaada",
+      "time": "2026-10-22T18:26:47.650621+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 1978300,
+      "state": "settled"
+    },
+    {
+      "id": "3e17832b-7800-4387-8552-58c79593ce47",
+      "time": "2026-10-22T18:26:55.121646+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 2058175,
+      "state": "settled"
+    },
+    {
+      "id": "1fe55eee-196b-4552-baad-4a8e350be254",
+      "time": "2026-10-22T18:27:02.757212+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 2189675,
+      "state": "settled"
+    },
+    {
+      "id": "6bdf2be8-c84c-4a40-9489-63fc2a012b22",
+      "time": "2026-10-22T18:27:12.796744+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 3920425,
+      "state": "settled"
+    },
+    {
+      "id": "556c366f-8d04-44d1-9f7d-16f5f37f9803",
+      "time": "2026-10-22T18:27:43.855421+00:00",
+      "purpose": "development",
+      "question": "Q5",
+      "reserved": 529500000,
+      "actual": 2985800,
+      "state": "settled"
+    }
+  ],
+  "accounted_nano_usd": 544814225,
+  "remaining_nano_usd": 1455185775,
+  "known_usage_nano_usd": 15314225,
+  "unknown_usage_reserved_nano_usd": 529500000
+}

@@ -1,0 +1,2 @@
+# Preserve evaluated source and raw-result bytes across platforms.
+* -text

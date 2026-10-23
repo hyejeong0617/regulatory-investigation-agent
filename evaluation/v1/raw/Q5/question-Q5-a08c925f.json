@@ -1,0 +1,3818 @@
+{
+  "schema_version": "1.0",
+  "question_id": "Q5",
+  "question": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply?",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null,
+    "preceding_question": "Are dried figs from Türkiye subject to increased official controls or special import conditions when entering the EU?",
+    "preceding_answer": null
+  },
+  "history": [],
+  "started_at": "2026-10-22T18:26:40.233601+00:00",
+  "finished_at": "2026-10-22T18:27:55.481570+00:00",
+  "mode": "openai",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "medium",
+  "status": "partial",
+  "corpus_fingerprint": "baae5529ee340f20312eff4cf3418689dae02082b74167ccd47a6d797f180980",
+  "sources": [
+    {
+      "file": "EU_2002_178_consolidated_2026-01-01.html",
+      "bytes": 312348,
+      "sha256": "a4baf4a41c38c73cfc3f71f104a6cb213a775009212d80dc07bacdbdd53f42aa",
+      "regulation": "178/2002",
+      "snapshot": "2026-01-01",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/eng",
+      "title": "REGULATION (EC) No 178/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 8a",
+        "Article 8b",
+        "Article 8c",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "Article 18",
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24",
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 31",
+        "Article 32",
+        "Article 32a",
+        "Article 32b",
+        "Article 32c",
+        "Article 32d",
+        "Article 33",
+        "Article 34",
+        "Article 35",
+        "Article 36",
+        "Article 37",
+        "Article 38",
+        "Article 39",
+        "Article 39a",
+        "Article 39b",
+        "Article 39c",
+        "Article 39d",
+        "Article 39e",
+        "Article 39f",
+        "Article 39g",
+        "Article 40",
+        "Article 41",
+        "Article 42",
+        "Article 43",
+        "Article 44",
+        "Article 45",
+        "Article 46",
+        "Article 47",
+        "Article 48",
+        "Article 49",
+        "Article 50",
+        "Article 51",
+        "Article 52",
+        "Article 53",
+        "Article 54",
+        "Article 55",
+        "Article 56",
+        "Article 57",
+        "Article 57a",
+        "Article 58",
+        "Article 59",
+        "Article 60",
+        "Article 61",
+        "Article 61a",
+        "Article 62",
+        "Article 63",
+        "Article 64",
+        "Article 65"
+      ],
+      "records": 88
+    },
+    {
+      "file": "EU_2017_625_consolidated_2025-01-05.html",
+      "bytes": 1215786,
+      "sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng",
+      "title": "REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "Article 18",
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23",
+        "Article 24",
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 31",
+        "Article 32",
+        "Article 33",
+        "Article 34",
+        "Article 35",
+        "Article 36",
+        "Article 37",
+        "Article 38",
+        "Article 39",
+        "Article 40",
+        "Article 41",
+        "Article 42",
+        "Article 43",
+        "Article 44",
+        "Article 45",
+        "Article 46",
+        "Article 47",
+        "Article 48",
+        "Article 49",
+        "Article 50",
+        "Article 51",
+        "Article 52",
+        "Article 53",
+        "Article 54",
+        "Article 55",
+        "Article 56",
+        "Article 57",
+        "Article 58",
+        "Article 59",
+        "Article 60",
+        "Article 61",
+        "Article 62",
+        "Article 63",
+        "Article 64",
+        "Article 65",
+        "Article 66",
+        "Article 67",
+        "Article 68",
+        "Article 69",
+        "Article 70",
+        "Article 71",
+        "Article 72",
+        "Article 73",
+        "Article 74",
+        "Article 75",
+        "Article 76",
+        "Article 77",
+        "Article 78",
+        "Article 79",
+        "Article 80",
+        "Article 81",
+        "Article 82",
+        "Article 83",
+        "Article 84",
+        "Article 85",
+        "Article 86",
+        "Article 87",
+        "Article 88",
+        "Article 89",
+        "Article 90",
+        "Article 91",
+        "Article 92",
+        "Article 93",
+        "Article 94",
+        "Article 95",
+        "Article 96",
+        "Article 97",
+        "Article 98",
+        "Article 99",
+        "Article 100",
+        "Article 101",
+        "Article 102",
+        "Article 103",
+        "Article 104",
+        "Article 105",
+        "Article 106",
+        "Article 107",
+        "Article 108",
+        "Article 109",
+        "Article 110",
+        "Article 111",
+        "Article 112",
+        "Article 113",
+        "Article 114",
+        "Article 115",
+        "Article 116",
+        "Article 117",
+        "Article 118",
+        "Article 119",
+        "Article 120",
+        "Article 121",
+        "Article 122",
+        "Article 123",
+        "Article 124",
+        "Article 125",
+        "Article 126",
+        "Article 127",
+        "Article 128",
+        "Article 129",
+        "Article 130",
+        "Article 131",
+        "Article 132",
+        "Article 133",
+        "Article 134",
+        "Article 135",
+        "Article 136",
+        "Article 137",
+        "Article 138",
+        "Article 139",
+        "Article 140",
+        "Article 141",
+        "Article 142",
+        "Article 143",
+        "Article 144",
+        "Article 145",
+        "Article 146",
+        "Article 147",
+        "Article 148",
+        "Article 149",
+        "Article 150",
+        "Article 151",
+        "Article 152",
+        "Article 153",
+        "Article 154",
+        "Article 155",
+        "Article 156",
+        "Article 157",
+        "Article 158",
+        "Article 159",
+        "Article 160",
+        "Article 161",
+        "Article 162",
+        "Article 163",
+        "Article 164",
+        "Article 165",
+        "Article 166",
+        "Article 167",
+        "ANNEX I",
+        "ANNEX II",
+        "ANNEX III",
+        "ANNEX IV",
+        "ANNEX V"
+      ],
+      "records": 937
+    },
+    {
+      "file": "EU_2019_1793_consolidated_2026-06-30.html",
+      "bytes": 5444592,
+      "sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng",
+      "title": "COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793 of 22 October 2019 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and (EC) No 178/2002 of the European Parliament and of the Council and repealing Commission Regulations (EC) No 669/2009, (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660 (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 11a",
+        "Article 12",
+        "Article 13",
+        "Article 14",
+        "Article 15",
+        "ANNEX I",
+        "ANNEX II",
+        "ANNEX IIa",
+        "ANNEX III",
+        "ANNEX IV"
+      ],
+      "records": 584
+    },
+    {
+      "file": "EU_2019__1013_original.html",
+      "bytes": 16190,
+      "sha256": "54ee4dc43c3be8a231b6fb5eb8183f9477b392bde9e4afe7ff94b7bded7ebe70",
+      "regulation": "2019/1013",
+      "snapshot": "original act (not consolidated)",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1013/oj/eng",
+      "title": "COMMISSION IMPLEMENTING REGULATION (EU) 2019/1013 of 16 April 2019 on prior notification of consignments of certain categories of animals and goods entering the Union (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2"
+      ],
+      "records": 4
+    },
+    {
+      "file": "EU_2023_915_consolidated_2026-08-19.html",
+      "bytes": 556491,
+      "sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "canonical_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng",
+      "title": "COMMISSION REGULATION (EU) 2023/915 of 25 April 2023 on maximum levels for certain contaminants in food and repealing Regulation (EC) No 1881/2006 (Text with EEA relevance)",
+      "provisions": [
+        "Article 1",
+        "Article 2",
+        "Article 3",
+        "Article 4",
+        "Article 5",
+        "Article 6",
+        "Article 7",
+        "Article 8",
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "ANNEX I",
+        "ANNEX II"
+      ],
+      "records": 651
+    }
+  ],
+  "issues": [
+    "Annex II listing and applicability to dried figs (Türkiye)",
+    "Special import conditions: certificate, laboratory results, and entry notification",
+    "Official-control sampling and analytical requirements",
+    "Applicable aflatoxin limits and shipment-specific exceedance",
+    "Whether dried figs (CN 0804 20 90) fall within Türkiye’s Annex II aflatoxin listing and control frequency",
+    "Special-import documents and entry notification",
+    "Official sampling and analysis method for aflatoxins",
+    "Applicable aflatoxin limits and whether the detected result exceeds them",
+    "Annex II listing and control frequency for dried figs from Türkiye",
+    "Whether special import conditions and supporting documents apply",
+    "Prior notification and CHED requirements",
+    "Aflatoxin sampling and analysis method",
+    "Aflatoxin maximum level and shipment-specific compliance",
+    "Annex II applicability and check frequency for dried figs from Türkiye",
+    "Special-import certificate and analytical-result requirements",
+    "Prior notification and CHED documentation",
+    "Mycotoxin sampling and analysis method",
+    "Applicable aflatoxin maximum levels and shipment-specific compliance"
+  ],
+  "assessment": {
+    "claims": [
+      {
+        "id": "C1",
+        "issue": "Annex II listing and control frequency for dried figs from Türkiye",
+        "category": "direct_answer",
+        "statement": "The supplied Annex II snapshot lists dried figs from Türkiye under CN code 0804 20 90. If that is the shipment’s correct classification, the consignment falls within the Annex II listing.",
+        "conditions": [
+          "The product must be correctly classified under CN code 0804 20 90."
+        ],
+        "supports": [
+          {
+            "evidence_id": "Ec3c379af9bf38771",
+            "quote": "Türkiye (TR) | C3: — Dried figs | C4: 0804 20 90"
+          }
+        ]
+      },
+      {
+        "id": "C2",
+        "issue": "Annex II listing and control frequency for dried figs from Türkiye",
+        "category": "legal_requirement",
+        "statement": "Consignments listed in Annex II are subject to official controls at border control posts on entry into the Union and at control points.",
+        "conditions": [
+          "Applies if the consignment is covered by the Annex II listing, including the relevant CN/TARIC classification."
+        ],
+        "supports": [
+          {
+            "evidence_id": "Eb5778b93a88ed5c1",
+            "quote": "Consignments referred to in paragraph 1 shall be subject to official controls at border control posts at their entry into the Union and at control points."
+          }
+        ]
+      },
+      {
+        "id": "C3",
+        "issue": "Annex II listing and control frequency for dried figs from Türkiye",
+        "category": "legal_requirement",
+        "statement": "For Annex II-listed consignments, the competent authorities carry out identity and physical checks, including sampling and laboratory analyses, at the frequency specified in Annex II. The supplied dried-fig row does not state a check frequency, and the available records do not establish that the 30% frequency shown for other CN codes applies to dried figs.",
+        "conditions": [
+          "The frequency must be established from the applicable Annex II entry; it cannot be inferred from another row in the same country listing."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E37470f1e9ecea27c",
+            "quote": "shall carry out identity and physical checks, including sampling and laboratory analyses, on consignments of food and feed listed in Annex II, at the frequency set out in that Annex."
+          },
+          {
+            "evidence_id": "Ec3c379af9bf38771",
+            "quote": "C3: — Dried figs | C4: 0804 20 90 | C5:  | C6:  | C7:"
+          }
+        ]
+      },
+      {
+        "id": "C4",
+        "issue": "Special-import documents and entry notification",
+        "category": "legal_requirement",
+        "statement": "Each Annex II consignment must be accompanied by results of sampling and analyses performed on that consignment by the competent authority of the country of origin or, if different, the country of consignment.",
+        "conditions": [
+          "Applies if the goods are covered by Annex II."
+        ],
+        "supports": [
+          {
+            "evidence_id": "Ef1fe4fee24b0bc76",
+            "quote": "Each consignment of food and feed listed in Annex II shall be accompanied by the results of sampling and analyses performed on that consignment by the competent authorities of the third country of origin"
+          }
+        ]
+      },
+      {
+        "id": "C5",
+        "issue": "Special-import documents and entry notification",
+        "category": "legal_requirement",
+        "statement": "The accompanying analyses must be performed by laboratories accredited to ISO/IEC 17025.",
+        "conditions": [
+          "Applies to the analyses referred to in Article 10(1) for Annex II consignments."
+        ],
+        "supports": [
+          {
+            "evidence_id": "Ef1fe4fee24b0bc76",
+            "quote": "The analyses referred to in paragraph 1 shall be performed by laboratories accredited in accordance with the standard ISO/IEC 17025"
+          }
+        ]
+      },
+      {
+        "id": "C6",
+        "issue": "Prior notification and CHED documentation",
+        "category": "legal_requirement",
+        "statement": "A duly finalised CHED is required before customs may allow release for free circulation of consignments listed in Annex I or Annex II.",
+        "conditions": [
+          "Applies if the consignment is listed in Annex I or Annex II."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E44dfdc757d2df2aa",
+            "quote": "The custom authorities shall only allow the release for free circulation of consignments of food and feed listed in Annexes I and II upon presentation of a duly finalised Common Health Entry Document (CHED)"
+          }
+        ]
+      },
+      {
+        "id": "C7",
+        "issue": "Special-import documents and entry notification",
+        "category": "legal_requirement",
+        "statement": "Each Annex II consignment must carry an identification code; ordinarily, each individual bag or other packaging form must carry that code too.",
+        "conditions": [
+          "If one outer bag or packaging combines several small packages, the code on that outer packaging is sufficient."
+        ],
+        "supports": [
+          {
+            "evidence_id": "Ec369db707437897c",
+            "quote": "Each individual bag or packaging form of the consignment shall be identified with that identification code."
+          },
+          {
+            "evidence_id": "Ec369db707437897c",
+            "quote": "in case of a consignment in which the bag or packaging combines several small packages, it is sufficient that the identification code of the consignment is mentioned on the bag or packaging combining these small packages."
+          }
+        ]
+      },
+      {
+        "id": "C8",
+        "issue": "Aflatoxin sampling and analysis method",
+        "category": "legal_requirement",
+        "statement": "For food listed in Annex I or II because of possible mycotoxin contamination, including aflatoxins, official sampling and analyses must follow Commission Implementing Regulation (EU) 2023/2782.",
+        "conditions": [
+          "The available records do not establish whether the dried-fig entry is listed on the basis of possible mycotoxin contamination; applicability of this method requirement to this consignment therefore remains to be confirmed."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E5c089437f3b0191e",
+            "quote": "for food listed in Annexes I and II due to possible contamination risk by mycotoxins, including aflatoxins, the sampling and the analyses shall be performed in accordance with Commission Implementing Regulation (EU) 2023/2782"
+          }
+        ]
+      },
+      {
+        "id": "C9",
+        "issue": "Applicable aflatoxin maximum levels and shipment-specific compliance",
+        "category": "legal_requirement",
+        "statement": "The supplied maximum-level table sets dried figs’ aflatoxin B1 maximum at 6.0 μg/kg and the sum of B1, B2, G1 and G2 at 10.0 μg/kg.",
+        "conditions": [
+          "These are the table values for dried figs; whether this shipment complies cannot be determined without its measured concentration and the relevant analytical results."
+        ],
+        "supports": [
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "HTML row 6: C1: 1.1.3 | C2: Dried figs | C3: 6,0 | C4: 10,0"
+          },
+          {
+            "evidence_id": "E0c17d35a62395acf",
+            "quote": "C3: B1 | C4: Sum of B1, B2, G1 and G2"
+          }
+        ]
+      }
+    ],
+    "unknown_facts": [
+      "The shipment’s confirmed CN code and, where relevant, TARIC subdivision.",
+      "Whether the Annex II dried-fig entry is listed due to mycotoxin/aflatoxin risk and the applicable identity/physical-check frequency.",
+      "The shipment’s aflatoxin B1 concentration, total aflatoxins, analytical report, and compliance status.",
+      "Whether the product is at an import stage requiring the described entry and release procedures, and whether the required documents are already available.",
+      "Whether the shipment falls within the categories requiring prior notification."
+    ],
+    "verification_needed": [
+      "These are frozen source snapshots, not verified current law; check the applicable current consolidated texts and Annex II listing before relying on them.",
+      "The text and detailed sampling requirements of Regulation (EU) 2023/2782 were not supplied.",
+      "The supplied records do not establish whether an official certificate is required for this specific dried-fig entry, or whether prior notification under Regulation (EU) 2019/1013 applies to this consignment."
+    ],
+    "unanswered_issues": [
+      "The applicable Annex II hazard designation and check frequency for dried figs under CN 0804 20 90 cannot be established from the supplied row: its hazard and frequency cells are blank, and the 30% value shown for other CN codes cannot safely be attributed to it.",
+      "The specific official-certificate requirement, if any, and prior-notification applicability for this shipment cannot be determined from the supplied evidence.",
+      "The shipment’s compliance with aflatoxin limits cannot be assessed from detection alone without the concentration and relevant test details.",
+      "The snapshots are not verified current law, so the currently applicable listing and requirements remain unconfirmed.",
+      "The supplied dried-fig Annex II row has blank hazard and check-frequency cells. The applicable hazard designation and frequency cannot be established from these records, and the 30% frequency for other CN codes cannot be attributed to this row.",
+      "The detailed sampling and analytical requirements in Regulation (EU) 2023/2782 were not supplied; whether its conditional rule applies to this Annex II entry also remains unresolved.",
+      "The evidence does not establish whether an official certificate or prior notification is required for this particular consignment. Shipment classification, stage, and applicable category are not provided.",
+      "Detection alone does not establish an exceedance. The shipment’s measured concentration and relevant analytical details are missing.",
+      "No accepted claim addresses issue: Annex II listing and applicability to dried figs (Türkiye)",
+      "No accepted claim addresses issue: Special import conditions: certificate, laboratory results, and entry notification",
+      "No accepted claim addresses issue: Official-control sampling and analytical requirements",
+      "No accepted claim addresses issue: Applicable aflatoxin limits and shipment-specific exceedance",
+      "No accepted claim addresses issue: Whether dried figs (CN 0804 20 90) fall within Türkiye’s Annex II aflatoxin listing and control frequency",
+      "No accepted claim addresses issue: Official sampling and analysis method for aflatoxins",
+      "No accepted claim addresses issue: Applicable aflatoxin limits and whether the detected result exceeds them",
+      "No accepted claim addresses issue: Whether special import conditions and supporting documents apply",
+      "No accepted claim addresses issue: Prior notification and CHED requirements",
+      "No accepted claim addresses issue: Aflatoxin maximum level and shipment-specific compliance",
+      "No accepted claim addresses issue: Annex II applicability and check frequency for dried figs from Türkiye",
+      "No accepted claim addresses issue: Special-import certificate and analytical-result requirements",
+      "No accepted claim addresses issue: Mycotoxin sampling and analysis method"
+    ]
+  },
+  "rejected_claims": [],
+  "evidence": [
+    {
+      "id": "E305232248b71caf8",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "ANNEX II",
+      "kind": "provision",
+      "anchor": "id-841dc2d1-dcf6-4577-85ea-13c02fd139fb",
+      "line_start": 11931,
+      "line_end": 12146,
+      "text": "ANNEX II\nTRAINING OF STAFF OF THE COMPETENT AUTHORITIES\nCHAPTER I\nSubject matter for the training of staff performing official controls and other official activities\nDifferent control methods and techniques, such as inspection, verification, screening, targeted screening, sampling, and laboratory analysis, testing and diagnosis\nControl procedures\nThe rules referred to in Article 1(2)\nAssessment of non-compliance with the rules referred to in Article 1(2)\nThe hazards in the production, processing and distribution of animals and goods\nThe different stages of production, processing and distribution, and the possible risks to human health, and where appropriate to the health of animals and plants, to the welfare of animals, to the environment\nThe evaluation of the application of HACCP procedures and of good agricultural practices\nManagement systems such as quality assurance programmes that the operators manage and their assessment in so far as these are relevant for the requirements set out in the rules referred to in Article 1(2)\nOfficial certification systems\nContingency arrangements for emergencies, including communication between Member States and the Commission\nLegal proceedings and implications of official controls\nExamination of written, documentary material and other records, including those related to inter-laboratory comparative testing, accreditation and risk assessment, which may be relevant to the assessment of compliance with the rules referred to in Article 1(2); this may include financial and commercial aspects\nControl procedures and requirements for entry into the Union of animals and goods arriving from third countries\nAny other area necessary to ensure that official controls are performed in accordance with this Regulation\nCHAPTER II\nSubject areas for control procedures\nThe organisation of the competent authorities and the relationship between central competent authorities and authorities to which they have conferred tasks to perform official controls or other official activities\nThe relationship between competent authorities and delegated bodies or natural persons to which they have delegated tasks related to official controls or other official activities\nA statement on the objectives to be achieved\nTasks, responsibilities and duties of staff\nSampling procedures, control methods and techniques, including laboratory analysis, testing and diagnosis, interpretation of results and consequent decisions\nScreening and targeted screening programmes\nMutual assistance in the event that official controls require more than one Member State to take action\nAction to be taken following official controls\nCooperation with other services and departments that may have relevant responsibilities or with operators\nVerification of the appropriateness of methods of sampling and of laboratory analysis, testing and diagnosis\nAny other activity or information required for the effective functioning of the official controls",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-841dc2d1-dcf6-4577-85ea-13c02fd139fb",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E1a5961ff7da4f5a4",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX III",
+      "kind": "provision",
+      "anchor": "id-7e20b6c0-2d5e-48e4-b0fa-bb32a147041b",
+      "line_start": 11526,
+      "line_end": 11541,
+      "text": "ANNEX III\n(1) Sampling procedures and analytical reference methods referred to in Article 3(e)\n1. Sampling procedures and analytical reference methods for the control of presence of Salmonella in food\nIn the case where Annexes I or II to this Regulation provide for the application of the sampling procedures and analytical reference methods laid down in point 1(a) of Annex III to this Regulation, the following rules shall apply:",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-7e20b6c0-2d5e-48e4-b0fa-bb32a147041b",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Ee51682f68bbb71af",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "Article 81",
+      "kind": "provision",
+      "anchor": "id-0b3e3cfb-3f52-4068-a176-a64474a702fa",
+      "line_start": 6231,
+      "line_end": 6289,
+      "text": "Article 81\nCosts\nThe fees or charges to be collected in accordance with point (a) of Article 79(1) and with Article 79(2) shall be determined on the basis of the following costs, insofar as these result from the official controls concerned:\nthe salaries of the staff, including support and administrative staff, involved in the performance of official controls, their social security, pension and insurance costs;\nthe cost of facilities and equipment, including maintenance and insurance costs and other associated costs;\nthe cost of consumables and tools;\nthe cost of services charged to the competent authorities by delegated bodies for official controls delegated to these delegated bodies;\nthe cost of training of the staff referred to in point (a), with the exclusion of the training necessary to obtain the qualification necessary to be employed by the competent authorities;\nthe cost of travel of the staff referred to in point (a), and associated subsistence costs;\nthe cost of sampling and of laboratory analysis, testing and diagnosis charged by official laboratories for those tasks.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-0b3e3cfb-3f52-4068-a176-a64474a702fa",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E6bca7a90fd98143a",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "Article 34",
+      "kind": "provision",
+      "anchor": "id-1b058994-a8c9-4119-823c-9459947349e2",
+      "line_start": 3414,
+      "line_end": 3488,
+      "text": "Article 34\nMethods used for sampling, analyses, tests and diagnoses\n1. Methods used for sampling and for laboratory analyses, tests and diagnoses during official controls and other official activities shall comply with Union rules establishing those methods or the performance criteria for those methods.\n2. In the absence of the Union rules as referred to in paragraph 1, and in the context of official controls and other official activities, official laboratories shall use one of the following methods according to the suitability for their specific analytical, testing and diagnostic needs: (a) available methods complying with relevant internationally recognised rules or protocols including those that the European Committee for Standardisation (CEN) has accepted; or relevant methods developed or recommended by the European Union reference laboratories and validated in accordance with internationally accepted scientific protocols; (b) in the absence of the suitable rules or protocols, as referred to in point (a), methods which comply with relevant rules established at national level, or, if no such rules exist, relevant methods developed or recommended by national reference laboratories and validated in accordance with internationally accepted scientific protocols; or relevant methods developed and validated with inter or intra-laboratory methods validation studies in accordance with internationally accepted scientific protocols.\n3. Where laboratory analyses, tests or diagnoses are urgently needed and none of the methods referred to in paragraphs 1 and 2 of this Article exists, the relevant national reference laboratory or, if no such national reference laboratory exists, any other laboratory designated in accordance with Article 37(1) may use methods other than those referred to in paragraphs 1 and 2 of this Article until the validation of an appropriate method in accordance with internationally accepted scientific protocols.\n4. Wherever possible, methods used for laboratory analyses shall be characterised by the relevant criteria set out in Annex III.\n5. Samples shall be taken, handled and labelled in such a way as to ensure their legal, scientific and technical validity.\n6. The Commission may, by means of implementing acts, lay down rules on: (a) the methods to be used for sampling and for laboratory analyses, tests and diagnoses; (b) performance criteria, analysis, test or diagnosis parameters, measurement uncertainty and procedures for the validation of those methods; (c) the interpretation of analytical, testing and diagnostic results.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-1b058994-a8c9-4119-823c-9459947349e2",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Eab1cba8cb8c4c665",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "Article 94",
+      "kind": "provision",
+      "anchor": "id-b67c214d-85c5-4409-a393-41a5f338f620",
+      "line_start": 6988,
+      "line_end": 7125,
+      "text": "Article 94\nResponsibilities and tasks of European Union reference laboratories\n1. European Union reference laboratories shall contribute to the improvement and harmonisation of methods of analysis, test or diagnosis to be used by official laboratories designated in accordance with Article 37(1) and of the analytical, testing and diagnostic data generated by them.\n2. European Union reference laboratories designated in accordance with Article 93(1) shall be responsible for the following tasks insofar as they are included in the reference laboratories’ annual or multiannual work programmes that have been established in conformity with the objectives and priorities of the relevant work programmes adopted by the Commission in accordance with Article 36 of Regulation (EU) No 652/2014: (a) providing national reference laboratories with details and guidance on the methods of laboratory analysis, testing or diagnosis, including reference methods; (b) providing reference materials to national reference laboratories; (c) coordinating the application by the national reference laboratories and, if necessary, by other official laboratories of the methods referred to in point (a), in particular, by organising regular inter-laboratory comparative testing or proficiency tests and by ensuring appropriate follow-up of such comparative testing or proficiency tests in accordance, where available, with internationally accepted protocols, and informing the Commission and the Member States of the results and follow-up to the inter-laboratory comparative testing or proficiency tests; (d) coordinating practical arrangements necessary to apply new methods of laboratory analysis, testing or diagnosis, and informing national reference laboratories of advances in this field; (e) conducting training courses for staff from national reference laboratories and, if needed, from other official laboratories, as well as of experts from third countries; (f) providing scientific and technical assistance to the Commission within the scope of their mission; (g) providing information on relevant national, Union and international research activities to national reference laboratories; (h) collaborating within the scope of their mission with laboratories in third countries and with the European Food Safety Authority (EFSA), the European Medicines Agency (EMA) and the European Centre for Disease Prevention and Control (ECDC); (i) assisting actively in the diagnosis of outbreaks in Member States of foodborne, zoonotic or animal diseases, or of pests of plants, by carrying out confirmatory diagnosis, characterisation and taxonomic or epizootic studies on pathogen isolates or pest specimens; (j) coordinating or performing tests for the verification of the quality of reagents and lots of reagents used for the diagnosis of foodborne, zoonotic or animal diseases and pests of plants; (k) where relevant for their area of competence, establishing and maintaining: (i) reference collections of pests of plants and/or reference strains of pathogenic agents; (ii) reference collections of materials intended to come into contact with food used to calibrate analytical equipment and provide samples thereof to national reference laboratories; (iii) up-to-date lists of available reference substances and reagents and of manufacturers and suppliers of such substances and reagents; and (l) where relevant for their area of competence, cooperate among themselves and with the Commission, as appropriate, to develop methods of analysis, testing or diagnosis of high standards.\nAs regards point (i) of point (k), the European Union reference laboratory may establish and maintain those reference collections and reference strains by contractual outsourcing to other official laboratories and to scientific organisations.\n3. European Union reference laboratories shall publish the list of the national reference laboratories designated by the Member States in accordance with Article 100(1).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-b67c214d-85c5-4409-a393-41a5f338f620",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Ea8570dc75adaea4c",
+      "document": "EU_2017_625_consolidated_2025-01-05.html",
+      "regulation": "2017/625",
+      "snapshot": "2025-01-05",
+      "source_sha256": "9e06db2c9936fe46e57fcceb87d0f1a85fd2532f98aa2f051e68560e9b566d98",
+      "location": "Article 36",
+      "kind": "provision",
+      "anchor": "id-7b072654-82ce-4f3c-b84d-af1b28793c55",
+      "line_start": 3533,
+      "line_end": 3565,
+      "text": "Article 36\nSampling of animals and goods offered for sale by means of distance communication\n1. In the case of animals and goods offered for sale by means of distance communication, samples ordered from operators by the competent authorities without identifying themselves may be used for the purposes of an official control.\n2. Competent authorities, once they are in possession of the samples, shall take all steps to ensure that the operators from whom these samples have been ordered in accordance with paragraph 1: (a) are informed that such samples have been taken in the context of an official control and, where appropriate, are analysed or tested for the purposes of such official control; and (b) where the samples referred to in that paragraph are analysed or tested, are able to exercise the right to a second expert opinion, as provided for in Article 35(1).\n3. Paragraphs 1 and 2 shall apply to delegated bodies and natural persons to which certain official controls tasks have been delegated.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2017/625/2025-01-05/eng#id-7b072654-82ce-4f3c-b84d-af1b28793c55",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E0c17d35a62395acf",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 6 / entry 1.1.3",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1180,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 6: C1: 1.1.3 | C2: Dried figs | C3: 6,0 | C4: 10,0 | C5: - | C6: In the case of food consisting of dried figs used as only ingredient or in the case of processed products consisting at least of 80 % from dried figs, the maximum levels as established for dried figs apply also to those products. In other cases, Article 3(1) and (2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 6,
+        "cells": [
+          {
+            "text": "1.1.3",
+            "line": 1164,
+            "origin_row": 6,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Dried figs",
+            "line": 1167,
+            "origin_row": 6,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "6,0",
+            "line": 1170,
+            "origin_row": 6,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "10,0",
+            "line": 1173,
+            "origin_row": 6,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1176,
+            "origin_row": 6,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "In the case of food consisting of dried figs used as only ingredient or in the case of processed products consisting at least of 80 % from dried figs, the maximum levels as established for dried figs apply also to those products. In other cases, Article 3(1) and (2) apply.",
+            "line": 1179,
+            "origin_row": 6,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E51e78c2d4288a872",
+      "document": "EU_2023_915_consolidated_2026-08-19.html",
+      "regulation": "2023/915",
+      "snapshot": "2026-08-19",
+      "source_sha256": "c77938eed621666f964b762cc2156bd73cc3669253382354a89ee1123864a29f",
+      "location": "ANNEX I / table 1 / HTML row 5 / entry 1.1.2",
+      "kind": "table_row",
+      "anchor": "id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "line_start": 1065,
+      "line_end": 1160,
+      "text": "ANNEX I\nTable headers:\nC1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins\nC1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks\nC1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero.\nHTML row 5: C1: 1.1.2 | C2: Dried fruits used as only ingredient or processed products from dried fruits, placed on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3 | C3: 2,0 | C4: 4,0 | C5: - | C6: In the case of food consisting of dried fruits used as only ingredient or in the case of processed products consisting at least of 80 % from the dried fruits concerned, the maximum levels as established for the corresponding dried fruits apply also to those products. In other cases, Article 3(1) and (2) apply.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2023/915/2026-08-19/eng#id-9bbaeab5-50a2-43b3-a99a-5b9e40c1880e",
+      "links": [],
+      "table": {
+        "table_number": 1,
+        "row_number": 5,
+        "cells": [
+          {
+            "text": "1.1.2",
+            "line": 1144,
+            "origin_row": 5,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Dried fruits used as only ingredient or processed products from dried fruits, placed on the market for the final consumer or use as an ingredient in food except products listed in 1.1.3",
+            "line": 1147,
+            "origin_row": 5,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "2,0",
+            "line": 1150,
+            "origin_row": 5,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "4,0",
+            "line": 1153,
+            "origin_row": 5,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "-",
+            "line": 1156,
+            "origin_row": 5,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "In the case of food consisting of dried fruits used as only ingredient or in the case of processed products consisting at least of 80 % from the dried fruits concerned, the maximum levels as established for the corresponding dried fruits apply also to those products. In other cases, Article 3(1) and (2) apply.",
+            "line": 1159,
+            "origin_row": 5,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: 1 | C2: Mycotoxins | C3: Mycotoxins | C4: Mycotoxins | C5: Mycotoxins | C6: Mycotoxins",
+          "C1: 1.1 | C2: Aflatoxins | C3: Maximum level (μg/kg) | C4: Maximum level (μg/kg) | C5: Maximum level (μg/kg) | C6: Remarks",
+          "C1:  | C2:  | C3: B1 | C4: Sum of B1, B2, G1 and G2 | C5: M1 | C6: For the sum of aflatoxins, maximum levels refer to lower bound concentrations, which are calculated on the assumption that all the values below the limit of quantification are zero."
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ebc6b425f0928fd3c",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 170 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 170: C1: 14 | C2: Türkiye (TR) | C3: — Flours, meals and powder of dried figs | C4:  | C5:  | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 170,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Flours, meals and powder of dried figs",
+            "line": 9619,
+            "origin_row": 169,
+            "origin_column": 3,
+            "rowspan": 2,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9642,
+            "origin_row": 170,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9646,
+            "origin_row": 170,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9650,
+            "origin_row": 170,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9654,
+            "origin_row": 170,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ec3c379af9bf38771",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 135 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 135: C1: 14 | C2: Türkiye (TR) | C3: — Dried figs | C4: 0804 20 90 | C5:  | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 135,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Dried figs",
+            "line": 8891,
+            "origin_row": 135,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "0804 20 90",
+            "line": 8896,
+            "origin_row": 135,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8899,
+            "origin_row": 135,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8903,
+            "origin_row": 135,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8907,
+            "origin_row": 135,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E94ef3087a38d021f",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 169 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 169: C1: 14 | C2: Türkiye (TR) | C3: — Flours, meals and powder of dried figs | C4: ex 1106 30 90 | C5: 60 | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 169,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Flours, meals and powder of dried figs",
+            "line": 9619,
+            "origin_row": 169,
+            "origin_column": 3,
+            "rowspan": 2,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 1106 30 90",
+            "line": 9624,
+            "origin_row": 169,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "60",
+            "line": 9627,
+            "origin_row": 169,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9632,
+            "origin_row": 169,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9636,
+            "origin_row": 169,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E06a0ecc35dbf682b",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 143 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 143: C1: 14 | C2: Türkiye (TR) | C3: — Dried figs, prepared or preserved, including mixtures | C4: ex 2008 97 14 | C5: 11 | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 143,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Dried figs, prepared or preserved, including mixtures",
+            "line": 9047,
+            "origin_row": 142,
+            "origin_column": 3,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 2008 97 14",
+            "line": 9070,
+            "origin_row": 143,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "11",
+            "line": 9073,
+            "origin_row": 143,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9078,
+            "origin_row": 143,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9082,
+            "origin_row": 143,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E9e5a4c286992b511",
+      "document": "EU_2002_178_consolidated_2026-01-01.html",
+      "regulation": "178/2002",
+      "snapshot": "2026-01-01",
+      "source_sha256": "a4baf4a41c38c73cfc3f71f104a6cb213a775009212d80dc07bacdbdd53f42aa",
+      "location": "Article 61a",
+      "kind": "provision",
+      "anchor": "id-afe03388-0139-4a56-aee8-314d937b9526",
+      "line_start": 3861,
+      "line_end": 3867,
+      "text": "Article 61a\nFact-finding missions\nCommission experts shall perform fact-finding missions in Member States to assess the application, by laboratories and by other testing facilities, of the relevant standards for carrying out tests and studies submitted to the Authority as part of an application, as well as compliance with the notification obligation set out in Article 32b(3), by 28 March 2025. By that date, Commission experts shall also perform fact-finding missions to assess the application of those standards by laboratories and other testing facilities located in third countries insofar as set out in relevant agreements and arrangements with those third countries, including as referred to in Article 49.\nNon-compliance identified during those fact-finding missions shall be brought to the attention of the Commission, Member States, the Authority as well as the assessed laboratories and other testing facilities. The Commission, the Authority and Member States shall ensure the appropriate follow-up to such identified non-compliance.\nThe outcome of these fact-finding missions shall be presented in an overview report. On the basis of that report, the Commission shall submit a legislative proposal, if appropriate, as regards, in particular, any necessary control procedures, including audits.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/eng#id-afe03388-0139-4a56-aee8-314d937b9526",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E53feab25690fd9a8",
+      "document": "EU_2019__1013_original.html",
+      "regulation": "2019/1013",
+      "snapshot": "original act (not consolidated)",
+      "source_sha256": "54ee4dc43c3be8a231b6fb5eb8183f9477b392bde9e4afe7ff94b7bded7ebe70",
+      "location": "Article 1",
+      "kind": "provision",
+      "anchor": "d1e123-8-1",
+      "line_start": 151,
+      "line_end": 162,
+      "text": "Article 1\nPrior notification of consignments\n1. The operator responsible for a consignment falling within the categories of animals and goods referred to in Article 47(1) of Regulation (EU) 2017/625 shall give prior notification, to the competent authority of the border control post of first arrival into the Union, at least one working day before the expected arrival of the consignment.\n2. By way of derogation from paragraph 1, where logistical constraints prevent compliance with the time limit set out in that paragraph, the competent authorities of the border control posts may apply a period of prior notification of at least four hours before the expected arrival of the consignment.\n3. By way of derogation from paragraph 1, the competent authorities of border control posts designated for imports of unprocessed logs and sawn and chipped wood in accordance with Article 4 of Commission Delegated Regulation (EU) 2019/1012 may apply a period of prior notification of up to five working days before the expected arrival of such consignments.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1013/oj/eng#d1e123-8-1",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E503ff1855a85ba61",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 133 / entry 13",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 8864,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 133: C1: 13 | C2: Sudan (SD) | C3: (Food) | C4: ex 2008 19 19 | C5: 49 | C6: Salmonella (5) | C7: 50\nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 132: C1: 13 | C2: Sudan (SD) | C3: Sesamum seeds | C4: 1207 40 90 | C5:  | C6: Salmonella (5) | C7: 50\nHTML row 133: C1: 13 | C2: Sudan (SD) | C3: (Food) | C4: ex 2008 19 19 | C5: 49 | C6: Salmonella (5) | C7: 50\nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.\nFootnote #E0026: (5) The sampling and the analyses shall be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(a) of Annex III.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022",
+        "#E0026"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 133,
+        "cells": [
+          {
+            "text": "13",
+            "line": 8823,
+            "origin_row": 132,
+            "origin_column": 1,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Sudan (SD)",
+            "line": 8826,
+            "origin_row": 132,
+            "origin_column": 2,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "(Food)",
+            "line": 8852,
+            "origin_row": 133,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 2008 19 19",
+            "line": 8859,
+            "origin_row": 133,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "49",
+            "line": 8862,
+            "origin_row": 133,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Salmonella (5)",
+            "line": 8842,
+            "origin_row": 132,
+            "origin_column": 6,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "50",
+            "line": 8847,
+            "origin_row": 132,
+            "origin_column": 7,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          132,
+          133
+        ],
+        "context": [
+          "HTML row 132: C1: 13 | C2: Sudan (SD) | C3: Sesamum seeds | C4: 1207 40 90 | C5:  | C6: Salmonella (5) | C7: 50",
+          "HTML row 133: C1: 13 | C2: Sudan (SD) | C3: (Food) | C4: ex 2008 19 19 | C5: 49 | C6: Salmonella (5) | C7: 50"
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ee9f3256fffadc3fa",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 134 / entry 13",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 8878,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 134: C1: 13 | C2: Sudan (SD) | C3:  | C4: ex 2008 19 99 | C5: 49 | C6: Salmonella (5) | C7: 50\nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 134,
+        "cells": [
+          {
+            "text": "13",
+            "line": 8823,
+            "origin_row": 132,
+            "origin_column": 1,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Sudan (SD)",
+            "line": 8826,
+            "origin_row": 132,
+            "origin_column": 2,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8869,
+            "origin_row": 134,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 2008 19 99",
+            "line": 8873,
+            "origin_row": 134,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "49",
+            "line": 8876,
+            "origin_row": 134,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Salmonella (5)",
+            "line": 8842,
+            "origin_row": 132,
+            "origin_column": 6,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "50",
+            "line": 8847,
+            "origin_row": 132,
+            "origin_column": 7,
+            "rowspan": 3,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          134
+        ],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E176e63da6f47ac12",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 136 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 136: C1: 14 | C2: Türkiye (TR) | C3: — Mixtures of nuts or dried fruits containing figs | C4: ex 0813 50 99 | C5: 50 | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 136,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Mixtures of nuts or dried fruits containing figs",
+            "line": 8913,
+            "origin_row": 136,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 0813 50 99",
+            "line": 8918,
+            "origin_row": 136,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "50",
+            "line": 8921,
+            "origin_row": 136,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8926,
+            "origin_row": 136,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8930,
+            "origin_row": 136,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E8a9c21569cea7563",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 137 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 137: C1: 14 | C2: Türkiye (TR) | C3: — Dried fig paste | C4: ex 2007 10 10 | C5: 50 | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 137,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Dried fig paste",
+            "line": 8936,
+            "origin_row": 137,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 2007 10 10",
+            "line": 8941,
+            "origin_row": 137,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "50",
+            "line": 8944,
+            "origin_row": 137,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8949,
+            "origin_row": 137,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 8953,
+            "origin_row": 137,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E50047e27da3469c3",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 168 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 168: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 99 99 | C5: 60 | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 168,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9597,
+            "origin_row": 168,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "ex 2008 99 99",
+            "line": 9601,
+            "origin_row": 168,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "60",
+            "line": 9604,
+            "origin_row": 168,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9609,
+            "origin_row": 168,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9613,
+            "origin_row": 168,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Eb0ab4f8d5e9ff4c2",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 171 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 9681,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 171: C1: 14 | C2: Türkiye (TR) | C3: (Food) | C4:  | C5:  | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30\nHTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: \nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 171,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "(Food)",
+            "line": 9660,
+            "origin_row": 171,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9667,
+            "origin_row": 171,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9671,
+            "origin_row": 171,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9675,
+            "origin_row": 171,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9679,
+            "origin_row": 171,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "context": [
+          "HTML row 150: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 51 | C5: 11 | C6: Aflatoxins and | C7: 30",
+          "HTML row 151: C1: 14 | C2: Türkiye (TR) | C3:  | C4: ex 2008 97 59 | C5: 11 | C6: Ochratoxin A | C7: "
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E5f937b7c244dd03b",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX II / table 2 / HTML row 172 / entry 14",
+      "kind": "table_row",
+      "anchor": "id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "line_start": 5978,
+      "line_end": 10440,
+      "text": "ANNEX II\nTable headers:\nC1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)\nHTML row 172: C1: 14 | C2: Türkiye (TR) | C3: — Pistachios, in shell | C4: 0802 51 00 | C5:  | C6:  | C7: \nSource block context (blank cells are not inferred; verify applicability across rows):\nHTML row 182: C1: 14 | C2: Türkiye (TR) | C3: — Pistachios, otherwise prepared or preserved, including mixtures | C4: ex 2008 19 13 | C5: 20 | C6: Aflatoxins | C7: 50\nFootnote #E0022: (1) Where only certain products under any CN code are required to be examined, the CN code is marked ‘ex’.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-fea68e7f-c56a-436e-a9ba-c35af1f36512",
+      "links": [
+        "#E0022"
+      ],
+      "table": {
+        "table_number": 2,
+        "row_number": 172,
+        "cells": [
+          {
+            "text": "14",
+            "line": 8883,
+            "origin_row": 135,
+            "origin_column": 1,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Türkiye (TR)",
+            "line": 8886,
+            "origin_row": 135,
+            "origin_column": 2,
+            "rowspan": 77,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "— Pistachios, in shell",
+            "line": 9685,
+            "origin_row": 172,
+            "origin_column": 3,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "0802 51 00",
+            "line": 9690,
+            "origin_row": 172,
+            "origin_column": 4,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9693,
+            "origin_row": 172,
+            "origin_column": 5,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9697,
+            "origin_row": 172,
+            "origin_column": 6,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "",
+            "line": 9701,
+            "origin_row": 172,
+            "origin_column": 7,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1: Row | C2: Country of origin | C3: Food and feed (intended use) | C4: CN code (1) | C5: TARIC sub-division | C6: Hazard | C7: Frequency of identity and physical checks (%)"
+        ],
+        "context_row_numbers": [
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206
+        ],
+        "context": [
+          "HTML row 182: C1: 14 | C2: Türkiye (TR) | C3: — Pistachios, otherwise prepared or preserved, including mixtures | C4: ex 2008 19 13 | C5: 20 | C6: Aflatoxins | C7: 50"
+        ],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E5c089437f3b0191e",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 3",
+      "kind": "provision",
+      "anchor": "id-2810f1f8-3ad6-47d3-aa2b-1d6ad097c860",
+      "line_start": 917,
+      "line_end": 985,
+      "text": "Article 3\nSampling and analyses\nThe sampling and the analyses to be carried out by competent authorities at border control posts or at control points referred to in Article 53(1)(a) of Regulation (EU) 2017/625, as part of physical checks on consignments of food and feed referred to in Article 1(1)(a) and (b), or in third countries for the purposes of the results of analyses which are required to accompany the consignments of food and feed referred to in Article 1(1)(b) as provided for in this Regulation shall be performed in accordance with the following requirements:\nfor food listed in Annexes I and II due to possible contamination risk by mycotoxins, including aflatoxins, the sampling and the analyses shall be performed in accordance with Commission Implementing Regulation (EU) 2023/2782 (1);\nfor feed listed in Annexes I and II due to possible contamination risk by mycotoxins, including aflatoxins, the sampling and the analyses shall be performed in accordance with Regulation (EC) No 152/2009;\nfor food and feed listed in Annexes I and II due to possible non-compliance with the maximum allowed levels of pesticides residues the sampling shall be performed in accordance with Directive 2002/63/EC;\nfor food listed in Annexes I and II due to the risk of presence of Salmonella, the sampling and the analyses for the control of Salmonella shall be performed in accordance with the sampling procedures and the analytical reference methods laid down in Annex III;\nthe methods of sampling and analyses referred to in the footnotes to Annexes I and II shall be applied in relation to hazards other than those referred to in points (a), (b), (c) and (e).\nFootnote #E0001: (1) Commission Implementing Regulation (EU) 2023/2782 of 14 December 2023 laying down the methods of sampling and analysis for the control of the levels of mycotoxins in food and repealing Regulation (EC) No 401/2006 (OJ L, 2023/2782, 15.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2782/oj).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-2810f1f8-3ad6-47d3-aa2b-1d6ad097c860",
+      "links": [
+        "#E0001"
+      ],
+      "table": null
+    },
+    {
+      "id": "E44dfdc757d2df2aa",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 4",
+      "kind": "provision",
+      "anchor": "id-838b8512-0b46-4a20-849b-7f1f1f9d3ad1",
+      "line_start": 995,
+      "line_end": 1005,
+      "text": "Article 4\nRelease for free circulation\nThe custom authorities shall only allow the release for free circulation of consignments of food and feed listed in Annexes I and II upon presentation of a duly finalised Common Health Entry Document (CHED) as provided for in Article 57(2)(b) of Regulation (EU) 2017/625, which confirms that the consignment is in compliance with the applicable rules referred to in Article 1(2) of that Regulation.\nSECTION 2\nTEMPORARY INCREASE OF OFFICIAL CONTROLS AT BORDER CONTROL POSTS AND CONTROL POINTS ON CERTAIN FOOD AND FEED FROM CERTAIN THIRD COUNTRIES",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-838b8512-0b46-4a20-849b-7f1f1f9d3ad1",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Eea66b4f1679b9059",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 5",
+      "kind": "provision",
+      "anchor": "id-33c0c710-80f2-4077-8608-df6989ed058b",
+      "line_start": 1008,
+      "line_end": 1018,
+      "text": "Article 5\nList of food and feed of non-animal origin\n1. Consignments of food and feed listed in Annex I shall be subject to a temporary increase of official controls at border control posts at their entry into the Union and at control points.\n2. The identification of the food and feed referred to in paragraph 1 for official controls shall be made on the basis of the codes from the Combined Nomenclature and the TARIC sub-division indicated in Annex I.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-33c0c710-80f2-4077-8608-df6989ed058b",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E5bda6137d4634a57",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 2",
+      "kind": "provision",
+      "anchor": "id-ba0e0bb4-f0a0-428b-9931-dea56e892ac9",
+      "line_start": 851,
+      "line_end": 899,
+      "text": "Article 2\nDefinitions\n1. For the purposes of this Regulation, the following definitions shall apply: (a) ‘consignment’ means ‘consignment’ as defined in Article 3(37) of Regulation (EU) 2017/625; (b) ‘placing on the market’ means ‘placing on the market’ as defined in point (8) of Article 3 of Regulation (EC) No 178/2002. ▼M4 (c) ‘country of origin’ means: (i) the country where the goods originate from, were grown, harvested or produced, where food and feed is listed in the Annexes due to a possible risk of contamination by mycotoxins, including aflatoxins, or by plant toxins, or due to possible non-compliance with maximum allowed levels of pesticide residues; (ii) the country where the goods were produced, manufactured or wrapped where food and feed is listed in the Annexes due to the risk of presence of Salmonella or due to other hazards than those specified in point (i).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-ba0e0bb4-f0a0-428b-9931-dea56e892ac9",
+      "links": [
+        "./../../../../legal-content/EN/AUTO/?uri=celex:32021R1900"
+      ],
+      "table": null
+    },
+    {
+      "id": "Edc7a34df29210621",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 6",
+      "kind": "provision",
+      "anchor": "id-f71b1d89-8d85-4a81-8ecc-cde6a7479d23",
+      "line_start": 1022,
+      "line_end": 1044,
+      "text": "Article 6\nFrequency of identity checks and physical checks\n1. The competent authorities at border control posts and at control points referred to in Article 53(1)(a) of Regulation (EU) 2017/625 shall carry out identity and physical checks, including sampling and laboratory analyses, on consignments of food and feed listed in Annex I at the frequency set out in that Annex.\n2. The frequency of identity and physical checks set out in an entry in Annex I shall be applied as an overall frequency for all products falling under that entry.\nSECTION 3\nSPECIAL CONDITIONS GOVERNING THE ENTRY INTO THE UNION AND SUSPENSION OF ENTRY INTO THE UNION OF CERTAIN FOOD AND FEED FROM CERTAIN THIRD COUNTRIES",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f71b1d89-8d85-4a81-8ecc-cde6a7479d23",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Eb5778b93a88ed5c1",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 7",
+      "kind": "provision",
+      "anchor": "id-958b2a88-ad38-43d0-8601-3c3bc33fdd61",
+      "line_start": 1052,
+      "line_end": 1066,
+      "text": "Article 7\nEntry into the Union\n1. Consignments of food and feed listed in Annex II shall only enter into the Union in accordance with the conditions laid down in this section.\n2. The identification of the food and feed referred to in paragraph 1 for official controls shall be made on the basis of the codes from the Combined Nomenclature and the TARIC sub-division indicated in Annex II.\n3. Consignments referred to in paragraph 1 shall be subject to official controls at border control posts at their entry into the Union and at control points.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-958b2a88-ad38-43d0-8601-3c3bc33fdd61",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E37470f1e9ecea27c",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 8",
+      "kind": "provision",
+      "anchor": "id-b1d4c6ce-14ca-47d9-90ad-c8599f2636d1",
+      "line_start": 1070,
+      "line_end": 1080,
+      "text": "Article 8\nFrequency of identity checks and physical checks\n1. The competent authorities at border control post and at control points referred to in Article 53(1)(a) of Regulation (EU) 2017/625 shall carry out identity and physical checks, including sampling and laboratory analyses, on consignments of food and feed listed in Annex II, at the frequency set out in that Annex.\n2. The frequency of identity and physical checks set out in an entry in Annex II shall be applied as an overall frequency for all products falling under that entry.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-b1d4c6ce-14ca-47d9-90ad-c8599f2636d1",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Ec369db707437897c",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 9",
+      "kind": "provision",
+      "anchor": "id-8e91195f-0370-4bb9-8b76-077154ac0168",
+      "line_start": 1093,
+      "line_end": 1112,
+      "text": "Article 9\nIdentification code\n1. Each consignment of food and feed listed in Annex II shall be identified with an identification code.\n2. Each individual bag or packaging form of the consignment shall be identified with that identification code.\n3. By way of derogation from paragraph 2, in case of a consignment in which the bag or packaging combines several small packages, it is sufficient that the identification code of the consignment is mentioned on the bag or packaging combining these small packages.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-8e91195f-0370-4bb9-8b76-077154ac0168",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "Ef1fe4fee24b0bc76",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "Article 10",
+      "kind": "provision",
+      "anchor": "id-060d2fb0-6471-4633-9ed2-2f8bf87710c2",
+      "line_start": 1121,
+      "line_end": 1195,
+      "text": "Article 10\nResults of sampling and analyses performed by the competent authorities of the third country\n1. Each consignment of food and feed listed in Annex II shall be accompanied by the results of sampling and analyses performed on that consignment by the competent authorities of the third country of origin or of the country where the consignment is consigned from if that country is different from the country of origin.\n2. On the basis of the results referred to in paragraph 1, the competent authorities shall ascertain: ▼M12 (a) compliance with Commission Regulation (EU) 2023/915 (2) and Directive 2002/32/EC on maximum levels of relevant mycotoxins, for consignments of food and feed listed in Annex II due to contamination risk by mycotoxins and plant toxins. ▼B (b) compliance with Regulation (EC) No 396/2005 on maximum residue levels of pesticides, for consignments of food and feed listed in Annex II due to contamination risk by pesticide residues; ▼M12 ————— ▼B (d) the absence of Salmonella in 25 g, for consignments of food listed in Annex II due to risk of microbiological contamination by Salmonella.\n4. The results of sampling and analyses referred to in paragraph 1 shall bear the identification code of the consignment to which they relate referred to in Article 9(1).\n5. The analyses referred to in paragraph 1 shall be performed by laboratories accredited in accordance with the standard ISO/IEC 17025 on ‘General requirements for the competence of testing and calibration laboratories’.\nFootnote #E0002: (2) Commission Regulation (EU) 2023/915 of 25 April 2023 on maximum levels for certain contaminants in food and repealing Regulation (EC) No 1881/2006 (OJ L 119, 5.5.2023, p. 103, ELI: http://data.europa.eu/eli/reg/2023/915/oj).",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-060d2fb0-6471-4633-9ed2-2f8bf87710c2",
+      "links": [
+        "./../../../../legal-content/EN/AUTO/?uri=celex:32025R1441",
+        "#E0002",
+        "./../../../../legal-content/EN/AUTO/?uri=celex:32019R1793"
+      ],
+      "table": null
+    },
+    {
+      "id": "Ea7b470edba436672",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV",
+      "kind": "provision",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11694,
+      "line_end": 11778,
+      "text": "ANNEX IV\nMODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 11 OF COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793 FOR THE ENTRY INTO THE UNION OF CERTAIN FOOD OR FEED\nNOTES FOR THE COMPLETION OF THE MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 11 OF COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793 FOR THE ENTRY INTO THE UNION OF CERTAIN FOOD OR FEED\nGeneral\nTo positively select any option, please tick or mark the relevant box with a cross (X).\nOnly one of the options may be selected in boxes I.18, I.20.\nSelect among points II.2.1, II.2.2, II.2.3 and II.2.4, the point(s) corresponding to the category of product and the hazard(s) for which the certification is given.\nUnless otherwise indicated, all boxes are compulsory.\nIf the consignee, the entry border control post (BCP) or the transport details (that is to say, the means and date) change after the certificate has been issued, the operator responsible for the consignment must advise the competent authority of the Member State of entry. Such a change shall not result in a request for a replacement certificate.\nIn case the certificate is submitted in the information management system for official controls (IMSOC), the following applies:\nIn case the official certificate is not submitted in the IMSOC, the statements which are not relevant must be crossed out, initialled and stamped by the certifying officer, or completely removed from the certificate.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": null
+    },
+    {
+      "id": "E04325857faee0aeb",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 1",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11790,
+      "line_end": 11793,
+      "text": "ANNEX IV\nHTML row 1: C1: PART I – DESCRIPTION OF CONSIGNMENT | C2: PART I – DESCRIPTION OF CONSIGNMENT",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 1,
+        "cells": [
+          {
+            "text": "PART I – DESCRIPTION OF CONSIGNMENT",
+            "line": 11791,
+            "origin_row": 1,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 2,
+            "header": false
+          },
+          {
+            "text": "PART I – DESCRIPTION OF CONSIGNMENT",
+            "line": 11791,
+            "origin_row": 1,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 2,
+            "header": false
+          }
+        ],
+        "headers": [],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ea68f297a26570559",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 2",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11797,
+      "line_end": 11805,
+      "text": "ANNEX IV\nHTML row 2: C1: Box | C2: Description",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 2,
+        "cells": [
+          {
+            "text": "Box",
+            "line": 11798,
+            "origin_row": 2,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Description",
+            "line": 11803,
+            "origin_row": 2,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ed7fe32b42fec546f",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 3",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11816,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 3: C1:  | C2: Country",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 3,
+        "cells": [
+          {
+            "text": "",
+            "line": 11810,
+            "origin_row": 3,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Country",
+            "line": 11814,
+            "origin_row": 3,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ea8b90c8f9279deb4",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 4",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11826,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 4: C1:  | C2: Indicate the name of the third country issuing the certificate.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 4,
+        "cells": [
+          {
+            "text": "",
+            "line": 11821,
+            "origin_row": 4,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Indicate the name of the third country issuing the certificate.",
+            "line": 11825,
+            "origin_row": 4,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E35e1095598cd5278",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 5",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11837,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 5: C1: I.1 | C2: Consignor/Exporter",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 5,
+        "cells": [
+          {
+            "text": "I.1",
+            "line": 11830,
+            "origin_row": 5,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Consignor/Exporter",
+            "line": 11835,
+            "origin_row": 5,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E01e7e89317cc9f5c",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 6",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11847,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 6: C1:  | C2: Indicate the name and address, country and ISO country code (1), of the natural or legal person dispatching the consignment. This person shall be established in a third country, except for the re-entry of consignments originating in the Union.\nFootnote #E0041: (1) International standard two-letter code for a country in accordance with the ISO 3166 alpha-2 international standard; http://www.iso.org/iso/country_codes/iso-3166-1_decoding_table.htm.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [
+        "#E0041"
+      ],
+      "table": {
+        "table_number": 7,
+        "row_number": 6,
+        "cells": [
+          {
+            "text": "",
+            "line": 11842,
+            "origin_row": 6,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Indicate the name and address, country and ISO country code (1), of the natural or legal person dispatching the consignment. This person shall be established in a third country, except for the re-entry of consignments originating in the Union.",
+            "line": 11846,
+            "origin_row": 6,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E432769c3c173f258",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 7",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11858,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 7: C1: I.2 | C2: Certificate reference",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 7,
+        "cells": [
+          {
+            "text": "I.2",
+            "line": 11851,
+            "origin_row": 7,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Certificate reference",
+            "line": 11856,
+            "origin_row": 7,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E517cf2cee627a4f7",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 8",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11868,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 8: C1:  | C2: Indicate the unique alphanumeric code assigned by the competent authority of the third country. This box is not compulsory for certificates submitted in the IMSOC. Repeated in box II.a.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 8,
+        "cells": [
+          {
+            "text": "",
+            "line": 11863,
+            "origin_row": 8,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Indicate the unique alphanumeric code assigned by the competent authority of the third country. This box is not compulsory for certificates submitted in the IMSOC. Repeated in box II.a.",
+            "line": 11867,
+            "origin_row": 8,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "Ee37fb937a94782ab",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 9",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11879,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 9: C1: I.2a | C2: IMSOC reference",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 9,
+        "cells": [
+          {
+            "text": "I.2a",
+            "line": 11872,
+            "origin_row": 9,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "IMSOC reference",
+            "line": 11877,
+            "origin_row": 9,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E0c3fb07f2faefa9f",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 10",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11890,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 10: C1:  | C2: This is the unique alphanumeric code assigned by the IMSOC. Repeated in box II.b. This box shall not be completed if the certificate is not submitted in the IMSOC.",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 10,
+        "cells": [
+          {
+            "text": "",
+            "line": 11884,
+            "origin_row": 10,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "This is the unique alphanumeric code assigned by the IMSOC. Repeated in box II.b. This box shall not be completed if the certificate is not submitted in the IMSOC.",
+            "line": 11888,
+            "origin_row": 10,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    },
+    {
+      "id": "E5e339c5a229b4164",
+      "document": "EU_2019_1793_consolidated_2026-06-30.html",
+      "regulation": "2019/1793",
+      "snapshot": "2026-06-30",
+      "source_sha256": "28a198813361a3046b196439e26771fb70507c4c92f5e3134b08b37bd32c5531",
+      "location": "ANNEX IV / table 7 / HTML row 11",
+      "kind": "table_row",
+      "anchor": "id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "line_start": 11809,
+      "line_end": 11901,
+      "text": "ANNEX IV\nTable headers:\nC1:  | C2: Country\nHTML row 11: C1: I.3 | C2: Central competent authority",
+      "source_url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/2026-06-30/eng#id-f513c423-f241-4351-ab0b-b3260c1741fc",
+      "links": [],
+      "table": {
+        "table_number": 7,
+        "row_number": 11,
+        "cells": [
+          {
+            "text": "I.3",
+            "line": 11894,
+            "origin_row": 11,
+            "origin_column": 1,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          },
+          {
+            "text": "Central competent authority",
+            "line": 11899,
+            "origin_row": 11,
+            "origin_column": 2,
+            "rowspan": 1,
+            "colspan": 1,
+            "header": false
+          }
+        ],
+        "headers": [
+          "C1:  | C2: Country"
+        ],
+        "context_row_numbers": [],
+        "context": [],
+        "blank_cells_inferred": false
+      }
+    }
+  ],
+  "events": [
+    {
+      "event": "tool_call",
+      "phase": "discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply?"
+      },
+      "result_ids": [
+        "E305232248b71caf8",
+        "E1a5961ff7da4f5a4",
+        "Ee51682f68bbb71af",
+        "E6bca7a90fd98143a",
+        "Eab1cba8cb8c4c665",
+        "Ea8570dc75adaea4c"
+      ],
+      "new_ids": [
+        "E305232248b71caf8",
+        "E1a5961ff7da4f5a4",
+        "Ee51682f68bbb71af",
+        "E6bca7a90fd98143a",
+        "Eab1cba8cb8c4c665",
+        "Ea8570dc75adaea4c"
+      ],
+      "scores": {
+        "E305232248b71caf8": 10.45339,
+        "E1a5961ff7da4f5a4": 8.98193,
+        "Ee51682f68bbb71af": 8.63923,
+        "E6bca7a90fd98143a": 7.95544,
+        "Eab1cba8cb8c4c665": 7.7347,
+        "Ea8570dc75adaea4c": 7.29898
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected"
+      },
+      "result_ids": [
+        "E0c17d35a62395acf",
+        "E51e78c2d4288a872",
+        "Ebc6b425f0928fd3c",
+        "Ec3c379af9bf38771",
+        "E94ef3087a38d021f",
+        "E06a0ecc35dbf682b"
+      ],
+      "new_ids": [
+        "E0c17d35a62395acf",
+        "E51e78c2d4288a872",
+        "Ebc6b425f0928fd3c",
+        "Ec3c379af9bf38771",
+        "E94ef3087a38d021f",
+        "E06a0ecc35dbf682b"
+      ],
+      "scores": {
+        "E0c17d35a62395acf": 17.32014,
+        "E51e78c2d4288a872": 9.98431,
+        "Ebc6b425f0928fd3c": 8.67138,
+        "Ec3c379af9bf38771": 8.67138,
+        "E94ef3087a38d021f": 8.55022,
+        "E06a0ecc35dbf682b": 8.52643
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "178/2002",
+        "limit": 1
+      },
+      "result_ids": [
+        "E9e5a4c286992b511"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2017/625",
+        "limit": 1
+      },
+      "result_ids": [
+        "E305232248b71caf8"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2019/1793",
+        "limit": 1
+      },
+      "result_ids": [
+        "Ebc6b425f0928fd3c"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2019/1013",
+        "limit": 1
+      },
+      "result_ids": [
+        "E53feab25690fd9a8"
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "catalog_discovery",
+      "action": {
+        "tool": "search",
+        "query": "If so, what controls, sampling/testing requirements, or documentation requirements currently apply? Dried figs Türkiye Aflatoxin B1 detected",
+        "regulation": "2023/915",
+        "limit": 1
+      },
+      "result_ids": [
+        "E0c17d35a62395acf"
+      ]
+    },
+    {
+      "event": "investigation_decision",
+      "round": 1,
+      "issues": [
+        "Annex II listing and applicability to dried figs (Türkiye)",
+        "Special import conditions: certificate, laboratory results, and entry notification",
+        "Official-control sampling and analytical requirements",
+        "Applicable aflatoxin limits and shipment-specific exceedance"
+      ],
+      "missing_evidence": [
+        "The Annex II table context is needed to confirm which hazard and check-frequency entries apply to the dried-fig CN code.",
+        "Specific conditions for listed consignments, including any certificate and analysis requirements, are not yet retrieved.",
+        "The specific EU sampling and analytical rules for aflatoxins are not established by the retrieved records; the catalog may not contain the relevant act.",
+        "Shipment CN code, concentration and total-aflatoxin result, intended use, shipment stage, and compliance status are unknown. The snapshots are not verified current law."
+      ],
+      "ready": false,
+      "actions": [
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ec3c379af9bf38771"
+        },
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ebc6b425f0928fd3c"
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 3",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 4",
+          "evidence_id": ""
+        }
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ec3c379af9bf38771"
+      },
+      "result_ids": [
+        "E503ff1855a85ba61",
+        "Ee9f3256fffadc3fa",
+        "Ec3c379af9bf38771",
+        "E176e63da6f47ac12",
+        "E8a9c21569cea7563"
+      ],
+      "new_ids": [
+        "E503ff1855a85ba61",
+        "Ee9f3256fffadc3fa",
+        "E176e63da6f47ac12",
+        "E8a9c21569cea7563"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ebc6b425f0928fd3c"
+      },
+      "result_ids": [
+        "E50047e27da3469c3",
+        "E94ef3087a38d021f",
+        "Ebc6b425f0928fd3c",
+        "Eb0ab4f8d5e9ff4c2",
+        "E5f937b7c244dd03b"
+      ],
+      "new_ids": [
+        "E50047e27da3469c3",
+        "Eb0ab4f8d5e9ff4c2",
+        "E5f937b7c244dd03b"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 3",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "E5c089437f3b0191e"
+      ],
+      "new_ids": [
+        "E5c089437f3b0191e"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 4",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "E44dfdc757d2df2aa"
+      ],
+      "new_ids": [
+        "E44dfdc757d2df2aa"
+      ],
+      "scores": null
+    },
+    {
+      "event": "investigation_decision",
+      "round": 2,
+      "issues": [
+        "Whether dried figs (CN 0804 20 90) fall within Türkiye’s Annex II aflatoxin listing and control frequency",
+        "Special-import documents and entry notification",
+        "Official sampling and analysis method for aflatoxins",
+        "Applicable aflatoxin limits and whether the detected result exceeds them"
+      ],
+      "missing_evidence": [
+        "The Annex II row sequence is needed to determine whether the aflatoxin hazard and 30% check frequency apply to dried figs themselves or only to later listed goods.",
+        "The text of the special-import documentation provisions is not yet retrieved.",
+        "Regulation (EU) 2023/2782, cited for aflatoxin sampling and analysis, is absent from the catalog; its detailed method cannot be verified here.",
+        "No Aflatoxin B1 concentration, total aflatoxins result, shipment classification/intended use, or shipment-stage information is provided, so exceedance and shipment-specific requirements cannot be determined.",
+        "The catalog contains frozen snapshots, not verified current law."
+      ],
+      "ready": false,
+      "actions": [
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ec3c379af9bf38771"
+        },
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ebc6b425f0928fd3c"
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 5",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 2",
+          "evidence_id": ""
+        }
+      ]
+    },
+    {
+      "event": "duplicate_action_skipped",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ec3c379af9bf38771"
+      }
+    },
+    {
+      "event": "duplicate_action_skipped",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ebc6b425f0928fd3c"
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 5",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Eea66b4f1679b9059"
+      ],
+      "new_ids": [
+        "Eea66b4f1679b9059"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 2",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "E5bda6137d4634a57"
+      ],
+      "new_ids": [
+        "E5bda6137d4634a57"
+      ],
+      "scores": null
+    },
+    {
+      "event": "investigation_decision",
+      "round": 3,
+      "issues": [
+        "Annex II listing and control frequency for dried figs from Türkiye",
+        "Whether special import conditions and supporting documents apply",
+        "Prior notification and CHED requirements",
+        "Aflatoxin sampling and analysis method",
+        "Aflatoxin maximum level and shipment-specific compliance"
+      ],
+      "missing_evidence": [
+        "The Annex II entries around dried figs do not establish from the supplied evidence whether the aflatoxin hazard and 30% identity/physical-check frequency apply to CN 0804 20 90.",
+        "The full applicable provisions on special import conditions and required certificates/results are not supplied.",
+        "Commission Implementing Regulation (EU) 2023/2782, referenced for mycotoxin sampling and analysis, is absent from the catalog.",
+        "The measured AFB1 concentration, total aflatoxins, applicable product classification/use, and shipment stage are unknown; detection alone does not establish exceedance or determine import-document obligations."
+      ],
+      "ready": false,
+      "actions": [
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ec3c379af9bf38771"
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 6",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 7",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 8",
+          "evidence_id": ""
+        }
+      ]
+    },
+    {
+      "event": "duplicate_action_skipped",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ec3c379af9bf38771"
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 6",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Edc7a34df29210621"
+      ],
+      "new_ids": [
+        "Edc7a34df29210621"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 7",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Eb5778b93a88ed5c1"
+      ],
+      "new_ids": [
+        "Eb5778b93a88ed5c1"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 8",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "E37470f1e9ecea27c"
+      ],
+      "new_ids": [
+        "E37470f1e9ecea27c"
+      ],
+      "scores": null
+    },
+    {
+      "event": "investigation_decision",
+      "round": 4,
+      "issues": [
+        "Annex II applicability and check frequency for dried figs from Türkiye",
+        "Special-import certificate and analytical-result requirements",
+        "Prior notification and CHED documentation",
+        "Mycotoxin sampling and analysis method",
+        "Applicable aflatoxin maximum levels and shipment-specific compliance"
+      ],
+      "missing_evidence": [
+        "The Annex II table’s surrounding rows are needed to establish whether the aflatoxin hazard and 30% identity/physical-check frequency also apply to the dried-fig entry; its own cells are blank.",
+        "The cited sampling-and-analysis act, Commission Implementing Regulation (EU) 2023/2782, is absent from the catalog.",
+        "The detected AFB1 concentration, total aflatoxins, product classification/intended use, and shipment stage are unknown; detection alone does not establish a maximum-level exceedance or which controls have occurred."
+      ],
+      "ready": false,
+      "actions": [
+        {
+          "tool": "neighbors",
+          "query": "",
+          "regulation": "",
+          "location": "",
+          "evidence_id": "Ec3c379af9bf38771"
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 9",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "Article 10",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "",
+          "regulation": "2019/1793",
+          "location": "ANNEX IV",
+          "evidence_id": ""
+        }
+      ]
+    },
+    {
+      "event": "duplicate_action_skipped",
+      "action": {
+        "tool": "neighbors",
+        "query": "",
+        "regulation": "",
+        "location": "",
+        "evidence_id": "Ec3c379af9bf38771"
+      }
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 9",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Ec369db707437897c"
+      ],
+      "new_ids": [
+        "Ec369db707437897c"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "Article 10",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Ef1fe4fee24b0bc76"
+      ],
+      "new_ids": [
+        "Ef1fe4fee24b0bc76"
+      ],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "",
+        "regulation": "2019/1793",
+        "location": "ANNEX IV",
+        "evidence_id": ""
+      },
+      "result_ids": [
+        "Ea7b470edba436672",
+        "E04325857faee0aeb",
+        "Ea68f297a26570559",
+        "Ed7fe32b42fec546f",
+        "Ea8b90c8f9279deb4",
+        "E35e1095598cd5278",
+        "E01e7e89317cc9f5c",
+        "E432769c3c173f258",
+        "E517cf2cee627a4f7",
+        "Ee37fb937a94782ab",
+        "E0c3fb07f2faefa9f",
+        "E5e339c5a229b4164"
+      ],
+      "new_ids": [
+        "Ea7b470edba436672",
+        "E04325857faee0aeb",
+        "Ea68f297a26570559",
+        "Ed7fe32b42fec546f",
+        "Ea8b90c8f9279deb4",
+        "E35e1095598cd5278",
+        "E01e7e89317cc9f5c",
+        "E432769c3c173f258",
+        "E517cf2cee627a4f7",
+        "Ee37fb937a94782ab",
+        "E0c3fb07f2faefa9f",
+        "E5e339c5a229b4164"
+      ],
+      "scores": null
+    },
+    {
+      "event": "evidence_review",
+      "verdicts": [
+        {
+          "claim_id": "C1",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C2",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C3",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C4",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C5",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C6",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C7",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C8",
+          "supported": true,
+          "problem": ""
+        },
+        {
+          "claim_id": "C9",
+          "supported": true,
+          "problem": ""
+        }
+      ],
+      "coverage_gaps": [
+        "The snapshots are not verified current law, so the currently applicable listing and requirements remain unconfirmed.",
+        "The supplied dried-fig Annex II row has blank hazard and check-frequency cells. The applicable hazard designation and frequency cannot be established from these records, and the 30% frequency for other CN codes cannot be attributed to this row.",
+        "The detailed sampling and analytical requirements in Regulation (EU) 2023/2782 were not supplied; whether its conditional rule applies to this Annex II entry also remains unresolved.",
+        "The evidence does not establish whether an official certificate or prior notification is required for this particular consignment. Shipment classification, stage, and applicable category are not provided.",
+        "Detection alone does not establish an exceedance. The shipment’s measured concentration and relevant analytical details are missing."
+      ],
+      "follow_up_actions": [
+        {
+          "tool": "lookup",
+          "query": "Retrieve the detailed aflatoxin sampling and analytical requirements, including applicable sampling plans and interpretation rules",
+          "regulation": "2023/2782",
+          "location": "Full text and annexes",
+          "evidence_id": ""
+        },
+        {
+          "tool": "neighbors",
+          "query": "Retrieve the full Annex II Türkiye dried-fig entry and surrounding table context, including hazard, frequency, footnotes, and any applicable notes",
+          "regulation": "2019/1793",
+          "location": "ANNEX II, table 2, Türkiye dried figs, CN 0804 20 90",
+          "evidence_id": "Ec3c379af9bf38771"
+        },
+        {
+          "tool": "lookup",
+          "query": "Retrieve the categories requiring prior notification and their application to goods listed in Annex II",
+          "regulation": "2017/625",
+          "location": "Article 47(1)",
+          "evidence_id": ""
+        },
+        {
+          "tool": "lookup",
+          "query": "Retrieve the certificate provisions and any conditions/exemptions relevant to the Türkiye dried-fig Annex II entry",
+          "regulation": "2019/1793",
+          "location": "Articles 10–11 and applicable Annex IV provisions",
+          "evidence_id": ""
+        }
+      ]
+    },
+    {
+      "event": "tool_call",
+      "phase": "review_follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "Retrieve the detailed aflatoxin sampling and analytical requirements, including applicable sampling plans and interpretation rules",
+        "regulation": "2023/2782",
+        "location": "Full text and annexes",
+        "evidence_id": ""
+      },
+      "result_ids": [],
+      "new_ids": [],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "review_follow_up",
+      "action": {
+        "tool": "neighbors",
+        "query": "Retrieve the full Annex II Türkiye dried-fig entry and surrounding table context, including hazard, frequency, footnotes, and any applicable notes",
+        "regulation": "2019/1793",
+        "location": "ANNEX II, table 2, Türkiye dried figs, CN 0804 20 90",
+        "evidence_id": "Ec3c379af9bf38771"
+      },
+      "result_ids": [
+        "E503ff1855a85ba61",
+        "Ee9f3256fffadc3fa",
+        "Ec3c379af9bf38771",
+        "E176e63da6f47ac12",
+        "E8a9c21569cea7563"
+      ],
+      "new_ids": [],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "review_follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "Retrieve the categories requiring prior notification and their application to goods listed in Annex II",
+        "regulation": "2017/625",
+        "location": "Article 47(1)",
+        "evidence_id": ""
+      },
+      "result_ids": [],
+      "new_ids": [],
+      "scores": null
+    },
+    {
+      "event": "tool_call",
+      "phase": "review_follow_up",
+      "action": {
+        "tool": "lookup",
+        "query": "Retrieve the certificate provisions and any conditions/exemptions relevant to the Türkiye dried-fig Annex II entry",
+        "regulation": "2019/1793",
+        "location": "Articles 10–11 and applicable Annex IV provisions",
+        "evidence_id": ""
+      },
+      "result_ids": [],
+      "new_ids": [],
+      "scores": null
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "030fa438-6660-4125-aef8-1538e0776d16",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 9253,
+      "output_tokens": 790,
+      "reasoning_tokens": 509,
+      "api_cost_usd": 0.0004878,
+      "error": null,
+      "wall_seconds": 7.3901,
+      "response_id": "resp_05a932daaa62a995016ada5560f97087d2be5536e3d8df5e80",
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 9250
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "37601b7e-5ed6-4efd-9f09-44e4d7bbaada",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 12843,
+      "output_tokens": 746,
+      "reasoning_tokens": 424,
+      "api_cost_usd": 0.0019783,
+      "error": null,
+      "wall_seconds": 7.4518,
+      "response_id": "resp_0e4629d5f613cc9a016ada556851a087d2b9c56cbf24850bde",
+      "input_tokens_details": {
+        "cache_write_tokens": 12840,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "3e17832b-7800-4387-8552-58c79593ce47",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 13198,
+      "output_tokens": 817,
+      "reasoning_tokens": 515,
+      "api_cost_usd": 0.002058175,
+      "error": null,
+      "wall_seconds": 7.624,
+      "response_id": "resp_0b0d5dd9b7e255bd016ada556fc25487d2ba4138f11134286d",
+      "input_tokens_details": {
+        "cache_write_tokens": 13195,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "investigate",
+      "call_id": "1fe55eee-196b-4552-baad-4a8e350be254",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 13558,
+      "output_tokens": 990,
+      "reasoning_tokens": 701,
+      "api_cost_usd": 0.002189675,
+      "error": null,
+      "wall_seconds": 10.0154,
+      "response_id": "resp_0dc3bc3d874367e7016ada5577725c87d29f636cd30327b4b2",
+      "input_tokens_details": {
+        "cache_write_tokens": 13555,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "assess",
+      "call_id": "6bdf2be8-c84c-4a40-9489-63fc2a012b22",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 16128,
+      "output_tokens": 3809,
+      "reasoning_tokens": 1707,
+      "api_cost_usd": 0.003920425,
+      "error": null,
+      "wall_seconds": 31.0414,
+      "response_id": "resp_0d071808b5c1a6ad016ada55817b8087d28656c99fa787b24b",
+      "input_tokens_details": {
+        "cache_write_tokens": 16125,
+        "cached_tokens": 0
+      }
+    },
+    {
+      "event": "llm_call",
+      "stage": "review",
+      "call_id": "556c366f-8d04-44d1-9f7d-16f5f37f9803",
+      "model": "gpt-6-luna",
+      "reserved_usd": 0.5295,
+      "input_tokens": 17943,
+      "output_tokens": 1486,
+      "reasoning_tokens": 772,
+      "api_cost_usd": 0.0029858,
+      "error": null,
+      "wall_seconds": 11.6179,
+      "response_id": "resp_0b916dc8b7719bf0016ada55a0912487d29501af3ce492e0ce",
+      "input_tokens_details": {
+        "cache_write_tokens": 17940,
+        "cached_tokens": 0
+      }
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.",
+    "A referenced external act is not evidence of its contents unless that act is present in the corpus.",
+    "Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.",
+    "Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+  ],
+  "metrics": {
+    "llm_calls": 6,
+    "workflow_model_calls": 6,
+    "tool_calls": 23,
+    "input_tokens": 82923,
+    "output_tokens": 8638,
+    "reasoning_tokens": 4628,
+    "api_cost_usd": 0.013620175,
+    "wall_seconds": 75.2485,
+    "retrieved_records": 42
+  },
+  "final_answer": "Regulatory assessment — partial\nBased on supplied historical snapshots; current law has not been verified.\n\nDirect answer\n- The supplied Annex II snapshot lists dried figs from Türkiye under CN code 0804 20 90. If that is the shipment’s correct classification, the consignment falls within the Annex II listing. (Regulation 2019/1793, ANNEX II / table 2 / HTML row 135 / entry 14 [Ec3c379af9bf38771])\n  Condition: The product must be correctly classified under CN code 0804 20 90.\n\nLegal requirements\n- Consignments listed in Annex II are subject to official controls at border control posts on entry into the Union and at control points. (Regulation 2019/1793, Article 7 [Eb5778b93a88ed5c1])\n  Condition: Applies if the consignment is covered by the Annex II listing, including the relevant CN/TARIC classification.\n- For Annex II-listed consignments, the competent authorities carry out identity and physical checks, including sampling and laboratory analyses, at the frequency specified in Annex II. The supplied dried-fig row does not state a check frequency, and the available records do not establish that the 30% frequency shown for other CN codes applies to dried figs. (Regulation 2019/1793, Article 8 [E37470f1e9ecea27c]; Regulation 2019/1793, ANNEX II / table 2 / HTML row 135 / entry 14 [Ec3c379af9bf38771])\n  Condition: The frequency must be established from the applicable Annex II entry; it cannot be inferred from another row in the same country listing.\n- Each Annex II consignment must be accompanied by results of sampling and analyses performed on that consignment by the competent authority of the country of origin or, if different, the country of consignment. (Regulation 2019/1793, Article 10 [Ef1fe4fee24b0bc76])\n  Condition: Applies if the goods are covered by Annex II.\n- The accompanying analyses must be performed by laboratories accredited to ISO/IEC 17025. (Regulation 2019/1793, Article 10 [Ef1fe4fee24b0bc76])\n  Condition: Applies to the analyses referred to in Article 10(1) for Annex II consignments.\n- A duly finalised CHED is required before customs may allow release for free circulation of consignments listed in Annex I or Annex II. (Regulation 2019/1793, Article 4 [E44dfdc757d2df2aa])\n  Condition: Applies if the consignment is listed in Annex I or Annex II.\n- Each Annex II consignment must carry an identification code; ordinarily, each individual bag or other packaging form must carry that code too. (Regulation 2019/1793, Article 9 [Ec369db707437897c])\n  Condition: If one outer bag or packaging combines several small packages, the code on that outer packaging is sufficient.\n- For food listed in Annex I or II because of possible mycotoxin contamination, including aflatoxins, official sampling and analyses must follow Commission Implementing Regulation (EU) 2023/2782. (Regulation 2019/1793, Article 3 [E5c089437f3b0191e])\n  Condition: The available records do not establish whether the dried-fig entry is listed on the basis of possible mycotoxin contamination; applicability of this method requirement to this consignment therefore remains to be confirmed.\n- The supplied maximum-level table sets dried figs’ aflatoxin B1 maximum at 6.0 μg/kg and the sum of B1, B2, G1 and G2 at 10.0 μg/kg. (Regulation 2023/915, ANNEX I / table 1 / HTML row 6 / entry 1.1.3 [E0c17d35a62395acf])\n  Condition: These are the table values for dried figs; whether this shipment complies cannot be determined without its measured concentration and the relevant analytical results.\n\nUnknown shipment facts\n- The shipment’s confirmed CN code and, where relevant, TARIC subdivision.\n- Whether the Annex II dried-fig entry is listed due to mycotoxin/aflatoxin risk and the applicable identity/physical-check frequency.\n- The shipment’s aflatoxin B1 concentration, total aflatoxins, analytical report, and compliance status.\n- Whether the product is at an import stage requiring the described entry and release procedures, and whether the required documents are already available.\n- Whether the shipment falls within the categories requiring prior notification.\n\nVerification needed\n- These are frozen source snapshots, not verified current law; check the applicable current consolidated texts and Annex II listing before relying on them.\n- The text and detailed sampling requirements of Regulation (EU) 2023/2782 were not supplied.\n- The supplied records do not establish whether an official certificate is required for this specific dried-fig entry, or whether prior notification under Regulation (EU) 2019/1013 applies to this consignment.\n\nUnresolved issues\n- The applicable Annex II hazard designation and check frequency for dried figs under CN 0804 20 90 cannot be established from the supplied row: its hazard and frequency cells are blank, and the 30% value shown for other CN codes cannot safely be attributed to it.\n- The specific official-certificate requirement, if any, and prior-notification applicability for this shipment cannot be determined from the supplied evidence.\n- The shipment’s compliance with aflatoxin limits cannot be assessed from detection alone without the concentration and relevant test details.\n- The snapshots are not verified current law, so the currently applicable listing and requirements remain unconfirmed.\n- The supplied dried-fig Annex II row has blank hazard and check-frequency cells. The applicable hazard designation and frequency cannot be established from these records, and the 30% frequency for other CN codes cannot be attributed to this row.\n- The detailed sampling and analytical requirements in Regulation (EU) 2023/2782 were not supplied; whether its conditional rule applies to this Annex II entry also remains unresolved.\n- The evidence does not establish whether an official certificate or prior notification is required for this particular consignment. Shipment classification, stage, and applicable category are not provided.\n- Detection alone does not establish an exceedance. The shipment’s measured concentration and relevant analytical details are missing.\n- No accepted claim addresses issue: Annex II listing and applicability to dried figs (Türkiye)\n- No accepted claim addresses issue: Special import conditions: certificate, laboratory results, and entry notification\n- No accepted claim addresses issue: Official-control sampling and analytical requirements\n- No accepted claim addresses issue: Applicable aflatoxin limits and shipment-specific exceedance\n- No accepted claim addresses issue: Whether dried figs (CN 0804 20 90) fall within Türkiye’s Annex II aflatoxin listing and control frequency\n- No accepted claim addresses issue: Official sampling and analysis method for aflatoxins\n- No accepted claim addresses issue: Applicable aflatoxin limits and whether the detected result exceeds them\n- No accepted claim addresses issue: Whether special import conditions and supporting documents apply\n- No accepted claim addresses issue: Prior notification and CHED requirements\n- No accepted claim addresses issue: Aflatoxin maximum level and shipment-specific compliance\n- No accepted claim addresses issue: Annex II applicability and check frequency for dried figs from Türkiye\n- No accepted claim addresses issue: Special-import certificate and analytical-result requirements\n- No accepted claim addresses issue: Mycotoxin sampling and analysis method\n\nLimitations\n- Only the supplied frozen HTML corpus was consulted. These snapshots are not verified current law.\n- A referenced external act is not evidence of its contents unless that act is present in the corpus.\n- Source citations and quotes are mechanically checked; semantic review is model-based and may still be wrong.\n- Detection alone does not establish exceedance. Concentration, units, applicable classification and intended use must be established."
+}

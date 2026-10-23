@@ -1,0 +1,18 @@
+{
+  "started_at": "2026-10-22T19:00:33.377220+00:00",
+  "attempted": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q6",
+    "Q7",
+    "Q8",
+    "Q9"
+  ],
+  "remaining": [
+    "Q10"
+  ],
+  "stop_reason": "Q9 failed (exit 2); preserved without retry",
+  "finished_at": "2026-10-22T19:11:06.520315+00:00"
+}

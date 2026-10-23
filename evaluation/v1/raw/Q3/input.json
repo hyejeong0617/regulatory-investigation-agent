@@ -1,0 +1,20 @@
+{
+  "question_id": "Q3",
+  "question": "Does the applicable limit change depending on whether the dried figs are intended for direct consumption or further processing/sorting?",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null,
+    "preceding_question": "What is the applicable EU maximum level for aflatoxin B1 and total aflatoxins in dried figs intended for direct human consumption?",
+    "preceding_answer": null
+  },
+  "history": []
+}

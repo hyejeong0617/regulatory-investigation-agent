@@ -1,0 +1,18 @@
+{
+  "question_id": "Q7",
+  "question": "What regulatory actions may follow if aflatoxin levels exceed the applicable maximum level?",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null
+  },
+  "history": []
+}

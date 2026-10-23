@@ -1,0 +1,18 @@
+{
+  "question_id": "Q8",
+  "question": "Which parts of the assessment depend on current legislation and therefore require checking for amendments or updates?",
+  "context": {
+    "product": "Dried figs",
+    "country_of_origin": "Türkiye",
+    "hazard": "Aflatoxin B1 detected",
+    "jurisdiction": "European Union",
+    "concentration": null,
+    "concentration_unit": null,
+    "total_aflatoxins": null,
+    "intended_use": null,
+    "product_classification": null,
+    "shipment_stage": null,
+    "compliance_status": null
+  },
+  "history": []
+}

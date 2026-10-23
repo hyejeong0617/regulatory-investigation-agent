@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "regulatory-investigator"
+version = "1.0.0"
+description = "Auditable investigations over a frozen EU food law corpus"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+regulatory-agent = "regulatory_agent.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["regulatory_agent*"]
